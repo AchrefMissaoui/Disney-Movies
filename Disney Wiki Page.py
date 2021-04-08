@@ -13,5 +13,4 @@ while i < len(labels) - 1 :
     box[labels[i].get_text(" ",strip=True)] = data[i].get_text(" ",strip=True).replace('\xa0',' ')
     i+=1
 
-for item in box :
-    print(item,':',box[item])
+print(box)

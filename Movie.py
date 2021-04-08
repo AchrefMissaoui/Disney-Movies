@@ -19,6 +19,11 @@ class Movie:
             i = 0
             while i < len(labels) - 1:
                 self.box[labels[i].get_text(" ",strip=True)] = data[i].get_text(" ",strip=True).replace('\xa0',' ')
+                for j in range(10):
+                    string_to_replace = '[' + str(j) + ']'
+                    self.box[labels[i].get_text(" ", strip=True)] = \
+                        self.box[labels[i].get_text(" ",strip=True)].\
+                            replace(string_to_replace,'')
                 i += 1
             return True
         else:
