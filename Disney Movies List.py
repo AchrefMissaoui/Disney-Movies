@@ -35,6 +35,8 @@ def get_info():
     print(all_movies)
     print(movies)
     save_data(all_movies)
+
+#cleans up 'Release Date'
 def clean_date() :
     for item in all_movies:
         print(all_movies[item]['Release date'])
@@ -68,10 +70,53 @@ def clean_date() :
                 print(date_dict['year'])
                 date = datetime.strptime(date_dict['year'], '%Y')
             all_movies[item]['Release date'] = str(date.date())
-get_info()
+
+#Cleans up 'Running Time'
+def clean_time():
+    for item in all_movies:
+        my_time = all_movies[item]['Running time'].split(' ',1)
+        print(my_time[0])
+        all_movies[item]['Running time'] = my_time[0]
+
+#cleans up 'Budget'
+def clean_budget():
+    for item in all_movies:
+        if 'Budget' in all_movies[item]:
+            budget_string = all_movies[item]['Budget']
+            num = float
+            if '$' and 'million' in budget_string:
+                start = budget_string.find('$')
+                end = budget_string.find('million')
+                budget_string = budget_string[start:end:1]
+                budget_string = budget_string.replace('$', '').replace(' ', '')
+            elif '$' in budget_string:
+                budget_string = budget_string.replace('$', '').replace(',', '').replace(' ', '')
+            if '–' in budget_string:
+                budget_string = budget_string.split('–', 1)[0]
+            if '-' in budget_string:
+                budget_string = budget_string.split('-',  1)[0]
+            budget_string =  budget_string.replace(' ','')
+            if budget_string == '' :
+                budget_string = all_movies[item]['Budget']
+                if '(' and ')' in budget_string:
+                    start = budget_string.find('(') + 1
+                    end = budget_string.find(')')
+                    budget_string = budget_string[start:end:1]
+                    start = budget_string.find('$')
+                    end = budget_string.find('million')
+                    budget_string = budget_string[start:end:1]
+                    budget_string = budget_string.replace('$', '').replace(' ', '')
+            try :
+                num = float(budget_string)
+                if num < 1000 : num = num * 1000000
+                all_movies[item]['Budget'] = num
+            except ValueError:
+                all_movies[item]['Budget'] =  all_movies[item]['Budget']
+
+
+
 all_movies = load_data()
-clean_date()
-save_data(all_movies)
+
 
 
 
