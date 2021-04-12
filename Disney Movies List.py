@@ -26,15 +26,9 @@ def get_info():
     tables = soup.select('.wikitable.sortable i a')
     for item in tables:
         current_movie = Movie.Movie(item['title'], 'https://en.wikipedia.org' + item['href'])
-        current_box = current_movie.box
-        my_box = {}
-        for item in current_box:
-            my_box[item] = current_box[item]
-        all_movies[current_box.get('name')] = my_box
+        all_movies[current_movie.box.get('name')] = current_movie.box
 
-    print(all_movies)
-    print(movies)
-    save_data(all_movies)
+
 
 #cleans up 'Release Date'
 def clean_date() :
@@ -79,7 +73,8 @@ def clean_time():
         all_movies[item]['Running time'] = my_time[0]
 
 #cleans up 'Budget'
-def clean_budget():
+#uses USD
+def clean_budget_USD():
     for item in all_movies:
         if 'Budget' in all_movies[item]:
             budget_string = all_movies[item]['Budget']
@@ -115,9 +110,8 @@ def clean_budget():
 
 
 
-all_movies = load_data()
 
-
+get_info()
 
 
 
