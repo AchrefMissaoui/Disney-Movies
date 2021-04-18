@@ -7,10 +7,10 @@
     "Running time": 41,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$45.472"
+    "Box office": 45472000
   },
-  "Snow White and the Seven Dwarfs (1937 film)": {
-    "name": "Snow White and the Seven Dwarfs (1937 film)",
+  "Snow White and the Seven Dwarfs": {
+    "name": "Snow White and the Seven Dwarfs",
     "link": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)",
     "Directed by": [
       "David Hand (supervising)",
@@ -60,11 +60,11 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.49 million ",
-    "Box office": "$418 million "
+    "Budget": 1490000,
+    "Box office": 418000000
   },
-  "Pinocchio (1940 film)": {
-    "name": "Pinocchio (1940 film)",
+  "Pinocchio": {
+    "name": "Pinocchio",
     "link": "https://en.wikipedia.org/wiki/Pinocchio_(1940_film)",
     "Directed by": [
       "Ben Sharpsteen",
@@ -111,11 +111,11 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.6 million ",
-    "Box office": "$164 million"
+    "Budget": 2600000,
+    "Box office": 164000000
   },
   "Fantasia (1940 film)": {
-    "name": "Fantasia (1940 film)",
+    "name": "Fantasia",
     "link": "https://en.wikipedia.org/wiki/Fantasia_(1940_film)",
     "Directed by": [
       "Samuel Armstrong",
@@ -152,11 +152,11 @@
     "Running time": 126,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.28 million  ",
-    "Box office": "$76.4\u2013$83.3 million  "
+    "Budget": 2280000,
+    "Box office": 76400000
   },
-  "The Reluctant Dragon (1941 film)": {
-    "name": "The Reluctant Dragon (1941 film)",
+  "The Reluctant Dragon": {
+    "name": "The Reluctant Dragon ",
     "link": "https://en.wikipedia.org/wiki/The_Reluctant_Dragon_(1941_film)",
     "Directed by": [
       "Alfred Werker",
@@ -209,8 +209,8 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$600,000 ",
-    "Box office": "$960,000 (worldwide rentals) "
+    "Budget": 600000,
+    "Box office": 96000000
   },
   "Dumbo": {
     "name": "Dumbo",
@@ -256,8 +256,8 @@
     "Running time": 64,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$950,000 ",
-    "Box office": "$1.3 million (est. United States/Canada rentals, 1941) "
+    "Budget": 950000,
+    "Box office": 1300000
   },
   "Bambi": {
     "name": "Bambi",
@@ -302,8 +302,8 @@
     "Running time": 70,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$858,000 ",
-    "Box office": "$267.4 million "
+    "Budget": 858000,
+    "Box office": 267399999
   },
   "Saludos Amigos": {
     "name": "Saludos Amigos",
@@ -353,10 +353,10 @@
       "Portuguese",
       "Spanish"
     ],
-    "Box office": "$1,135,000 (worldwide rentals) "
+    "Box office": 1000000
   },
   "Victory Through Air Power (film)": {
-    "name": "Victory Through Air Power (film)",
+    "name": "Victory Through Air Power",
     "link": "https://en.wikipedia.org/wiki/Victory_Through_Air_Power_(film)",
     "Directed by": [
       "Animated sequences:",
@@ -394,8 +394,8 @@
     "Running time": 65,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$788,000",
-    "Box office": "$799,000"
+    "Budget": 788000,
+    "Box office": 799000
   },
   "The Three Caballeros": {
     "name": "The Three Caballeros",
@@ -440,7 +440,7 @@
       "Spanish",
       "Portuguese"
     ],
-    "Box office": "$3,355,000 (worldwide rentals) "
+    "Box office": 3000000
   },
   "Make Mine Music": {
     "name": "Make Mine Music",
@@ -496,8 +496,8 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.35 million ",
-    "Box office": "$3.275 million (worldwide rentals) "
+    "Budget": 1350000,
+    "Box office": 3275000
   },
   "Song of the South": {
     "name": "Song of the South",
@@ -545,8 +545,8 @@
     "Running time": 94,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.125 million ",
-    "Box office": "$65 million "
+    "Budget": 2125000,
+    "Box office": 65000000
   },
   "Fun and Fancy Free": {
     "name": "Fun and Fancy Free",
@@ -598,7 +598,7 @@
     "Running time": 73,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,165,000 (worldwide rentals) "
+    "Box office": 3000000
   },
   "Melody Time": {
     "name": "Melody Time",
@@ -655,8 +655,8 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.5 million ",
-    "Box office": "$2,560,000 (worldwide rentals) "
+    "Budget": 1500000,
+    "Box office": 2000000
   },
   "So Dear to My Heart": {
     "name": "So Dear to My Heart",
@@ -700,8 +700,8 @@
     "Running time": 82,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1.5 million ",
-    "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental)  "
+    "Budget": 1500000,
+    "Box office": 3700000
   },
   "The Adventures of Ichabod and Mr. Toad": {
     "name": "The Adventures of Ichabod and Mr. Toad",
@@ -752,10 +752,10 @@
     "Running time": 68,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,625,000 (worldwide rentals) "
+    "Box office": 1000000
   },
   "Cinderella (1950 film)": {
-    "name": "Cinderella (1950 film)",
+    "name": "Cinderella ",
     "link": "https://en.wikipedia.org/wiki/Cinderella_(1950_film)",
     "Directed by": [
       "Clyde Geronimi",
@@ -805,11 +805,11 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.9 million ",
-    "Box office": "$263.6 million "
+    "Budget": 2900000,
+    "Box office": 263600000
   },
   "Treasure Island (1950 film)": {
-    "name": "Treasure Island (1950 film)",
+    "name": "Treasure Island ",
     "link": "https://en.wikipedia.org/wiki/Treasure_Island_(1950_film)",
     "Directed by": "Byron Haskin",
     "Produced by": [
@@ -840,11 +840,11 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Budget": "$1,800,000 ",
-    "Box office": "$4,100,000 (worldwide rentals) "
+    "Budget": 1000000,
+    "Box office": 4000000
   },
   "Alice in Wonderland (1951 film)": {
-    "name": "Alice in Wonderland (1951 film)",
+    "name": "Alice in Wonderland ",
     "link": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1951_film)",
     "Directed by": [
       "Clyde Geronimi",
@@ -895,11 +895,11 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million ",
-    "Box office": "$5.6 million (US, 1951)"
+    "Budget": 3000000,
+    "Box office": 5600000
   },
   "The Story of Robin Hood (film)": {
-    "name": "The Story of Robin Hood (film)",
+    "name": "The Story of Robin Hood ",
     "link": "https://en.wikipedia.org/wiki/The_Story_of_Robin_Hood_(film)",
     "Directed by": "Ken Annakin",
     "Produced by": [
@@ -927,10 +927,10 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Box office": "$2.1 million (US rentals) "
+    "Box office": 2100000
   },
   "Peter Pan (1953 film)": {
-    "name": "Peter Pan (1953 film)",
+    "name": "Peter Pan ",
     "link": "https://en.wikipedia.org/wiki/Peter_Pan_(1953_film)",
     "Directed by": [
       "Clyde Geronimi",
@@ -967,8 +967,8 @@
     "Running time": 77,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million ",
-    "Box office": "$87.4 million "
+    "Budget": 4000000,
+    "Box office": 87400000
   },
   "The Sword and the Rose": {
     "name": "The Sword and the Rose",
@@ -1012,8 +1012,8 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$2 million ",
-    "Box office": "$1 million (US) "
+    "Budget": 2000000,
+    "Box office": 1000000
   },
   "The Living Desert": {
     "name": "The Living Desert",
@@ -1040,8 +1040,8 @@
     "Running time": 69,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$300,000",
-    "Box office": "$2.6 million (US) "
+    "Budget": 300000,
+    "Box office": 2600000
   },
   "Rob Roy: The Highland Rogue": {
     "name": "Rob Roy: The Highland Rogue",
@@ -1072,7 +1072,7 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$1.8 million "
+    "Budget": 1800000
   },
   "The Vanishing Prairie": {
     "name": "The Vanishing Prairie",
@@ -1096,10 +1096,10 @@
     "Running time": 60,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US and Canadian rentals) "
+    "Box office": 1750000
   },
   "20,000 Leagues Under the Sea (1954 film)": {
-    "name": "20,000 Leagues Under the Sea (1954 film)",
+    "name": "20,000 Leagues Under the Sea ",
     "link": "https://en.wikipedia.org/wiki/20,000_Leagues_Under_the_Sea_(1954_film)",
     "Directed by": "Richard Fleischer",
     "Produced by": "Walt Disney (uncredited)",
@@ -1128,11 +1128,11 @@
     "Running time": 127,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$28.2 million "
+    "Budget": 5000000,
+    "Box office": 28200000
   },
   "Davy Crockett: King of the Wild Frontier (film)": {
-    "name": "Davy Crockett: King of the Wild Frontier (film)",
+    "name": "Davy Crockett: King of the Wild Frontier ",
     "link": "https://en.wikipedia.org/wiki/Davy_Crockett:_King_of_the_Wild_Frontier_(film)",
     "Directed by": "Norman Foster",
     "Produced by": "Bill Walsh",
@@ -1155,7 +1155,7 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,150,000 (US) "
+    "Box office": 2000000
   },
   "Lady and the Tramp": {
     "name": "Lady and the Tramp",
@@ -1195,8 +1195,8 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million ",
-    "Box office": "$187 million "
+    "Budget": 4000000,
+    "Box office": 187000000
   },
   "The African Lion": {
     "name": "The African Lion",
@@ -1220,7 +1220,7 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.1 million (US) "
+    "Box office": 2100000
   },
   "The Littlest Outlaw": {
     "name": "The Littlest Outlaw",
@@ -1237,7 +1237,7 @@
     "Running time": 73,
     "Countries": "United States, Mexico",
     "Languages": "English, Spanish",
-    "Box office": "$1.6 million (US) "
+    "Box office": 1600000
   },
   "The Great Locomotive Chase": {
     "name": "The Great Locomotive Chase",
@@ -1264,7 +1264,7 @@
     "Running time": 85,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.7 million (US) "
+    "Box office": 1700000
   },
   "Davy Crockett and the River Pirates": {
     "name": "Davy Crockett and the River Pirates",
@@ -1353,10 +1353,10 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.75 million (US) "
+    "Box office": 2750000
   },
   "Johnny Tremain (film)": {
-    "name": "Johnny Tremain (film)",
+    "name": "Johnny Tremain ",
     "link": "https://en.wikipedia.org/wiki/Johnny_Tremain_(film)",
     "Directed by": "Robert Stevenson",
     "Produced by": "Walt Disney",
@@ -1382,10 +1382,10 @@
     "Running time": 80,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$700,000 "
+    "Budget": 700000
   },
   "Perri (film)": {
-    "name": "Perri (film)",
+    "name": "Perri ",
     "link": "https://en.wikipedia.org/wiki/Perri_(film)",
     "Directed by": [
       "N. Paul Kenworthy",
@@ -1427,10 +1427,10 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.75 million (US rentals) "
+    "Box office": 1750000
   },
   "Old Yeller (film)": {
-    "name": "Old Yeller (film)",
+    "name": "Old Yeller ",
     "link": "https://en.wikipedia.org/wiki/Old_Yeller_(film)",
     "Directed by": "Robert Stevenson",
     "Produced by": "Walt Disney",
@@ -1462,10 +1462,10 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,250,000 (US/Canada rentals) "
+    "Box office": 6000000
   },
   "The Light in the Forest (film)": {
-    "name": "The Light in the Forest (film)",
+    "name": "The Light in the Forest ",
     "link": "https://en.wikipedia.org/wiki/The_Light_in_the_Forest_(film)",
     "Directed by": "Herschel Daugherty",
     "Produced by": "Walt Disney",
@@ -1491,7 +1491,7 @@
     "Language": "English"
   },
   "White Wilderness (film)": {
-    "name": "White Wilderness (film)",
+    "name": "White Wilderness ",
     "link": "https://en.wikipedia.org/wiki/White_Wilderness_(film)",
     "Directed by": "James Algar",
     "Produced by": "Ben Sharpsteen , Walt Disney",
@@ -1508,10 +1508,10 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$1.8 million (est. US/ Canada rentals) "
+    "Box office": 1800000
   },
   "Tonka (film)": {
-    "name": "Tonka (film)",
+    "name": "Tonka ",
     "link": "https://en.wikipedia.org/wiki/Tonka_(film)",
     "Directed by": "Lewis R. Foster",
     "Produced by": [
@@ -1551,10 +1551,10 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.5 million (est. US/ Canada rentals) "
+    "Box office": 2500000
   },
   "Sleeping Beauty (1959 film)": {
-    "name": "Sleeping Beauty (1959 film)",
+    "name": "Sleeping Beauty ",
     "link": "https://en.wikipedia.org/wiki/Sleeping_Beauty_(1959_film)",
     "Directed by": [
       "Clyde Geronimi (supervising)",
@@ -1599,11 +1599,11 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$6 million ",
-    "Box office": "$51.6 million (United States/Canada) "
+    "Budget": 6000000,
+    "Box office": 51600000
   },
   "The Shaggy Dog (1959 film)": {
-    "name": "The Shaggy Dog (1959 film)",
+    "name": "The Shaggy Dog ",
     "link": "https://en.wikipedia.org/wiki/The_Shaggy_Dog_(1959_film)",
     "Directed by": "Charles Barton",
     "Produced by": [
@@ -1636,8 +1636,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "under $1 million  or $1,250,000 ",
-    "Box office": "$12.3 million (US and Canada rentals) "
+    "Budget": 1000000,
+    "Box office": 12300000
   },
   "Darby O'Gill and the Little People": {
     "name": "Darby O'Gill and the Little People",
@@ -1670,19 +1670,10 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": [
-      "Original release",
-      ":",
-      "$2.6 million (est. US/ Canada rentals)",
-      "",
-      "1969 re-release",
-      ":",
-      "$2.3 million  (US/ Canada rentals)",
-      ""
-    ]
+    "Box office": 1000000
   },
   "Zorro (1957 TV series)": {
-    "name": "Zorro (1957 TV series)",
+    "name": "Zorro ",
     "link": "https://en.wikipedia.org/wiki/Zorro_(1957_TV_series)#Theatrical",
     "Genre": [
       "Action / Adventure",
@@ -1709,17 +1700,7 @@
     "Original network": "ABC",
     "Picture format": "Black-and-white (also colorized )",
     "Audio format": "Monaural",
-    "Original release": [
-      "October 10, 1957",
-      "(",
-      "1957-10-10",
-      ")",
-      "\u2013",
-      "July 2, 1959",
-      "(",
-      "1959-07-02",
-      ")"
-    ],
+    "Original release": "October 10, 1957",
     "Related shows": "Zorro and Son"
   },
   "Third Man on the Mountain": {
@@ -1748,11 +1729,11 @@
     "Running time": 105,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2 million ",
-    "Box office": "$1,700,000 (US/Canada rentals) "
+    "Budget": 2000000,
+    "Box office": 1000000
   },
   "Toby Tyler or 10 Weeks with a Circus (film)": {
-    "name": "Toby Tyler or 10 Weeks with a Circus (film)",
+    "name": "Toby Tyler or 10 Weeks with a Circus ",
     "link": "https://en.wikipedia.org/wiki/Toby_Tyler_or_10_Weeks_with_a_Circus_(film)",
     "Directed by": "Charles Barton",
     "Produced by": "Bill Walsh",
@@ -1775,10 +1756,10 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,100,000 (US/Canada rentals) "
+    "Box office": 3000000
   },
   "Kidnapped (1960 film)": {
-    "name": "Kidnapped (1960 film)",
+    "name": "Kidnapped ",
     "link": "https://en.wikipedia.org/wiki/Kidnapped_(1960_film)",
     "Directed by": "Robert Stevenson",
     "Produced by": "Walt Disney",
@@ -1804,7 +1785,7 @@
     "Languages": "English, Scots"
   },
   "Pollyanna (1960 film)": {
-    "name": "Pollyanna (1960 film)",
+    "name": "Pollyanna ",
     "link": "https://en.wikipedia.org/wiki/Pollyanna_(1960_film)",
     "Directed by": "David Swift",
     "Produced by": [
@@ -1832,11 +1813,11 @@
     "Running time": 134,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$2.5 million ",
-    "Box office": "$3.75 million (US and Canadian rentals) "
+    "Budget": 2500000,
+    "Box office": 3750000
   },
   "Jungle Cat (film)": {
-    "name": "Jungle Cat (film)",
+    "name": "Jungle Cat ",
     "link": "https://en.wikipedia.org/wiki/Jungle_Cat_(film)",
     "Directed by": "James Algar",
     "Produced by": "Ben Sharpsteen",
@@ -1855,7 +1836,7 @@
     "Running time": 69,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.3 million (US and Canadian rentals) "
+    "Box office": 2300000
   },
   "Ten Who Dared": {
     "name": "Ten Who Dared",
@@ -1891,7 +1872,7 @@
     "Language": "English"
   },
   "Swiss Family Robinson (1960 film)": {
-    "name": "Swiss Family Robinson (1960 film)",
+    "name": "Swiss Family Robinson ",
     "link": "https://en.wikipedia.org/wiki/Swiss_Family_Robinson_(1960_film)",
     "Directed by": "Ken Annakin",
     "Produced by": [
@@ -1929,8 +1910,8 @@
     "Running time": 126,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million",
-    "Box office": "$40 million"
+    "Budget": 4000000,
+    "Box office": 40000000
   },
   "One Hundred and One Dalmatians": {
     "name": "One Hundred and One Dalmatians",
@@ -1967,8 +1948,8 @@
     "Running time": 79,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3.6 million ",
-    "Box office": "$303 million "
+    "Budget": 3600000,
+    "Box office": 303000000
   },
   "The Absent-Minded Professor": {
     "name": "The Absent-Minded Professor",
@@ -2003,10 +1984,10 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$25.4 million"
+    "Box office": 25400000
   },
   "The Parent Trap (1961 film)": {
-    "name": "The Parent Trap (1961 film)",
+    "name": "The Parent Trap ",
     "link": "https://en.wikipedia.org/wiki/The_Parent_Trap_(1961_film)",
     "Directed by": "David Swift",
     "Produced by": [
@@ -2040,7 +2021,7 @@
     "Running time": 128,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$25.1 million"
+    "Box office": 25100000
   },
   "Nikki: Wild Dog of the North": {
     "name": "Nikki: Wild Dog of the North",
@@ -2085,7 +2066,7 @@
     "Language": "English"
   },
   "Greyfriars Bobby (film)": {
-    "name": "Greyfriars Bobby (film)",
+    "name": "Greyfriars Bobby ",
     "link": "https://en.wikipedia.org/wiki/Greyfriars_Bobby_(film)",
     "Directed by": "Don Chaffey",
     "Produced by": [
@@ -2113,7 +2094,7 @@
     "Language": "English"
   },
   "Babes in Toyland (1961 film)": {
-    "name": "Babes in Toyland (1961 film)",
+    "name": "Babes in Toyland ",
     "link": "https://en.wikipedia.org/wiki/Babes_in_Toyland_(1961_film)",
     "Directed by": "Jack Donohue",
     "Produced by": "Walt Disney",
@@ -2148,8 +2129,8 @@
     "Running time": 105,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million ",
-    "Box office": "$4.6 million (U.S./Canada rentals) "
+    "Budget": 3000000,
+    "Box office": 4600000
   },
   "Moon Pilot": {
     "name": "Moon Pilot",
@@ -2181,10 +2162,10 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.5 million "
+    "Box office": 3500000
   },
   "Bon Voyage! (1962 film)": {
-    "name": "Bon Voyage! (1962 film)",
+    "name": "Bon Voyage! ",
     "link": "https://en.wikipedia.org/wiki/Bon_Voyage!_(1962_film)",
     "Directed by": "James Neilson",
     "Produced by": "Walt Disney",
@@ -2213,11 +2194,11 @@
     "Running time": 130,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million ",
-    "Box office": "$5 million (rentals) "
+    "Budget": 3000000,
+    "Box office": 5000000
   },
   "Big Red (film)": {
-    "name": "Big Red (film)",
+    "name": "Big Red ",
     "link": "https://en.wikipedia.org/wiki/Big_Red_(film)",
     "Directed by": "Norman Tokar",
     "Produced by": "Walt Disney",
@@ -2309,7 +2290,7 @@
     "Language": "English"
   },
   "In Search of the Castaways (film)": {
-    "name": "In Search of the Castaways (film)",
+    "name": "In Search of the Castaways ",
     "link": "https://en.wikipedia.org/wiki/In_Search_of_the_Castaways_(film)",
     "Directed by": "Robert Stevenson",
     "Produced by": [
@@ -2344,7 +2325,7 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,745,500 "
+    "Box office": 21000000
   },
   "Son of Flubber": {
     "name": "Son of Flubber",
@@ -2373,7 +2354,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.1 million "
+    "Box office": 22100000
   },
   "Miracle of the White Stallions": {
     "name": "Miracle of the White Stallions",
@@ -2408,10 +2389,10 @@
     "Running time": 118,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,550,000 (US/ Canada) "
+    "Box office": 2000000
   },
   "Savage Sam (film)": {
-    "name": "Savage Sam (film)",
+    "name": "Savage Sam ",
     "link": "https://en.wikipedia.org/wiki/Savage_Sam_(film)",
     "Directed by": "Norman Tokar",
     "Produced by": [
@@ -2440,10 +2421,10 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada) "
+    "Box office": 3000000
   },
   "Summer Magic (film)": {
-    "name": "Summer Magic (film)",
+    "name": "Summer Magic ",
     "link": "https://en.wikipedia.org/wiki/Summer_Magic_(film)",
     "Directed by": "James Neilson",
     "Produced by": [
@@ -2480,10 +2461,10 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,350,000 (US/ Canada rentals) "
+    "Box office": 4000000
   },
   "The Incredible Journey (film)": {
-    "name": "The Incredible Journey (film)",
+    "name": "The Incredible Journey ",
     "link": "https://en.wikipedia.org/wiki/The_Incredible_Journey_(film)",
     "Directed by": "Fletcher Markle",
     "Produced by": [
@@ -2516,10 +2497,10 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$4.2 million (US/Canada) (rentals) "
+    "Box office": 4200000
   },
   "The Sword in the Stone (1963 film)": {
-    "name": "The Sword in the Stone (1963 film)",
+    "name": "The Sword in the Stone ",
     "link": "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)",
     "Directed by": "Wolfgang Reitherman",
     "Produced by": "Walt Disney",
@@ -2545,8 +2526,8 @@
     "Running time": 79,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3 million ",
-    "Box office": "$22.2 million "
+    "Budget": 3000000,
+    "Box office": 22200000
   },
   "A Tiger Walks": {
     "name": "A Tiger Walks",
@@ -2576,7 +2557,7 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": "est. $1,600,000 (US/ Canada) "
+    "Box office": 1000000
   },
   "The Missadventures of Merlin Jones": {
     "name": "The Missadventures of Merlin Jones",
@@ -2605,7 +2586,7 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada) "
+    "Box office": 4000000
   },
   "The Three Lives of Thomasina": {
     "name": "The Three Lives of Thomasina",
@@ -2643,7 +2624,7 @@
       "English",
       "Gaelic"
     ],
-    "Box office": "$2,250,000 (US/ Canada) "
+    "Box office": 2000000
   },
   "The Moon-Spinners": {
     "name": "The Moon-Spinners",
@@ -2670,10 +2651,10 @@
     "Release date": "1964-07-02",
     "Running time": 118,
     "Language": "English",
-    "Box office": "est. $3,500,000 (US/ Canada) "
+    "Box office": 3000000
   },
   "Mary Poppins (film)": {
-    "name": "Mary Poppins (film)",
+    "name": "Mary Poppins ",
     "link": "https://en.wikipedia.org/wiki/Mary_Poppins_(film)",
     "Directed by": "Robert Stevenson",
     "Produced by": "Walt Disney",
@@ -2711,11 +2692,11 @@
     "Running time": 139,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4.4\u20136 million ",
-    "Box office": "$103.1 million "
+    "Budget": 4400000,
+    "Box office": 103100000
   },
   "Emil and the Detectives (1964 film)": {
-    "name": "Emil and the Detectives (1964 film)",
+    "name": "Emil and the Detectives ",
     "link": "https://en.wikipedia.org/wiki/Emil_and_the_Detectives_(1964_film)",
     "Directed by": "Peter Tewksbury",
     "Produced by": [
@@ -2740,7 +2721,7 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,275,000 "
+    "Box office": 1000000
   },
   "Those Calloways": {
     "name": "Those Calloways",
@@ -2769,7 +2750,7 @@
     "Running time": 131,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,500,000 (US/ Canada rentals) "
+    "Box office": 3000000
   },
   "The Monkey's Uncle": {
     "name": "The Monkey's Uncle",
@@ -2797,7 +2778,7 @@
     "Running time": 87,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/Canada rentals) "
+    "Box office": 4000000
   },
   "That Darn Cat!": {
     "name": "That Darn Cat!",
@@ -2830,7 +2811,7 @@
     "Running time": 116,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$28,068,222 "
+    "Box office": 28000000
   },
   "The Ugly Dachshund": {
     "name": "The Ugly Dachshund",
@@ -2860,7 +2841,7 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.2 million (est. US/ Canada rentals) "
+    "Box office": 6200000
   },
   "Lt. Robin Crusoe, U.S.N.": {
     "name": "Lt. Robin Crusoe, U.S.N.",
@@ -2892,7 +2873,7 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,565,634 "
+    "Box office": 22000000
   },
   "The Fighting Prince of Donegal": {
     "name": "The Fighting Prince of Donegal",
@@ -2962,7 +2943,7 @@
     "Running time": 131,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16,207,116 "
+    "Box office": 16000000
   },
   "Monkeys, Go Home!": {
     "name": "Monkeys, Go Home!",
@@ -2984,7 +2965,7 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3,000,000 (US/ Canada) "
+    "Box office": 3000000
   },
   "The Adventures of Bullwhip Griffin": {
     "name": "The Adventures of Bullwhip Griffin",
@@ -3016,7 +2997,7 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1,900,000 (US/ Canada) "
+    "Box office": 1000000
   },
   "The Gnome-Mobile": {
     "name": "The Gnome-Mobile",
@@ -3052,10 +3033,10 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,000,000 (US/ Canada) "
+    "Box office": 4000000
   },
   "The Jungle Book (1967 film)": {
-    "name": "The Jungle Book (1967 film)",
+    "name": "The Jungle Book ",
     "link": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)",
     "Directed by": "Wolfgang Reitherman",
     "Produced by": "Walt Disney",
@@ -3092,8 +3073,8 @@
     "Running time": 78,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million ",
-    "Box office": "$378 million "
+    "Budget": 4000000,
+    "Box office": 378000000
   },
   "Charlie, the Lonesome Cougar": {
     "name": "Charlie, the Lonesome Cougar",
@@ -3162,8 +3143,8 @@
     "Running time": 164,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$5 million (U.S./Canada rentals) "
+    "Budget": 5000000,
+    "Box office": 5000000
   },
   "Blackbeard's Ghost": {
     "name": "Blackbeard's Ghost",
@@ -3193,7 +3174,7 @@
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,540,050 "
+    "Box office": 21000000
   },
   "The One and Only, Genuine, Original Family Band": {
     "name": "The One and Only, Genuine, Original Family Band",
@@ -3230,10 +3211,10 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2,250,000 (US/ Canada) "
+    "Box office": 2000000
   },
   "Never a Dull Moment (1968 film)": {
-    "name": "Never a Dull Moment (1968 film)",
+    "name": "Never a Dull Moment ",
     "link": "https://en.wikipedia.org/wiki/Never_a_Dull_Moment_(1968_film)",
     "Directed by": "Jerry Paris",
     "Produced by": "Ron Miller",
@@ -3258,7 +3239,7 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,150,000 (US/ Canada rentals) "
+    "Box office": 4000000
   },
   "The Horse in the Gray Flannel Suit": {
     "name": "The Horse in the Gray Flannel Suit",
@@ -3288,7 +3269,7 @@
     "Running time": 113,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$3.3 million  (US/ Canada rentals) "
+    "Box office": 3300000
   },
   "The Love Bug": {
     "name": "The Love Bug",
@@ -3315,8 +3296,8 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$51,264,000 "
+    "Budget": 5000000,
+    "Box office": 51000000
   },
   "Smith!": {
     "name": "Smith!",
@@ -3334,10 +3315,10 @@
     "Running time": 112,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$1.3 million (US/ Canada rentals) "
+    "Box office": 1300000
   },
   "Rascal (film)": {
-    "name": "Rascal (film)",
+    "name": "Rascal ",
     "link": "https://en.wikipedia.org/wiki/Rascal_(film)",
     "Directed by": "Norman Tokar",
     "Produced by": "James Algar",
@@ -3387,7 +3368,7 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.5 million (US/ Canada rentals) "
+    "Box office": 5500000
   },
   "King of the Grizzlies": {
     "name": "King of the Grizzlies",
@@ -3452,7 +3433,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18,607,492 "
+    "Box office": 18000000
   },
   "The Wild Country": {
     "name": "The Wild Country",
@@ -3476,7 +3457,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada) "
+    "Box office": 4000000
   },
   "The Aristocats": {
     "name": "The Aristocats",
@@ -3519,8 +3500,8 @@
     "Running time": 79,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$4 million ",
-    "Box office": "$191 million "
+    "Budget": 4000000,
+    "Box office": 191000000
   },
   "The Barefoot Executive": {
     "name": "The Barefoot Executive",
@@ -3596,7 +3577,7 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$5.1 million (North America) (rentals) "
+    "Box office": 5100000
   },
   "Bedknobs and Broomsticks": {
     "name": "Bedknobs and Broomsticks",
@@ -3631,11 +3612,11 @@
     "Running time": 118,
     "Country": "United States  ",
     "Language": "English",
-    "Budget": "$6.3 million ",
-    "Box office": "$17.9 million "
+    "Budget": 6300000,
+    "Box office": 17900000
   },
   "The Biscuit Eater (1972 film)": {
-    "name": "The Biscuit Eater (1972 film)",
+    "name": "The Biscuit Eater ",
     "link": "https://en.wikipedia.org/wiki/The_Biscuit_Eater_(1972_film)",
     "Directed by": "Vincent McEveety",
     "Produced by": "Bill Anderson",
@@ -3680,7 +3661,7 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4,610,000 (US/Canada) (rentals) "
+    "Box office": 4000000
   },
   "Napoleon and Samantha": {
     "name": "Napoleon and Samantha",
@@ -3771,7 +3752,7 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6,100,000 (US/ Canada rentals) "
+    "Box office": 6000000
   },
   "The World's Greatest Athlete": {
     "name": "The World's Greatest Athlete",
@@ -3797,7 +3778,7 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22,583,370 "
+    "Box office": 22000000
   },
   "Charley and the Angel": {
     "name": "Charley and the Angel",
@@ -3832,7 +3813,7 @@
     "Language": "English"
   },
   "One Little Indian (film)": {
-    "name": "One Little Indian (film)",
+    "name": "One Little Indian ",
     "link": "https://en.wikipedia.org/wiki/One_Little_Indian_(film)",
     "Directed by": "Bernard McEveety",
     "Produced by": "Winston Hibler",
@@ -3853,10 +3834,10 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English ",
-    "Box office": "$2 million"
+    "Box office": 2000000
   },
   "Robin Hood (1973 film)": {
-    "name": "Robin Hood (1973 film)",
+    "name": "Robin Hood ",
     "link": "https://en.wikipedia.org/wiki/Robin_Hood_(1973_film)",
     "Directed by": "Wolfgang Reitherman",
     "Produced by": "Wolfgang Reitherman",
@@ -3891,8 +3872,8 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$32 million "
+    "Budget": 5000000,
+    "Box office": 32000000
   },
   "Superdad": {
     "name": "Superdad",
@@ -3919,7 +3900,7 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7 million (US/Canada rentals) "
+    "Box office": 7000000
   },
   "Herbie Rides Again": {
     "name": "Herbie Rides Again",
@@ -3948,11 +3929,7 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": [
-      "$38,229,000 (US/Canada gross)",
-      "",
-      "$30.8 million (worldwide rentals)"
-    ]
+    "Box office": 5000000
   },
   "The Bears and I": {
     "name": "The Bears and I",
@@ -3981,7 +3958,7 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$4 million (rentals) (US/Canada) "
+    "Box office": 4000000
   },
   "The Castaway Cowboy": {
     "name": "The Castaway Cowboy",
@@ -4041,8 +4018,8 @@
       "Danish",
       "Icelandic"
     ],
-    "Budget": "$8 million ",
-    "Box office": "$10 million (US/Canada rentals) "
+    "Budget": 8000000,
+    "Box office": 10000000
   },
   "The Strongest Man in the World": {
     "name": "The Strongest Man in the World",
@@ -4069,10 +4046,10 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$6.6 million (US/Canada rentals) "
+    "Box office": 6600000
   },
   "Escape to Witch Mountain (1975 film)": {
-    "name": "Escape to Witch Mountain (1975 film)",
+    "name": "Escape to Witch Mountain ",
     "link": "https://en.wikipedia.org/wiki/Escape_to_Witch_Mountain_(1975_film)",
     "Directed by": "John Hough",
     "Produced by": [
@@ -4101,10 +4078,10 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$20,000,000 "
+    "Box office": 20000000
   },
   "The Apple Dumpling Gang (film)": {
-    "name": "The Apple Dumpling Gang (film)",
+    "name": "The Apple Dumpling Gang ",
     "link": "https://en.wikipedia.org/wiki/The_Apple_Dumpling_Gang_(film)",
     "Directed by": "Norman Tokar",
     "Produced by": "Bill Anderson",
@@ -4135,7 +4112,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$36,853,000 "
+    "Box office": 36000000
   },
   "One of Our Dinosaurs Is Missing": {
     "name": "One of Our Dinosaurs Is Missing",
@@ -4162,7 +4139,7 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": "$5.5 million (North American rentals) "
+    "Box office": 5500000
   },
   "The Best of Walt Disney's True-Life Adventures": {
     "name": "The Best of Walt Disney's True-Life Adventures",
@@ -4245,7 +4222,7 @@
       "Australia"
     ],
     "Language": "English",
-    "Budget": "AU$1 million "
+    "Budget": 1000000
   },
   "No Deposit, No Return": {
     "name": "No Deposit, No Return",
@@ -4309,7 +4286,7 @@
     "Language": "English"
   },
   "Gus (1976 film)": {
-    "name": "Gus (1976 film)",
+    "name": "Gus ",
     "link": "https://en.wikipedia.org/wiki/Gus_(1976_film)",
     "Directed by": "Vincent McEveety",
     "Produced by": "Ron Miller",
@@ -4338,7 +4315,7 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21,873,000"
+    "Box office": 21000000
   },
   "The Shaggy D.A.": {
     "name": "The Shaggy D.A.",
@@ -4368,10 +4345,10 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$10.5 million (US and Canada rentals) "
+    "Box office": 10500000
   },
   "Freaky Friday (1976 film)": {
-    "name": "Freaky Friday (1976 film)",
+    "name": "Freaky Friday ",
     "link": "https://en.wikipedia.org/wiki/Freaky_Friday_(1976_film)",
     "Directed by": "Gary Nelson",
     "Produced by": "Ron Miller",
@@ -4394,8 +4371,8 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$36 million "
+    "Budget": 5000000,
+    "Box office": 36000000
   },
   "Escape from the Dark": {
     "name": "Escape from the Dark",
@@ -4421,7 +4398,6 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "May 26, 1976",
-
     "Running time": 104,
     "Countries": [
       "United Kingdom",
@@ -4544,8 +4520,8 @@
     "Running time": 77,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$7.5 million ",
-    "Box office": "$169 million "
+    "Budget": 7500000,
+    "Box office": 169000000
   },
   "Herbie Goes to Monte Carlo": {
     "name": "Herbie Goes to Monte Carlo",
@@ -4580,10 +4556,10 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$29 million "
+    "Box office": 29000000
   },
   "Pete's Dragon (1977 film)": {
-    "name": "Pete's Dragon (1977 film)",
+    "name": "Pete's Dragon ",
     "link": "https://en.wikipedia.org/wiki/Pete%27s_Dragon_(1977_film)",
     "Directed by": "Don Chaffey",
     "Produced by": [
@@ -4616,8 +4592,8 @@
     "Running time": 128,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$10 million ",
-    "Box office": "$36  \u201339.6 million "
+    "Budget": 10000000,
+    "Box office": 36000000
   },
   "Candleshoe": {
     "name": "Candleshoe",
@@ -4696,7 +4672,7 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$3.5 to 4 million "
+    "Budget": 3500000
   },
   "Hot Lead and Cold Feet": {
     "name": "Hot Lead and Cold Feet",
@@ -4788,7 +4764,7 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$20,931,111 "
+    "Box office": 20000000
   },
   "Unidentified Flying Oddball": {
     "name": "Unidentified Flying Oddball",
@@ -4817,7 +4793,7 @@
       ""
     ],
     "Language": "English",
-    "Budget": "$5.25 million "
+    "Budget": 5250000
   },
   "The Black Hole": {
     "name": "The Black Hole",
@@ -4853,12 +4829,8 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million",
-    "Box office": [
-      "$35.8 million",
-      "(domestic)",
-      ""
-    ]
+    "Budget": 20000000,
+    "Box office": 20000000
   },
   "The Omega Connection": {
     "name": "The Omega Connection",
@@ -4887,7 +4859,7 @@
     "Language": "English"
   },
   "Midnight Madness (1980 film)": {
-    "name": "Midnight Madness (1980 film)",
+    "name": "Midnight Madness ",
     "link": "https://en.wikipedia.org/wiki/Midnight_Madness_(1980_film)",
     "Directed by": [
       "Michael Nankin",
@@ -4920,10 +4892,10 @@
     "Running time": 112,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$2.9 million "
+    "Box office": 2900000
   },
   "The Watcher in the Woods (1980 film)": {
-    "name": "The Watcher in the Woods (1980 film)",
+    "name": "The Watcher in the Woods ",
     "link": "https://en.wikipedia.org/wiki/The_Watcher_in_the_Woods_(1980_film)",
     "Directed by": [
       "John Hough",
@@ -4956,8 +4928,8 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$9 million ",
-    "Box office": "$5 million "
+    "Budget": 9000000,
+    "Box office": 5000000
   },
   "Herbie Goes Bananas": {
     "name": "Herbie Goes Bananas",
@@ -4993,7 +4965,7 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18 million "
+    "Box office": 18000000
   },
   "The Last Flight of Noah's Ark": {
     "name": "The Last Flight of Noah's Ark",
@@ -5027,11 +4999,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$6-8 million ",
-    "Box office": "$11 million "
+    "Budget": 6000000,
+    "Box office": 11000000
   },
   "Popeye (film)": {
-    "name": "Popeye (film)",
+    "name": "Popeye ",
     "link": "https://en.wikipedia.org/wiki/Popeye_(film)",
     "Directed by": "Robert Altman",
     "Produced by": "Robert Evans",
@@ -5067,8 +5039,8 @@
     "Running time": 114,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$60 million "
+    "Budget": 20000000,
+    "Box office": 60000000
   },
   "The Devil and Max Devlin": {
     "name": "The Devil and Max Devlin",
@@ -5103,10 +5075,10 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$16 million (USA) "
+    "Box office": 16000000
   },
   "Amy (1981 film)": {
-    "name": "Amy (1981 film)",
+    "name": "Amy ",
     "link": "https://en.wikipedia.org/wiki/Amy_(1981_film)",
     "Directed by": "Vincent McEveety",
     "Produced by": "Jerome Courtland",
@@ -5131,7 +5103,7 @@
     "Language": "English"
   },
   "Dragonslayer (1981 film)": {
-    "name": "Dragonslayer (1981 film)",
+    "name": "Dragonslayer ",
     "link": "https://en.wikipedia.org/wiki/Dragonslayer_(1981_film)",
     "Directed by": "Matthew Robbins",
     "Produced by": [
@@ -5167,8 +5139,8 @@
     "Running time": 109,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$18 million ",
-    "Box office": "$14.1 million"
+    "Budget": 18000000,
+    "Box office": 14100000
   },
   "The Fox and the Hound": {
     "name": "The Fox and the Hound",
@@ -5224,8 +5196,8 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12 million ",
-    "Box office": "$63.5 million "
+    "Budget": 12000000,
+    "Box office": 63500000
   },
   "Condorman": {
     "name": "Condorman",
@@ -5258,7 +5230,7 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million"
+    "Budget": 14000000
   },
   "Night Crossing": {
     "name": "Night Crossing",
@@ -5286,7 +5258,7 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": "$8 million "
+    "Box office": 8000000
   },
   "Tron": {
     "name": "Tron",
@@ -5317,11 +5289,11 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "US$ 17 million",
-    "Box office": "US$50 million "
+    "Budget": 17000000,
+    "Box office": 50000000
   },
   "Tex (film)": {
-    "name": "Tex (film)",
+    "name": "Tex ",
     "link": "https://en.wikipedia.org/wiki/Tex_(film)",
     "Directed by": "Tim Hunter",
     "Produced by": [
@@ -5353,11 +5325,11 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$7.4 million "
+    "Budget": 5000000,
+    "Box office": 7400000
   },
   "Trenchcoat (film)": {
-    "name": "Trenchcoat (film)",
+    "name": "Trenchcoat ",
     "link": "https://en.wikipedia.org/wiki/Trenchcoat_(film)",
     "Directed by": "Michael Tuchner",
     "Produced by": "Jerry Leider",
@@ -5382,10 +5354,10 @@
     "Country": "United States",
     "Language": "English",
     "Budget": "unknown",
-    "Box office": "$4,304,286 (US) "
+    "Box office": 4000000
   },
   "Something Wicked This Way Comes (film)": {
-    "name": "Something Wicked This Way Comes (film)",
+    "name": "Something Wicked This Way Comes ",
     "link": "https://en.wikipedia.org/wiki/Something_Wicked_This_Way_Comes_(film)",
     "Directed by": "Jack Clayton",
     "Produced by": "Peter Douglas",
@@ -5415,11 +5387,11 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$8.4 million"
+    "Budget": 20000000,
+    "Box office": 8400000
   },
   "Never Cry Wolf (film)": {
-    "name": "Never Cry Wolf (film)",
+    "name": "Never Cry Wolf ",
     "link": "https://en.wikipedia.org/wiki/Never_Cry_Wolf_(film)",
     "Directed by": "Carroll Ballard",
     "Produced by": [
@@ -5459,8 +5431,8 @@
       "English",
       "Inuktitut"
     ],
-    "Budget": "$11 million",
-    "Box office": "$27.6 million"
+    "Budget": 11000000,
+    "Box office": 27600000
   },
   "Return to Oz": {
     "name": "Return to Oz",
@@ -5504,11 +5476,11 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Budget": "$28 million ",
-    "Box office": "$11.1 million (USA)"
+    "Budget": 28000000,
+    "Box office": 11100000
   },
   "The Black Cauldron (film)": {
-    "name": "The Black Cauldron (film)",
+    "name": "The Black Cauldron ",
     "link": "https://en.wikipedia.org/wiki/The_Black_Cauldron_(film)",
     "Directed by": [
       "Ted Berman",
@@ -5567,8 +5539,8 @@
     "Running time": 80,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$44 million  ",
-    "Box office": "$21.3 million "
+    "Budget": 44000000,
+    "Box office": 21300000
   },
   "The Journey of Natty Gann": {
     "name": "The Journey of Natty Gann",
@@ -5601,7 +5573,7 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9.7 million (U.S. and Canada only) "
+    "Box office": 9700000
   },
   "One Magic Christmas": {
     "name": "One Magic Christmas",
@@ -5638,7 +5610,7 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$13 million "
+    "Box office": 13000000
   },
   "The Great Mouse Detective": {
     "name": "The Great Mouse Detective",
@@ -5690,8 +5662,8 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million ",
-    "Box office": "$38.7 million "
+    "Budget": 14000000,
+    "Box office": 38700000
   },
   "Flight of the Navigator": {
     "name": "Flight of the Navigator",
@@ -5737,8 +5709,8 @@
     "Running time": 90,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$9 million ",
-    "Box office": "$18,564,613"
+    "Budget": 9000000,
+    "Box office": 18000000
   },
   "Benji the Hunted": {
     "name": "Benji the Hunted",
@@ -5767,7 +5739,7 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.3 million"
+    "Box office": 22300000
   },
   "The Man from Snowy River II": {
     "name": "The Man from Snowy River II",
@@ -5803,8 +5775,8 @@
     "Running time": 110,
     "Country": "Australia",
     "Language": "English",
-    "Budget": "A$8.7 million ",
-    "Box office": "$13,687,027"
+    "Budget": 8700000,
+    "Box office": 13000000
   },
   "Oliver & Company": {
     "name": "Oliver & Company",
@@ -5857,8 +5829,8 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$31 million ",
-    "Box office": ">$121 million"
+    "Budget": 31000000,
+    "Box office": 121000000
   },
   "Honey, I Shrunk the Kids": {
     "name": "Honey, I Shrunk the Kids",
@@ -5892,11 +5864,11 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$18 million ",
-    "Box office": "$222.7 million "
+    "Budget": 18000000,
+    "Box office": 222700000
   },
   "Cheetah (1989 film)": {
-    "name": "Cheetah (1989 film)",
+    "name": "Cheetah ",
     "link": "https://en.wikipedia.org/wiki/Cheetah_(1989_film)",
     "Directed by": "Jeff Blyth",
     "Produced by": [
@@ -5931,11 +5903,11 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million",
-    "Box office": "$8,153,677 (United States) "
+    "Budget": 5000000,
+    "Box office": 8000000
   },
   "The Little Mermaid (1989 film)": {
-    "name": "The Little Mermaid (1989 film)",
+    "name": "The Little Mermaid ",
     "link": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(1989_film)",
     "Directed by": [
       "Ron Clements",
@@ -5980,8 +5952,8 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million ",
-    "Box office": "$233 million "
+    "Budget": 40000000,
+    "Box office": 233000000
   },
   "DuckTales the Movie: Treasure of the Lost Lamp": {
     "name": "DuckTales the Movie: Treasure of the Lost Lamp",
@@ -6020,8 +5992,8 @@
     "Running time": 74,
     "Country": "United States  ",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$18.1 million "
+    "Budget": 20000000,
+    "Box office": 18100000
   },
   "The Rescuers Down Under": {
     "name": "The Rescuers Down Under",
@@ -6062,10 +6034,10 @@
     "Running time": 77,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$47.4 million "
+    "Box office": 47400000
   },
   "White Fang (1991 film)": {
-    "name": "White Fang (1991 film)",
+    "name": "White Fang ",
     "link": "https://en.wikipedia.org/wiki/White_Fang_(1991_film)",
     "Directed by": "Randal Kleiser",
     "Produced by": "Markay Powell",
@@ -6102,11 +6074,11 @@
     "Running time": 107,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million ",
-    "Box office": "$34.8 million "
+    "Budget": 14000000,
+    "Box office": 34800000
   },
   "Shipwrecked (1990 film)": {
-    "name": "Shipwrecked (1990 film)",
+    "name": "Shipwrecked ",
     "link": "https://en.wikipedia.org/wiki/Shipwrecked_(1990_film)",
     "Directed by": "Nils Gaup",
     "Produced by": [
@@ -6144,8 +6116,8 @@
       "Norwegian",
       "English"
     ],
-    "Budget": "60 million Norwegian Kroner (around $8.7 million in 1989)",
-    "Box office": "$15.1 million"
+    "Budget": 8700000,
+    "Box office": 15100000
   },
   "Wild Hearts Can't Be Broken": {
     "name": "Wild Hearts Can't Be Broken",
@@ -6175,10 +6147,10 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7.3 million"
+    "Box office": 7300000
   },
   "The Rocketeer (film)": {
-    "name": "The Rocketeer (film)",
+    "name": "The Rocketeer ",
     "link": "https://en.wikipedia.org/wiki/The_Rocketeer_(film)",
     "Directed by": "Joe Johnston",
     "Produced by": [
@@ -6223,11 +6195,11 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35-40 million  ",
-    "Box office": "$46.7 million   (USA)"
+    "Budget": 35000000,
+    "Box office": 46700000
   },
   "Beauty and the Beast (1991 film)": {
-    "name": "Beauty and the Beast (1991 film)",
+    "name": "Beauty and the Beast ",
     "link": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)",
     "Directed by": [
       "Gary Trousdale",
@@ -6275,8 +6247,8 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$440.1 million "
+    "Budget": 25000000,
+    "Box office": 440100000
   },
   "Newsies": {
     "name": "Newsies",
@@ -6317,8 +6289,8 @@
     "Running time": 121,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$15 million",
-    "Box office": "$2.8 million"
+    "Budget": 15000000,
+    "Box office": 2800000
   },
   "Honey, I Blew Up the Kid": {
     "name": "Honey, I Blew Up the Kid",
@@ -6362,11 +6334,11 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million ",
-    "Box office": "$96 million"
+    "Budget": 40000000,
+    "Box office": 96000000
   },
   "The Mighty Ducks (film)": {
-    "name": "The Mighty Ducks (film)",
+    "name": "The Mighty Ducks ",
     "link": "https://en.wikipedia.org/wiki/The_Mighty_Ducks_(film)",
     "Directed by": "Stephen Herek",
     "Produced by": [
@@ -6395,11 +6367,11 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$14 million ",
-    "Box office": "$50.8 million "
+    "Budget": 14000000,
+    "Box office": 50800000
   },
   "Aladdin (1992 Disney film)": {
-    "name": "Aladdin (1992 Disney film)",
+    "name": "Aladdin ",
     "link": "https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)",
     "Directed by": [
       "John Musker",
@@ -6457,8 +6429,8 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million ",
-    "Box office": "$504.1 million "
+    "Budget": 28000000,
+    "Box office": 504100000
   },
   "The Muppet Christmas Carol": {
     "name": "The Muppet Christmas Carol",
@@ -6498,8 +6470,8 @@
     "Running time": 86,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$12 million",
-    "Box office": "$27.2 million "
+    "Budget": 12000000,
+    "Box office": 27200000
   },
   "Homeward Bound: The Incredible Journey": {
     "name": "Homeward Bound: The Incredible Journey",
@@ -6541,7 +6513,7 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$57 million "
+    "Box office": 57000000
   },
   "A Far Off Place": {
     "name": "A Far Off Place",
@@ -6582,10 +6554,10 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$12.9 million "
+    "Box office": 12900000
   },
   "The Adventures of Huck Finn (1993 film)": {
-    "name": "The Adventures of Huck Finn (1993 film)",
+    "name": "The Adventures of Huck Finn ",
     "link": "https://en.wikipedia.org/wiki/The_Adventures_of_Huck_Finn_(1993_film)",
     "Directed by": "Stephen Sommers",
     "Produced by": [
@@ -6613,11 +6585,11 @@
     "Running time": 107,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$6.5 million",
-    "Box office": "$24.1 million"
+    "Budget": 6500000,
+    "Box office": 24100000
   },
   "Hocus Pocus (1993 film)": {
-    "name": "Hocus Pocus (1993 film)",
+    "name": "Hocus Pocus ",
     "link": "https://en.wikipedia.org/wiki/Hocus_Pocus_(1993_film)",
     "Directed by": "Kenny Ortega",
     "Produced by": [
@@ -6649,8 +6621,8 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million",
-    "Box office": "$44.9 million "
+    "Budget": 28000000,
+    "Box office": 44900000
   },
   "Cool Runnings": {
     "name": "Cool Runnings",
@@ -6686,11 +6658,11 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$17 million",
-    "Box office": "$154.9 million"
+    "Budget": 17000000,
+    "Box office": 154900000
   },
   "The Three Musketeers (1993 film)": {
-    "name": "The Three Musketeers (1993 film)",
+    "name": "The Three Musketeers ",
     "link": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1993_film)",
     "Directed by": "Stephen Herek",
     "Produced by": [
@@ -6728,8 +6700,8 @@
       ""
     ],
     "Language": "English",
-    "Budget": "$30 million",
-    "Box office": "$53.9 million"
+    "Budget": 30000000,
+    "Box office": 53900000
   },
   "Iron Will": {
     "name": "Iron Will",
@@ -6760,10 +6732,10 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$21 million "
+    "Box office": 21000000
   },
   "Blank Check (film)": {
-    "name": "Blank Check (film)",
+    "name": "Blank Check ",
     "link": "https://en.wikipedia.org/wiki/Blank_Check_(film)",
     "Directed by": "Rupert Wainwright",
     "Produced by": [
@@ -6796,8 +6768,8 @@
     "Running time": 94,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$13 million",
-    "Box office": "$39 million "
+    "Budget": 13000000,
+    "Box office": 39000000
   },
   "D2: The Mighty Ducks": {
     "name": "D2: The Mighty Ducks",
@@ -6833,7 +6805,7 @@
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$45.6 million"
+    "Box office": 45600000
   },
   "White Fang 2: Myth of the White Wolf": {
     "name": "White Fang 2: Myth of the White Wolf",
@@ -6856,7 +6828,7 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$8,878,839 (US) "
+    "Box office": 8000000
   },
   "The Lion King": {
     "name": "The Lion King",
@@ -6918,11 +6890,11 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million ",
-    "Box office": "$968.5 million "
+    "Budget": 45000000,
+    "Box office": 968500000
   },
   "Angels in the Outfield (1994 film)": {
-    "name": "Angels in the Outfield (1994 film)",
+    "name": "Angels in the Outfield ",
     "link": "https://en.wikipedia.org/wiki/Angels_in_the_Outfield_(1994_film)",
     "Directed by": "William Dear",
     "Produced by": [
@@ -6957,8 +6929,8 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$31 million ",
-    "Box office": "$50.2 million "
+    "Budget": 31000000,
+    "Box office": 50200000
   },
   "Squanto: A Warrior's Tale": {
     "name": "Squanto: A Warrior's Tale",
@@ -6987,7 +6959,7 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": "$3,337,685 "
+    "Box office": 3000000
   },
   "The Santa Clause": {
     "name": "The Santa Clause",
@@ -7023,11 +6995,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million ",
-    "Box office": "$189.8 million "
+    "Budget": 22000000,
+    "Box office": 189800000
   },
   "The Jungle Book (1994 film)": {
-    "name": "The Jungle Book (1994 film)",
+    "name": "The Jungle Book ",
     "link": "https://en.wikipedia.org/wiki/The_Jungle_Book_(1994_film)",
     "Directed by": "Stephen Sommers",
     "Produced by": [
@@ -7077,8 +7049,8 @@
     "Running time": 111,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$43.2 million "
+    "Budget": 30000000,
+    "Box office": 43200000
   },
   "Heavyweights": {
     "name": "Heavyweights",
@@ -7124,10 +7096,10 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$17.6 million "
+    "Box office": 17600000
   },
   "Man of the House (1995 film)": {
-    "name": "Man of the House (1995 film)",
+    "name": "Man of the House ",
     "link": "https://en.wikipedia.org/wiki/Man_of_the_House_(1995_film)",
     "Directed by": "James Orr",
     "Produced by": [
@@ -7162,11 +7134,11 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million",
-    "Box office": "$40,070,995"
+    "Budget": 22000000,
+    "Box office": 40000000
   },
   "Tall Tale (film)": {
-    "name": "Tall Tale (film)",
+    "name": "Tall Tale ",
     "link": "https://en.wikipedia.org/wiki/Tall_Tale_(film)",
     "Directed by": "Jeremiah S. Chechik",
     "Produced by": [
@@ -7198,11 +7170,8 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Budget": [
-      "$32 million",
-      "(estimated)"
-    ],
-    "Box office": "$11 million"
+    "Budget": 32000000,
+    "Box office": 11000000
   },
   "A Goofy Movie": {
     "name": "A Goofy Movie",
@@ -7247,10 +7216,10 @@
       ""
     ],
     "Language": "English",
-    "Box office": "$37.6 million "
+    "Box office": 37600000
   },
   "Pocahontas (1995 film)": {
-    "name": "Pocahontas (1995 film)",
+    "name": "Pocahontas ",
     "link": "https://en.wikipedia.org/wiki/Pocahontas_(1995_film)",
     "Directed by": [
       "Mike Gabriel",
@@ -7300,8 +7269,8 @@
     "Running time": 81,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$55 million ",
-    "Box office": "$346.1 million "
+    "Budget": 55000000,
+    "Box office": 346100000
   },
   "Operation Dumbo Drop": {
     "name": "Operation Dumbo Drop",
@@ -7338,8 +7307,8 @@
       "English",
       "Vietnamese"
     ],
-    "Budget": "$24 million ",
-    "Box office": "$24,670,346 "
+    "Budget": 24000000,
+    "Box office": 24000000
   },
   "A Kid in King Arthur's Court": {
     "name": "A Kid in King Arthur's Court",
@@ -7382,8 +7351,8 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$15 million",
-    "Box office": "$13.4 million (domestic) "
+    "Budget": 15000000,
+    "Box office": 13400000
   },
   "The Big Green": {
     "name": "The Big Green",
@@ -7412,8 +7381,8 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12 million",
-    "Box office": "$17.7 million"
+    "Budget": 12000000,
+    "Box office": 17700000
   },
   "Frank and Ollie": {
     "name": "Frank and Ollie",
@@ -7486,8 +7455,8 @@
     "Running time": 81,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$373 million "
+    "Budget": 30000000,
+    "Box office": 373000000
   },
   "Tom and Huck": {
     "name": "Tom and Huck",
@@ -7519,7 +7488,7 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.9 million "
+    "Box office": 23900000
   },
   "Muppet Treasure Island": {
     "name": "Muppet Treasure Island",
@@ -7560,8 +7529,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$31 million",
-    "Box office": "$34.3 million (North America) "
+    "Budget": 31000000,
+    "Box office": 34300000
   },
   "Homeward Bound II: Lost in San Francisco": {
     "name": "Homeward Bound II: Lost in San Francisco",
@@ -7599,10 +7568,10 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$32.7 million"
+    "Box office": 32700000
   },
   "James and the Giant Peach (film)": {
-    "name": "James and the Giant Peach (film)",
+    "name": "James and the Giant Peach ",
     "link": "https://en.wikipedia.org/wiki/James_and_the_Giant_Peach_(film)",
     "Directed by": "Henry Selick",
     "Produced by": [
@@ -7655,11 +7624,11 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$38 million",
-    "Box office": "$37.7 million "
+    "Budget": 38000000,
+    "Box office": 37700000
   },
   "The Hunchback of Notre Dame (1996 film)": {
-    "name": "The Hunchback of Notre Dame (1996 film)",
+    "name": "The Hunchback of Notre Dame ",
     "link": "https://en.wikipedia.org/wiki/The_Hunchback_of_Notre_Dame_(1996_film)",
     "Directed by": [
       "Gary Trousdale",
@@ -7701,8 +7670,8 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million ",
-    "Box office": "$325.3 million "
+    "Budget": 100000000,
+    "Box office": 325300000
   },
   "First Kid": {
     "name": "First Kid",
@@ -7728,8 +7697,8 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$15 million ",
-    "Box office": "$26,465,920 (USA) "
+    "Budget": 15000000,
+    "Box office": 26000000
   },
   "D3: The Mighty Ducks": {
     "name": "D3: The Mighty Ducks",
@@ -7769,10 +7738,10 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$22.9 million "
+    "Box office": 22900000
   },
   "101 Dalmatians (1996 film)": {
-    "name": "101 Dalmatians (1996 film)",
+    "name": "101 Dalmatians ",
     "link": "https://en.wikipedia.org/wiki/101_Dalmatians_(1996_film)",
     "Directed by": "Stephen Herek",
     "Produced by": [
@@ -7803,11 +7772,11 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$75 million ",
-    "Box office": "$320.7 million "
+    "Budget": 75000000,
+    "Box office": 320700000
   },
   "That Darn Cat (1997 film)": {
-    "name": "That Darn Cat (1997 film)",
+    "name": "That Darn Cat ",
     "link": "https://en.wikipedia.org/wiki/That_Darn_Cat_(1997_film)",
     "Directed by": "Bob Spiers",
     "Produced by": "Robert Simonds",
@@ -7848,7 +7817,7 @@
     "Running time": 86,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$18.3 million "
+    "Box office": 18300000
   },
   "Jungle 2 Jungle": {
     "name": "Jungle 2 Jungle",
@@ -7889,11 +7858,11 @@
       "France"
     ],
     "Language": "English",
-    "Budget": "$32 million",
-    "Box office": "$59.9 million"
+    "Budget": 32000000,
+    "Box office": 59900000
   },
   "Hercules (1997 film)": {
-    "name": "Hercules (1997 film)",
+    "name": "Hercules ",
     "link": "https://en.wikipedia.org/wiki/Hercules_(1997_film)",
     "Directed by": [
       "Ron Clements",
@@ -7944,11 +7913,11 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million ",
-    "Box office": "$252.7 million "
+    "Budget": 85000000,
+    "Box office": 252700000
   },
   "George of the Jungle (film)": {
-    "name": "George of the Jungle (film)",
+    "name": "George of the Jungle ",
     "link": "https://en.wikipedia.org/wiki/George_of_the_Jungle_(film)",
     "Directed by": "Sam Weisman",
     "Produced by": [
@@ -7993,8 +7962,8 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$55 million ",
-    "Box office": "$174.4 million"
+    "Budget": 55000000,
+    "Box office": 174400000
   },
   "Air Bud": {
     "name": "Air Bud",
@@ -8037,8 +8006,8 @@
       "Canada"
     ],
     "Language": "English",
-    "Budget": "$3 million",
-    "Box office": "$27.8 million "
+    "Budget": 3000000,
+    "Box office": 27800000
   },
   "RocketMan": {
     "name": "RocketMan",
@@ -8070,11 +8039,11 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$16 million",
-    "Box office": "$15.4 million"
+    "Budget": 16000000,
+    "Box office": 15400000
   },
   "Flubber (film)": {
-    "name": "Flubber (film)",
+    "name": "Flubber ",
     "link": "https://en.wikipedia.org/wiki/Flubber_(film)",
     "Directed by": "Les Mayfield",
     "Produced by": [
@@ -8111,11 +8080,11 @@
     "Running time": 93,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$80 million ",
-    "Box office": "$178 million "
+    "Budget": 80000000,
+    "Box office": 178000000
   },
   "Mr. Magoo (film)": {
-    "name": "Mr. Magoo (film)",
+    "name": "Mr. Magoo ",
     "link": "https://en.wikipedia.org/wiki/Mr._Magoo_(film)",
     "Directed by": "Stanley Tong",
     "Produced by": "Ben Myron",
@@ -8154,8 +8123,8 @@
     "Running time": 87,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million",
-    "Box office": "$28.9 million "
+    "Budget": 30000000,
+    "Box office": 28900000
   },
   "Meet the Deedles": {
     "name": "Meet the Deedles",
@@ -8187,11 +8156,11 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$24 million",
-    "Box office": "$4.4 million "
+    "Budget": 24000000,
+    "Box office": 4400000
   },
   "Mulan (1998 film)": {
-    "name": "Mulan (1998 film)",
+    "name": "Mulan ",
     "link": "https://en.wikipedia.org/wiki/Mulan_(1998_film)",
     "Directed by": [
       "Barry Cook",
@@ -8228,11 +8197,11 @@
     "Running time": 87,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million ",
-    "Box office": "$304.3 million "
+    "Budget": 90000000,
+    "Box office": 304300000
   },
   "The Parent Trap (1998 film)": {
-    "name": "The Parent Trap (1998 film)",
+    "name": "The Parent Trap ",
     "link": "https://en.wikipedia.org/wiki/The_Parent_Trap_(1998_film)",
     "Directed by": "Nancy Meyers",
     "Produced by": "Charles Shyer",
@@ -8260,11 +8229,11 @@
     "Running time": 128,
     "Country": "United States  ",
     "Language": "English",
-    "Budget": "$15 million ",
-    "Box office": "$92.1 million "
+    "Budget": 15000000,
+    "Box office": 92100000
   },
   "I'll Be Home for Christmas (1998 film)": {
-    "name": "I'll Be Home for Christmas (1998 film)",
+    "name": "I'll Be Home for Christmas ",
     "link": "https://en.wikipedia.org/wiki/I%27ll_Be_Home_for_Christmas_(1998_film)",
     "Directed by": "Arlene Sanford",
     "Produced by": [
@@ -8297,8 +8266,8 @@
     "Running time": 86,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$12.2 million "
+    "Budget": 30000000,
+    "Box office": 12200000
   },
   "A Bug's Life": {
     "name": "A Bug's Life",
@@ -8335,11 +8304,11 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120 million ",
-    "Box office": "$363.3 million "
+    "Budget": 120000000,
+    "Box office": 363300000
   },
   "Mighty Joe Young (1998 film)": {
-    "name": "Mighty Joe Young (1998 film)",
+    "name": "Mighty Joe Young ",
     "link": "https://en.wikipedia.org/wiki/Mighty_Joe_Young_(1998_film)",
     "Directed by": "Ron Underwood",
     "Produced by": [
@@ -8380,11 +8349,11 @@
     "Running time": 114,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million ",
-    "Box office": "$50.6 million (US) "
+    "Budget": 90000000,
+    "Box office": 50600000
   },
   "My Favorite Martian (film)": {
-    "name": "My Favorite Martian (film)",
+    "name": "My Favorite Martian ",
     "link": "https://en.wikipedia.org/wiki/My_Favorite_Martian_(film)",
     "Directed by": "Donald Petrie",
     "Produced by": [
@@ -8418,8 +8387,8 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million ",
-    "Box office": "$36.8 million "
+    "Budget": 65000000,
+    "Box office": 36800000
   },
   "Doug's 1st Movie": {
     "name": "Doug's 1st Movie",
@@ -8464,11 +8433,11 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million",
-    "Box office": "$19.4 million "
+    "Budget": 5000000,
+    "Box office": 19400000
   },
   "Endurance (film)": {
-    "name": "Endurance (film)",
+    "name": "Endurance ",
     "link": "https://en.wikipedia.org/wiki/Endurance_(film)",
     "Directed by": [
       "Leslie Woodhead",
@@ -8505,7 +8474,7 @@
     "Language": "English"
   },
   "Tarzan (1999 film)": {
-    "name": "Tarzan (1999 film)",
+    "name": "Tarzan ",
     "link": "https://en.wikipedia.org/wiki/Tarzan_(1999_film)",
     "Directed by": [
       "Kevin Lima",
@@ -8571,11 +8540,11 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million ",
-    "Box office": "$448.2 million "
+    "Budget": 130000000,
+    "Box office": 448200000
   },
   "Inspector Gadget (film)": {
-    "name": "Inspector Gadget (film)",
+    "name": "Inspector Gadget ",
     "link": "https://en.wikipedia.org/wiki/Inspector_Gadget_(film)",
     "Directed by": "David Kellogg",
     "Produced by": [
@@ -8626,8 +8595,8 @@
     "Running time": 78,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million ",
-    "Box office": "$134.4 million "
+    "Budget": 90000000,
+    "Box office": 134400000
   },
   "The Straight Story": {
     "name": "The Straight Story",
@@ -8673,8 +8642,8 @@
       "France"
     ],
     "Language": "English",
-    "Budget": "$10 million",
-    "Box office": "$6.2 million (North America) "
+    "Budget": 10000000,
+    "Box office": 6200000
   },
   "Toy Story 2": {
     "name": "Toy Story 2",
@@ -8716,8 +8685,8 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million ",
-    "Box office": "$497.4 million "
+    "Budget": 90000000,
+    "Box office": 497400000
   },
   "Fantasia 2000": {
     "name": "Fantasia 2000",
@@ -8799,8 +8768,8 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$80\u2013$85 million  ",
-    "Box office": "$90.9 million "
+    "Budget": 80000000,
+    "Box office": 90900000
   },
   "The Tigger Movie": {
     "name": "The Tigger Movie",
@@ -8845,11 +8814,11 @@
       ""
     ],
     "Language": "English",
-    "Budget": "$15 million   \u2013$30 million ",
-    "Box office": "$96.2 million "
+    "Budget": 15000000,
+    "Box office": 96200000
   },
   "Dinosaur (film)": {
-    "name": "Dinosaur (film)",
+    "name": "Dinosaur ",
     "link": "https://en.wikipedia.org/wiki/Dinosaur_(film)",
     "Directed by": [
       "Ralph Zondag",
@@ -8894,8 +8863,8 @@
     "Running time": 82,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$127.5 million ",
-    "Box office": "$349.8 million "
+    "Budget": 127500000,
+    "Box office": 349800000
   },
   "Disney's The Kid": {
     "name": "Disney's The Kid",
@@ -8929,8 +8898,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million ",
-    "Box office": "$110.3 million "
+    "Budget": 65000000,
+    "Box office": 110300000
   },
   "Remember the Titans": {
     "name": "Remember the Titans",
@@ -8960,8 +8929,8 @@
     "Running time": 113,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$136.8 million "
+    "Budget": 30000000,
+    "Box office": 136800000
   },
   "102 Dalmatians": {
     "name": "102 Dalmatians",
@@ -8998,8 +8967,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million",
-    "Box office": "$183.6 million "
+    "Budget": 85000000,
+    "Box office": 183600000
   },
   "The Emperor's New Groove": {
     "name": "The Emperor's New Groove",
@@ -9035,8 +9004,8 @@
     "Running time": 78,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million",
-    "Box office": "$169.6 million"
+    "Budget": 100000000,
+    "Box office": 169600000
   },
   "Recess: School's Out": {
     "name": "Recess: School's Out",
@@ -9091,8 +9060,8 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$23 million ",
-    "Box office": "$44.5 million "
+    "Budget": 23000000,
+    "Box office": 44500000
   },
   "Atlantis: The Lost Empire": {
     "name": "Atlantis: The Lost Empire",
@@ -9137,11 +9106,11 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90\u2013120 million    ",
-    "Box office": "$186.1 million "
+    "Budget": 90000000,
+    "Box office": 186100000
   },
   "The Princess Diaries (film)": {
-    "name": "The Princess Diaries (film)",
+    "name": "The Princess Diaries ",
     "link": "https://en.wikipedia.org/wiki/The_Princess_Diaries_(film)",
     "Directed by": "Garry Marshall",
     "Produced by": [
@@ -9176,8 +9145,8 @@
     "Running time": 115,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million",
-    "Box office": "$165.3 million "
+    "Budget": 26000000,
+    "Box office": 165300000
   },
   "Max Keeble's Big Move": {
     "name": "Max Keeble's Big Move",
@@ -9217,8 +9186,8 @@
     "Running time": 86,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$18.6 million "
+    "Budget": 25000000,
+    "Box office": 18600000
   },
   "Monsters, Inc.": {
     "name": "Monsters, Inc.",
@@ -9260,8 +9229,8 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$115 million ",
-    "Box office": "$577.4 million "
+    "Budget": 115000000,
+    "Box office": 577400000
   },
   "Snow Dogs": {
     "name": "Snow Dogs",
@@ -9299,8 +9268,8 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$33 million",
-    "Box office": "$115 million"
+    "Budget": 33000000,
+    "Box office": 115000000
   },
   "Return to Never Land": {
     "name": "Return to Never Land",
@@ -9339,11 +9308,11 @@
     "Running time": 73,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$115.1 million "
+    "Budget": 20000000,
+    "Box office": 115100000
   },
   "The Rookie (2002 film)": {
-    "name": "The Rookie (2002 film)",
+    "name": "The Rookie ",
     "link": "https://en.wikipedia.org/wiki/The_Rookie_(2002_film)",
     "Directed by": "John Lee Hancock",
     "Produced by": [
@@ -9370,8 +9339,8 @@
     "Running time": 128,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million",
-    "Box office": "$80.7 million "
+    "Budget": 22000000,
+    "Box office": 80700000
   },
   "Lilo & Stitch": {
     "name": "Lilo & Stitch",
@@ -9408,8 +9377,8 @@
     "Running time": 85,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$80 million ",
-    "Box office": "$273.1 million "
+    "Budget": 80000000,
+    "Box office": 273100000
   },
   "The Country Bears": {
     "name": "The Country Bears",
@@ -9440,8 +9409,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million",
-    "Box office": "$18 million "
+    "Budget": 35000000,
+    "Box office": 18000000
   },
   "Spirited Away": {
     "name": "Spirited Away",
@@ -9470,18 +9439,11 @@
     "Running time": 125,
     "Country": "Japan",
     "Language": "Japanese",
-    "Budget": [
-      "\u00a5",
-      "1.9\u20132 billion",
-      "($15\u201319.2 million)",
-      "",
-      "",
-      ""
-    ],
-    "Box office": "$383.4 million "
+    "Budget": 15000000,
+    "Box office": 383400000
   },
   "Tuck Everlasting (2002 film)": {
-    "name": "Tuck Everlasting (2002 film)",
+    "name": "Tuck Everlasting ",
     "link": "https://en.wikipedia.org/wiki/Tuck_Everlasting_(2002_film)",
     "Directed by": "Jay Russell",
     "Produced by": [
@@ -9520,8 +9482,8 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$15 million ",
-    "Box office": "$19.3 million "
+    "Budget": 15000000,
+    "Box office": 19300000
   },
   "The Santa Clause 2": {
     "name": "The Santa Clause 2",
@@ -9568,8 +9530,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million  ",
-    "Box office": "$172.9 million "
+    "Budget": 65000000,
+    "Box office": 172900000
   },
   "Treasure Planet": {
     "name": "Treasure Planet",
@@ -9620,8 +9582,8 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$140 million ",
-    "Box office": "$109.6 million "
+    "Budget": 140000000,
+    "Box office": 109600000
   },
   "The Jungle Book 2": {
     "name": "The Jungle Book 2",
@@ -9664,8 +9626,8 @@
       "Australia"
     ],
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$135.7 million "
+    "Budget": 20000000,
+    "Box office": 135700000
   },
   "Piglet's Big Movie": {
     "name": "Piglet's Big Movie",
@@ -9712,8 +9674,8 @@
     "Running time": 75,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$46 million ",
-    "Box office": "$62.9 million "
+    "Budget": 46000000,
+    "Box office": 62900000
   },
   "Ghosts of the Abyss": {
     "name": "Ghosts of the Abyss",
@@ -9756,11 +9718,11 @@
     "Running time": 61,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$13 million ",
-    "Box office": "$28.7 million "
+    "Budget": 13000000,
+    "Box office": 28700000
   },
   "Holes (film)": {
-    "name": "Holes (film)",
+    "name": "Holes ",
     "link": "https://en.wikipedia.org/wiki/Holes_(film)",
     "Directed by": "Andrew Davis",
     "Produced by": [
@@ -9798,8 +9760,8 @@
     "Running time": 117,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$71.4 million "
+    "Budget": 20000000,
+    "Box office": 71400000
   },
   "The Lizzie McGuire Movie": {
     "name": "The Lizzie McGuire Movie",
@@ -9835,8 +9797,8 @@
     "Running time": 94,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$17 million ",
-    "Box office": "$55.5 million "
+    "Budget": 17000000,
+    "Box office": 55500000
   },
   "Finding Nemo": {
     "name": "Finding Nemo",
@@ -9870,8 +9832,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$94 million ",
-    "Box office": "$940.3 million "
+    "Budget": 94000000,
+    "Box office": 940300000
   },
   "Pirates of the Caribbean: The Curse of the Black Pearl": {
     "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -9919,11 +9881,11 @@
     "Running time": 143,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$140 million ",
-    "Box office": "$654.3 million "
+    "Budget": 140000000,
+    "Box office": 654300000
   },
   "Freaky Friday (2003 film)": {
-    "name": "Freaky Friday (2003 film)",
+    "name": "Freaky Friday ",
     "link": "https://en.wikipedia.org/wiki/Freaky_Friday_(2003_film)",
     "Directed by": "Mark Waters",
     "Produced by": "Andrew Gunn",
@@ -9955,8 +9917,8 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million ",
-    "Box office": "$160.8 million "
+    "Budget": 26000000,
+    "Box office": 160800000
   },
   "Brother Bear": {
     "name": "Brother Bear",
@@ -10006,11 +9968,11 @@
     "Running time": 85,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$46 million ",
-    "Box office": "$250.4 million "
+    "Budget": 46000000,
+    "Box office": 250400000
   },
   "The Haunted Mansion (film)": {
-    "name": "The Haunted Mansion (film)",
+    "name": "The Haunted Mansion ",
     "link": "https://en.wikipedia.org/wiki/The_Haunted_Mansion_(film)",
     "Directed by": "Rob Minkoff",
     "Produced by": [
@@ -10039,8 +10001,8 @@
     "Running time": 86,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$90 million ",
-    "Box office": "$182.3 million "
+    "Budget": 90000000,
+    "Box office": 182300000
   },
   "The Young Black Stallion": {
     "name": "The Young Black Stallion",
@@ -10076,10 +10038,10 @@
     "Running time": 50,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9,638,389"
+    "Box office": 9000000
   },
   "Teacher's Pet (2004 film)": {
-    "name": "Teacher's Pet (2004 film)",
+    "name": "Teacher's Pet ",
     "link": "https://en.wikipedia.org/wiki/Teacher%27s_Pet_(2004_film)",
     "Directed by": "Timothy Bj\u00f6rklund",
     "Produced by": "Stephen Swofford",
@@ -10112,11 +10074,11 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$10 million",
-    "Box office": "$6.5 million "
+    "Budget": 10000000,
+    "Box office": 6500000
   },
   "Miracle (2004 film)": {
-    "name": "Miracle (2004 film)",
+    "name": "Miracle ",
     "link": "https://en.wikipedia.org/wiki/Miracle_(2004_film)",
     "Directed by": "Gavin O'Connor",
     "Produced by": [
@@ -10151,8 +10113,8 @@
     "Running time": 136,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million ",
-    "Box office": "$64.5 million "
+    "Budget": 28000000,
+    "Box office": 64500000
   },
   "Confessions of a Teenage Drama Queen": {
     "name": "Confessions of a Teenage Drama Queen",
@@ -10185,11 +10147,11 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$15 million",
-    "Box office": "$33.1 million "
+    "Budget": 15000000,
+    "Box office": 33100000
   },
   "Home on the Range (2004 film)": {
-    "name": "Home on the Range (2004 film)",
+    "name": "Home on the Range ",
     "link": "https://en.wikipedia.org/wiki/Home_on_the_Range_(2004_film)",
     "Directed by": [
       "Will Finn",
@@ -10227,8 +10189,8 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$110 million ",
-    "Box office": "$145.5 million "
+    "Budget": 110000000,
+    "Box office": 145500000
   },
   "Sacred Planet": {
     "name": "Sacred Planet",
@@ -10266,10 +10228,10 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": "$1,108,356"
+    "Box office": 1000000
   },
   "Around the World in 80 Days (2004 film)": {
-    "name": "Around the World in 80 Days (2004 film)",
+    "name": "Around the World in 80 Days ",
     "link": "https://en.wikipedia.org/wiki/Around_the_World_in_80_Days_(2004_film)",
     "Directed by": "Frank Coraci",
     "Produced by": [
@@ -10314,8 +10276,8 @@
       "Mandarin Chinese",
       "Hindi"
     ],
-    "Budget": "$110 million ",
-    "Box office": "$72.2 million "
+    "Budget": 110000000,
+    "Box office": 72200000
   },
   "America's Heart and Soul": {
     "name": "America's Heart and Soul",
@@ -10337,7 +10299,7 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$314,402"
+    "Box office": 314000
   },
   "The Princess Diaries 2: Royal Engagement": {
     "name": "The Princess Diaries 2: Royal Engagement",
@@ -10379,8 +10341,8 @@
     "Running time": 113,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million ",
-    "Box office": "$134.7 million "
+    "Budget": 45000000,
+    "Box office": 134700000
   },
   "The Incredibles": {
     "name": "The Incredibles",
@@ -10413,11 +10375,11 @@
     "Running time": 115,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$92 million ",
-    "Box office": "$633 million "
+    "Budget": 92000000,
+    "Box office": 633000000
   },
   "National Treasure (film)": {
-    "name": "National Treasure (film)",
+    "name": "National Treasure ",
     "link": "https://en.wikipedia.org/wiki/National_Treasure_(film)",
     "Directed by": "Jon Turteltaub",
     "Produced by": [
@@ -10457,8 +10419,8 @@
     "Running time": 131,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million ",
-    "Box office": "$347.5 million "
+    "Budget": 100000000,
+    "Box office": 347500000
   },
   "Aliens of the Deep": {
     "name": "Aliens of the Deep",
@@ -10499,7 +10461,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$9 million "
+    "Box office": 9000000
   },
   "Pooh's Heffalump Movie": {
     "name": "Pooh's Heffalump Movie",
@@ -10533,8 +10495,8 @@
     "Running time": 68,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$20 million",
-    "Box office": "$52.9 million "
+    "Budget": 20000000,
+    "Box office": 52900000
   },
   "The Pacifier": {
     "name": "The Pacifier",
@@ -10570,8 +10532,8 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$56 million ",
-    "Box office": "$198.6 million "
+    "Budget": 56000000,
+    "Box office": 198600000
   },
   "Ice Princess": {
     "name": "Ice Princess",
@@ -10599,8 +10561,8 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$27.6 million"
+    "Budget": 25000000,
+    "Box office": 27600000
   },
   "Herbie: Fully Loaded": {
     "name": "Herbie: Fully Loaded",
@@ -10641,11 +10603,11 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million",
-    "Box office": "$144.1 million"
+    "Budget": 50000000,
+    "Box office": 144100000
   },
   "Howl's Moving Castle (film)": {
-    "name": "Howl's Moving Castle (film)",
+    "name": "Howl's Moving Castle ",
     "link": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)",
     "Japanese": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
     "Hepburn": "Hauru no Ugoku Shiro",
@@ -10672,20 +10634,11 @@
     "Running time": 119,
     "Country": "Japan ",
     "Language": "Japanese ",
-    "Budget": [
-      "\u00a5",
-      "2.4 billion",
-      "US$24 million"
-    ],
-    "Box office": [
-      "\u00a5",
-      "23.2 billion",
-      "US$236 million (worldwide)",
-      ""
-    ]
+    "Budget": 55884000,
+    "Box office": 55884000
   },
   "Sky High (2005 film)": {
-    "name": "Sky High (2005 film)",
+    "name": "Sky High ",
     "link": "https://en.wikipedia.org/wiki/Sky_High_(2005_film)",
     "Directed by": "Mike Mitchell",
     "Produced by": "Andrew Gunn",
@@ -10713,11 +10666,11 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million ",
-    "Box office": "$86.4 million "
+    "Budget": 35000000,
+    "Box office": 86400000
   },
   "Valiant (film)": {
-    "name": "Valiant (film)",
+    "name": "Valiant ",
     "link": "https://en.wikipedia.org/wiki/Valiant_(film)",
     "Directed by": "Gary Chapman",
     "Produced by": [
@@ -10761,8 +10714,8 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$35 million ",
-    "Box office": "$61.7 million "
+    "Budget": 35000000,
+    "Box office": 61700000
   },
   "The Greatest Game Ever Played": {
     "name": "The Greatest Game Ever Played",
@@ -10793,11 +10746,11 @@
     "Running time": 120,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$15.4 million "
+    "Budget": 25000000,
+    "Box office": 15400000
   },
   "Chicken Little (2005 film)": {
-    "name": "Chicken Little (2005 film)",
+    "name": "Chicken Little ",
     "link": "https://en.wikipedia.org/wiki/Chicken_Little_(2005_film)",
     "Directed by": "Mark Dindal",
     "Produced by": "Randy Fullmer",
@@ -10832,8 +10785,8 @@
     "Running time": 81,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$314.4 million "
+    "Budget": 150000000,
+    "Box office": 314400000
   },
   "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
     "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -10881,11 +10834,11 @@
       "United States "
     ],
     "Language": "English",
-    "Budget": "$180 million ",
-    "Box office": "$745 million "
+    "Budget": 180000000,
+    "Box office": 745000000
   },
   "Glory Road (film)": {
-    "name": "Glory Road (film)",
+    "name": "Glory Road ",
     "link": "https://en.wikipedia.org/wiki/Glory_Road_(film)",
     "Directed by": "James Gartner",
     "Produced by": "Jerry Bruckheimer",
@@ -10920,8 +10873,8 @@
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$42.9 million "
+    "Budget": 30000000,
+    "Box office": 42900000
   },
   "Roving Mars": {
     "name": "Roving Mars",
@@ -10952,8 +10905,8 @@
     "Running time": 40,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$1 million ",
-    "Box office": "$11 million "
+    "Budget": 1000000,
+    "Box office": 11000000
   },
   "Eight Below": {
     "name": "Eight Below",
@@ -10990,11 +10943,11 @@
     "Running time": 120,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million",
-    "Box office": "$120.5 million"
+    "Budget": 40000000,
+    "Box office": 120500000
   },
   "The Shaggy Dog (2006 film)": {
-    "name": "The Shaggy Dog (2006 film)",
+    "name": "The Shaggy Dog ",
     "link": "https://en.wikipedia.org/wiki/The_Shaggy_Dog_(2006_film)",
     "Directed by": "Brian Robbins",
     "Produced by": [
@@ -11036,8 +10989,8 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million ",
-    "Box office": "$87.1 million "
+    "Budget": 50000000,
+    "Box office": 87100000
   },
   "The Wild": {
     "name": "The Wild",
@@ -11085,11 +11038,11 @@
       "Canada "
     ],
     "Language": "English",
-    "Budget": "$80 million ",
-    "Box office": "$102.3 million "
+    "Budget": 80000000,
+    "Box office": 102300000
   },
   "Cars (film)": {
-    "name": "Cars (film)",
+    "name": "Cars ",
     "link": "https://en.wikipedia.org/wiki/Cars_(film)",
     "Directed by": "John Lasseter",
     "Produced by": "Darla K. Anderson",
@@ -11127,8 +11080,8 @@
     "Running time": 117,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120 million ",
-    "Box office": "$462 million "
+    "Budget": 120000000,
+    "Box office": 462000000
   },
   "Pirates of the Caribbean: Dead Man's Chest": {
     "name": "Pirates of the Caribbean: Dead Man's Chest",
@@ -11172,11 +11125,11 @@
     "Running time": 150,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$225 million ",
-    "Box office": "$1.066 billion "
+    "Budget": 225000000,
+    "Box office": 1066000
   },
   "Invincible (2006 film)": {
-    "name": "Invincible (2006 film)",
+    "name": "Invincible ",
     "link": "https://en.wikipedia.org/wiki/Invincible_(2006_film)",
     "Directed by": "Ericson Core",
     "Produced by": [
@@ -11199,8 +11152,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million",
-    "Box office": "$58.5 million"
+    "Budget": 30000000,
+    "Box office": 58500000
   },
   "The Nightmare Before Christmas": {
     "name": "The Nightmare Before Christmas",
@@ -11246,8 +11199,8 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$26 million ",
-    "Box office": "$91.5 million "
+    "Budget": 26000000,
+    "Box office": 91500000
   },
   "The Santa Clause 3: The Escape Clause": {
     "name": "The Santa Clause 3: The Escape Clause",
@@ -11293,11 +11246,11 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12 million ",
-    "Box office": "$110.8 million "
+    "Budget": 12000000,
+    "Box office": 110800000
   },
   "Bridge to Terabithia (2007 film)": {
-    "name": "Bridge to Terabithia (2007 film)",
+    "name": "Bridge to Terabithia ",
     "link": "https://en.wikipedia.org/wiki/Bridge_to_Terabithia_(2007_film)",
     "Directed by": "G\u00e1bor Csup\u00f3",
     "Produced by": [
@@ -11339,8 +11292,8 @@
     "Running time": 95,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$20\u201325 million  ",
-    "Box office": "$137.6 million "
+    "Budget": 20000000,
+    "Box office": 137600000
   },
   "Meet the Robinsons": {
     "name": "Meet the Robinsons",
@@ -11386,8 +11339,8 @@
     "Running time": 94,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$169.3 million "
+    "Budget": 150000000,
+    "Box office": 169300000
   },
   "Pirates of the Caribbean: At World's End": {
     "name": "Pirates of the Caribbean: At World's End",
@@ -11433,11 +11386,11 @@
     "Running time": 167,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$300 million ",
-    "Box office": "$961 million "
+    "Budget": 300000000,
+    "Box office": 961000000
   },
   "Ratatouille (film)": {
-    "name": "Ratatouille (film)",
+    "name": "Ratatouille ",
     "link": "https://en.wikipedia.org/wiki/Ratatouille_(film)",
     "Directed by": "Brad Bird",
     "Produced by": "Brad Lewis",
@@ -11476,11 +11429,11 @@
     "Running time": 111,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$620.7 million "
+    "Budget": 150000000,
+    "Box office": 620700000
   },
   "Underdog (2007 film)": {
-    "name": "Underdog (2007 film)",
+    "name": "Underdog ",
     "link": "https://en.wikipedia.org/wiki/Underdog_(2007_film)",
     "Directed by": "Frederik Du Chau",
     "Produced by": [
@@ -11517,8 +11470,8 @@
     "Running time": 82,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$65.3 million "
+    "Budget": 25000000,
+    "Box office": 65300000
   },
   "The Pixar Story": {
     "name": "The Pixar Story",
@@ -11545,7 +11498,7 @@
     "Language": "English"
   },
   "The Game Plan (film)": {
-    "name": "The Game Plan (film)",
+    "name": "The Game Plan ",
     "link": "https://en.wikipedia.org/wiki/The_Game_Plan_(film)",
     "Directed by": "Andy Fickman",
     "Produced by": [
@@ -11580,11 +11533,11 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$22 million ",
-    "Box office": "$146.6 million "
+    "Budget": 22000000,
+    "Box office": 146600000
   },
   "Enchanted (film)": {
-    "name": "Enchanted (film)",
+    "name": "Enchanted ",
     "link": "https://en.wikipedia.org/wiki/Enchanted_(film)#Sequel",
     "Directed by": "Kevin Lima",
     "Produced by": [
@@ -11617,8 +11570,8 @@
     "Running time": 107,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$85 million ",
-    "Box office": "$340.5 million "
+    "Budget": 85000000,
+    "Box office": 340500000
   },
   "National Treasure: Book of Secrets": {
     "name": "National Treasure: Book of Secrets",
@@ -11676,8 +11629,8 @@
     "Running time": 124,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million ",
-    "Box office": "$459.2 million "
+    "Budget": 130000000,
+    "Box office": 459200000
   },
   "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert": {
     "name": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
@@ -11708,8 +11661,8 @@
     "Running time": 74,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$7 million",
-    "Box office": "$70.6 million "
+    "Budget": 7000000,
+    "Box office": 70600000
   },
   "College Road Trip": {
     "name": "College Road Trip",
@@ -11743,8 +11696,8 @@
     "Running time": 83,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million ",
-    "Box office": "$51.5 million"
+    "Budget": 25000000,
+    "Box office": 51500000
   },
   "The Chronicles of Narnia: Prince Caspian": {
     "name": "The Chronicles of Narnia: Prince Caspian",
@@ -11785,8 +11738,8 @@
       "United Kingdom"
     ],
     "Language": "English",
-    "Budget": "$225 million ",
-    "Box office": "$419.7 million "
+    "Budget": 225000000,
+    "Box office": 419700000
   },
   "WALL-E": {
     "name": "WALL-E",
@@ -11824,8 +11777,8 @@
     "Release date": "2008-06-23",
     "Running time": 97,
     "Country": "United States",
-    "Budget": "$180 million ",
-    "Box office": "$521.3 million "
+    "Budget": 180000000,
+    "Box office": 521299999
   },
   "Beverly Hills Chihuahua": {
     "name": "Beverly Hills Chihuahua",
@@ -11866,11 +11819,11 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$20 million ",
-    "Box office": "$149.3 million"
+    "Budget": 20000000,
+    "Box office": 149300000
   },
   "Morning Light (film)": {
-    "name": "Morning Light (film)",
+    "name": "Morning Light ",
     "link": "https://en.wikipedia.org/wiki/Morning_Light_(film)",
     "Directed by": "Mark Monroe",
     "Produced by": "Morgan Sackett",
@@ -11896,7 +11849,7 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$275,776 "
+    "Box office": 275000
   },
   "High School Musical 3: Senior Year": {
     "name": "High School Musical 3: Senior Year",
@@ -11933,11 +11886,11 @@
     "Running time": 111,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$11 million ",
-    "Box office": "$252.9 million "
+    "Budget": 11000000,
+    "Box office": 252900000
   },
   "Bolt (2008 film)": {
-    "name": "Bolt (2008 film)",
+    "name": "Bolt ",
     "link": "https://en.wikipedia.org/wiki/Bolt_(2008_film)",
     "Directed by": [
       "Chris Williams",
@@ -11966,11 +11919,11 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$310 million "
+    "Budget": 150000000,
+    "Box office": 310000000
   },
   "Bedtime Stories (film)": {
-    "name": "Bedtime Stories (film)",
+    "name": "Bedtime Stories ",
     "link": "https://en.wikipedia.org/wiki/Bedtime_Stories_(film)",
     "Directed by": "Adam Shankman",
     "Produced by": [
@@ -12012,11 +11965,11 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$80 million ",
-    "Box office": "$212.9 million "
+    "Budget": 80000000,
+    "Box office": 212900000
   },
   "The Secret of the Magic Gourd (2007 film)": {
-    "name": "The Secret of the Magic Gourd (2007 film)",
+    "name": "The Secret of the Magic Gourd ",
     "link": "https://en.wikipedia.org/wiki/The_Secret_of_the_Magic_Gourd_(2007_film)",
     "Traditional": "\u9b54\u6cd5\u5357\u74dc\u7684\u79d8\u5bc6",
     "Simplified": "\u5b9d\u846b\u82a6\u7684\u79d8\u5bc6",
@@ -12080,7 +12033,7 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$23.1 million "
+    "Box office": 23100000
   },
   "Race to Witch Mountain": {
     "name": "Race to Witch Mountain",
@@ -12121,8 +12074,8 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million ",
-    "Box office": "$106.4 million "
+    "Budget": 50000000,
+    "Box office": 106400000
   },
   "Hannah Montana: The Movie": {
     "name": "Hannah Montana: The Movie",
@@ -12165,11 +12118,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$170  million "
+    "Budget": 30000000,
+    "Box office": 170000000
   },
   "Earth (2007 film)": {
-    "name": "Earth (2007 film)",
+    "name": "Earth ",
     "link": "https://en.wikipedia.org/wiki/Earth_(2007_film)",
     "Directed by": [
       "Alastair Fothergill",
@@ -12220,11 +12173,11 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$47 million",
-    "Box office": "$109 million "
+    "Budget": 47000000,
+    "Box office": 109000000
   },
   "Up (2009 film)": {
-    "name": "Up (2009 film)",
+    "name": "Up ",
     "link": "https://en.wikipedia.org/wiki/Up_(2009_film)",
     "Directed by": "Pete Docter",
     "Produced by": "Jonas Rivera",
@@ -12260,8 +12213,8 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million ",
-    "Box office": "$735.1 million "
+    "Budget": 175000000,
+    "Box office": 735100000
   },
   "Hexe Lilli: Der Drache und das magische Buch": {
     "name": "Hexe Lilli: Der Drache und das magische Buch",
@@ -12278,7 +12231,7 @@
     "Language": "German"
   },
   "G-Force (film)": {
-    "name": "G-Force (film)",
+    "name": "G-Force ",
     "link": "https://en.wikipedia.org/wiki/G-Force_(film)",
     "Directed by": "Hoyt H. Yeatman Jr.",
     "Produced by": "Jerry Bruckheimer",
@@ -12316,8 +12269,8 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$292.8 million "
+    "Budget": 150000000,
+    "Box office": 292800000
   },
   "Ponyo": {
     "name": "Ponyo",
@@ -12353,14 +12306,8 @@
     "Running time": 101,
     "Country": "Japan",
     "Language": "Japanese",
-    "Budget": [
-      "\u00a5",
-      "3.4 billion",
-      "(",
-      "US$",
-      "34 million)"
-    ],
-    "Box office": "US$ 203.2 million "
+    "Budget": 45620690,
+    "Box office": 203200000
   },
   "Walt & El Grupo": {
     "name": "Walt & El Grupo",
@@ -12400,11 +12347,11 @@
     "Running time": 101,
     "Country": "Russia",
     "Language": "Russian",
-    "Budget": "$8 million ( \u20bd 350 million) ",
-    "Box office": "$11.3 million "
+    "Budget": 8000000,
+    "Box office": 11300000
   },
   "A Christmas Carol (2009 film)": {
-    "name": "A Christmas Carol (2009 film)",
+    "name": "A Christmas Carol ",
     "link": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film)",
     "Directed by": "Robert Zemeckis",
     "Produced by": [
@@ -12438,11 +12385,11 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175-200 million  ",
-    "Box office": "$325 million "
+    "Budget": 175000000,
+    "Box office": 325000000
   },
   "Old Dogs (film)": {
-    "name": "Old Dogs (film)",
+    "name": "Old Dogs ",
     "link": "https://en.wikipedia.org/wiki/Old_Dogs_(film)",
     "Directed by": "Walt Becker",
     "Produced by": [
@@ -12481,8 +12428,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million",
-    "Box office": "$96.8 million "
+    "Budget": 35000000,
+    "Box office": 96800000
   },
   "The Princess and the Frog": {
     "name": "The Princess and the Frog",
@@ -12534,11 +12481,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$105 million ",
-    "Box office": "$269 million  "
+    "Budget": 105000000,
+    "Box office": 269000000
   },
   "Alice in Wonderland (2010 film)": {
-    "name": "Alice in Wonderland (2010 film)",
+    "name": "Alice in Wonderland ",
     "link": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(2010_film)",
     "Directed by": "Tim Burton",
     "Produced by": [
@@ -12581,11 +12528,11 @@
     "Running time": 108,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$150   \u2013$200  million",
-    "Box office": "$1.025 billion "
+    "Budget": 150000000,
+    "Box office": 1024999
   },
   "Oceans (film)": {
-    "name": "Oceans (film)",
+    "name": "Oceans ",
     "link": "https://en.wikipedia.org/wiki/Oceans_(film)",
     "Directed by": [
       "Jacques Perrin",
@@ -12635,11 +12582,11 @@
     "Running time": 104,
     "Country": "France",
     "Language": "French",
-    "Budget": "$80 million",
-    "Box office": "$82.7 million "
+    "Budget": 80000000,
+    "Box office": 82700000
   },
   "Prince of Persia: The Sands of Time (film)": {
-    "name": "Prince of Persia: The Sands of Time (film)",
+    "name": "Prince of Persia: The Sands of Time ",
     "link": "https://en.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time_(film)",
     "Directed by": "Mike Newell",
     "Produced by": "Jerry Bruckheimer",
@@ -12679,8 +12626,8 @@
     "Running time": 116,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million ",
-    "Box office": "$336.4 million "
+    "Budget": 200000000,
+    "Box office": 336400000
   },
   "Toy Story 3": {
     "name": "Toy Story 3",
@@ -12724,11 +12671,11 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million ",
-    "Box office": "$1.067 billion "
+    "Budget": 200000000,
+    "Box office": 1067000
   },
   "The Sorcerer's Apprentice (2010 film)": {
-    "name": "The Sorcerer's Apprentice (2010 film)",
+    "name": "The Sorcerer's Apprentice ",
     "link": "https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_(2010_film)",
     "Directed by": "Jon Turteltaub",
     "Produced by": "Jerry Bruckheimer",
@@ -12771,11 +12718,11 @@
     "Running time": 109,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$215.3 million "
+    "Budget": 150000000,
+    "Box office": 215300000
   },
   "Tales from Earthsea (film)": {
-    "name": "Tales from Earthsea (film)",
+    "name": "Tales from Earthsea ",
     "link": "https://en.wikipedia.org/wiki/Tales_from_Earthsea_(film)",
     "Japanese": "\u30b2\u30c9\u6226\u8a18",
     "Hepburn": "Gedo Senki",
@@ -12818,8 +12765,8 @@
     "Running time": 115,
     "Country": "Japan",
     "Language": "Japanese",
-    "Budget": "$22 million ",
-    "Box office": "$75.5 million "
+    "Budget": 22000000,
+    "Box office": 75500000
   },
   "The Crimson Wing: Mystery of the Flamingos": {
     "name": "The Crimson Wing: Mystery of the Flamingos",
@@ -12864,7 +12811,7 @@
     "Language": "English"
   },
   "Secretariat (film)": {
-    "name": "Secretariat (film)",
+    "name": "Secretariat ",
     "link": "https://en.wikipedia.org/wiki/Secretariat_(film)",
     "Directed by": "Randall Wallace",
     "Produced by": [
@@ -12898,8 +12845,8 @@
     "Running time": 123,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$35 million  ",
-    "Box office": "$60.3 million "
+    "Budget": 35000000,
+    "Box office": 60300000
   },
   "Do Dooni Chaar": {
     "name": "Do Dooni Chaar",
@@ -12965,8 +12912,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$260 million  ",
-    "Box office": "$592.4 million "
+    "Budget": 260000000,
+    "Box office": 592400000
   },
   "The Boys: The Sherman Brothers' Story": {
     "name": "The Boys: The Sherman Brothers' Story",
@@ -13004,7 +12951,7 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$55,513 "
+    "Box office": 550000
   },
   "Tron: Legacy": {
     "name": "Tron: Legacy",
@@ -13048,8 +12995,8 @@
     "Running time": 125,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million  ",
-    "Box office": "$400.1 million  "
+    "Budget": 170000000,
+    "Box office": 400100000
   },
   "Anaganaga O Dheerudu": {
     "name": "Anaganaga O Dheerudu",
@@ -13086,8 +13033,8 @@
     "Release date": "2011-01-01",
     "Country": "India",
     "Language": "Telugu",
-    "Budget": "\u20b9 27 crore (US$3.8 million)",
-    "Box office": "\u20b9 50 crore (US$7.0 million)"
+    "Budget": 3800000,
+    "Box office": 7000000
   },
   "Lilly the Witch: The Journey to Mandolan": {
     "name": "Lilly the Witch: The Journey to Mandolan",
@@ -13152,8 +13099,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million  ",
-    "Box office": "$39.2 million "
+    "Budget": 150000000,
+    "Box office": 39200000
   },
   "Zokkomon": {
     "name": "Zokkomon",
@@ -13222,11 +13169,11 @@
       "English",
       "French"
     ],
-    "Budget": "$5 million ",
-    "Box office": "$30.9 million "
+    "Budget": 5000000,
+    "Box office": 30900000
   },
   "Prom (film)": {
-    "name": "Prom (film)",
+    "name": "Prom ",
     "link": "https://en.wikipedia.org/wiki/Prom_(film)",
     "Directed by": "Joe Nussbaum",
     "Produced by": [
@@ -13259,8 +13206,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$8 million ",
-    "Box office": "$10.7 million "
+    "Budget": 8000000,
+    "Box office": 10700000
   },
   "Pirates of the Caribbean: On Stranger Tides": {
     "name": "Pirates of the Caribbean: On Stranger Tides",
@@ -13301,11 +13248,8 @@
     "Running time": 137,
     "Country": "United States",
     "Language": "English",
-    "Budget": [
-      "$410.6 million (gross)",
-      "$378.5 million (net) "
-    ],
-    "Box office": "$1.046 billion "
+    "Budget": 789100000,
+    "Box office": 1046000
   },
   "Cars 2": {
     "name": "Cars 2",
@@ -13344,11 +13288,11 @@
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million ",
-    "Box office": "$562.1 million "
+    "Budget": 200000000,
+    "Box office": 562100000
   },
   "Winnie the Pooh (2011 film)": {
-    "name": "Winnie the Pooh (2011 film)",
+    "name": "Winnie the Pooh ",
     "link": "https://en.wikipedia.org/wiki/Winnie_the_Pooh_(2011_film)",
     "Directed by": [
       "Stephen Anderson",
@@ -13402,11 +13346,11 @@
     "Running time": 69,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$30 million ",
-    "Box office": "$50.1 million "
+    "Budget": 30000000,
+    "Box office": 50100000
   },
   "The Muppets (film)": {
-    "name": "The Muppets (film)",
+    "name": "The Muppets ",
     "link": "https://en.wikipedia.org/wiki/The_Muppets_(film)",
     "Directed by": "James Bobin",
     "Produced by": [
@@ -13441,8 +13385,8 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$45 million  ",
-    "Box office": "$165.2 million "
+    "Budget": 45000000,
+    "Box office": 165200000
   },
   "Arrietty": {
     "name": "Arrietty",
@@ -13483,11 +13427,11 @@
     "Running time": 95,
     "Country": "Japan",
     "Language": "Japanese",
-    "Budget": "$23 million",
-    "Box office": "$146 million "
+    "Budget": 23000000,
+    "Box office": 146000000
   },
   "John Carter (film)": {
-    "name": "John Carter (film)",
+    "name": "John Carter ",
     "link": "https://en.wikipedia.org/wiki/John_Carter_(film)",
     "Directed by": "Andrew Stanton",
     "Produced by": [
@@ -13527,14 +13471,11 @@
     "Running time": 132,
     "Country": "United States",
     "Language": "English",
-    "Budget": [
-      "$306.6 million (gross) ",
-      "$263.7 million (net) "
-    ],
-    "Box office": "$284.1 million "
+    "Budget": 570300000,
+    "Box office": 284100000
   },
   "Chimpanzee (film)": {
-    "name": "Chimpanzee (film)",
+    "name": "Chimpanzee ",
     "link": "https://en.wikipedia.org/wiki/Chimpanzee_(film)",
     "Directed by": [
       "Alastair Fothergill",
@@ -13573,8 +13514,8 @@
       "English",
       "French"
     ],
-    "Budget": "$5 million ",
-    "Box office": "$34.8 million "
+    "Budget": 5000000,
+    "Box office": 34800000
   },
   "Arjun: The Warrior Prince": {
     "name": "Arjun: The Warrior Prince",
@@ -13606,7 +13547,7 @@
     "Language": "Hindi"
   },
   "Brave (2012 film)": {
-    "name": "Brave (2012 film)",
+    "name": "Brave ",
     "link": "https://en.wikipedia.org/wiki/Brave_(2012_film)",
     "Directed by": [
       "Mark Andrews",
@@ -13647,8 +13588,8 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$185 million ",
-    "Box office": "$540.4 million "
+    "Budget": 185000000,
+    "Box office": 540400000
   },
   "The Odd Life of Timothy Green": {
     "name": "The Odd Life of Timothy Green",
@@ -13686,11 +13627,11 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$25 million  ",
-    "Box office": "$56 million "
+    "Budget": 25000000,
+    "Box office": 56000000
   },
   "Frankenweenie (2012 film)": {
-    "name": "Frankenweenie (2012 film)",
+    "name": "Frankenweenie ",
     "link": "https://en.wikipedia.org/wiki/Frankenweenie_(2012_film)",
     "Directed by": "Tim Burton",
     "Produced by": [
@@ -13730,8 +13671,8 @@
     "Running time": 87,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$39 million ",
-    "Box office": "$81.5 million "
+    "Budget": 39000000,
+    "Box office": 81500000
   },
   "Wreck-It Ralph": {
     "name": "Wreck-It Ralph",
@@ -13766,8 +13707,8 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million ",
-    "Box office": "$471.2 million "
+    "Budget": 165000000,
+    "Box office": 471200000
   },
   "Oz the Great and Powerful": {
     "name": "Oz the Great and Powerful",
@@ -13809,8 +13750,8 @@
     "Running time": 130,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200\u2013215 million  ",
-    "Box office": "$493.3 million "
+    "Budget": 200000000,
+    "Box office": 493300000
   },
   "Wings of Life": {
     "name": "Wings of Life",
@@ -13892,11 +13833,11 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million   ",
-    "Box office": "$743.6 million "
+    "Budget": 200000000,
+    "Box office": 743600000
   },
   "The Lone Ranger (2013 film)": {
-    "name": "The Lone Ranger (2013 film)",
+    "name": "The Lone Ranger ",
     "link": "https://en.wikipedia.org/wiki/The_Lone_Ranger_(2013_film)",
     "Directed by": "Gore Verbinski",
     "Produced by": [
@@ -13946,11 +13887,11 @@
     "Running time": 149,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$225\u2013250 million ",
-    "Box office": "$260.5 million "
+    "Budget": 225000000,
+    "Box office": 260500000
   },
   "Planes (film)": {
-    "name": "Planes (film)",
+    "name": "Planes ",
     "link": "https://en.wikipedia.org/wiki/Planes_(film)",
     "Directed by": "Klay Hall ",
     "Produced by": "Tracy Balthazor-Flynn ",
@@ -13988,11 +13929,11 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million ",
-    "Box office": "$239.3 million "
+    "Budget": 50000000,
+    "Box office": 239300000
   },
   "Frozen (2013 film)": {
-    "name": "Frozen (2013 film)",
+    "name": "Frozen ",
     "link": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
     "Directed by": [
       "Chris Buck",
@@ -14036,8 +13977,8 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million  ",
-    "Box office": "$1.280 billion "
+    "Budget": 150000000,
+    "Box office": 1280000
   },
   "Saving Mr. Banks": {
     "name": "Saving Mr. Banks",
@@ -14082,8 +14023,8 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": "$35 million ",
-    "Box office": "$117.9 million "
+    "Budget": 35000000,
+    "Box office": 117900000
   },
   "Muppets Most Wanted": {
     "name": "Muppets Most Wanted",
@@ -14115,11 +14056,11 @@
     "Running time": 107,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$51 million  ",
-    "Box office": "$80.4 million "
+    "Budget": 51000000,
+    "Box office": 80400000
   },
   "Bears (film)": {
-    "name": "Bears (film)",
+    "name": "Bears ",
     "link": "https://en.wikipedia.org/wiki/Bears_(film)",
     "Directed by": [
       "Alastair Fothergill",
@@ -14140,8 +14081,8 @@
     "Running time": 77,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5 million ",
-    "Box office": "$21.3 million "
+    "Budget": 5000000,
+    "Box office": 21300000
   },
   "Million Dollar Arm": {
     "name": "Million Dollar Arm",
@@ -14180,11 +14121,11 @@
       "English",
       "Hindi"
     ],
-    "Budget": "$25 million ",
-    "Box office": "$39.2 million "
+    "Budget": 25000000,
+    "Box office": 39200000
   },
   "Maleficent (film)": {
-    "name": "Maleficent (film)",
+    "name": "Maleficent ",
     "link": "https://en.wikipedia.org/wiki/Maleficent_(film)",
     "Directed by": "Robert Stromberg",
     "Produced by": "Joe Roth",
@@ -14217,8 +14158,8 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$180\u2013263 million ",
-    "Box office": "$758.5 million "
+    "Budget": 180000000,
+    "Box office": 758500000
   },
   "Planes: Fire & Rescue": {
     "name": "Planes: Fire & Rescue",
@@ -14255,11 +14196,11 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million  ",
-    "Box office": "$147 million "
+    "Budget": 50000000,
+    "Box office": 147000000
   },
   "Khoobsurat (2014 film)": {
-    "name": "Khoobsurat (2014 film)",
+    "name": "Khoobsurat ",
     "link": "https://en.wikipedia.org/wiki/Khoobsurat_(2014_film)",
     "Directed by": "Shashanka Ghosh ",
     "Produced by": [
@@ -14297,11 +14238,11 @@
     "Running time": 127,
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "\u20b9 230 million (US$3.2 million) ",
-    "Box office": "est. \u20b9 79.43 crore (US$11 million) "
+    "Budget": 3200000,
+    "Box office": 11000000
   },
   "Alexander and the Terrible, Horrible, No Good, Very Bad Day (film)": {
-    "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Day (film)",
+    "name": "Alexander and the Terrible, Horrible, No Good, Very Bad Day ",
     "link": "https://en.wikipedia.org/wiki/Alexander_and_the_Terrible,_Horrible,_No_Good,_Very_Bad_Day_(film)",
     "Directed by": "Miguel Arteta",
     "Produced by": [
@@ -14339,11 +14280,11 @@
     "Running time": 81,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$28 million ",
-    "Box office": "$100.7 million "
+    "Budget": 28000000,
+    "Box office": 100700000
   },
   "Big Hero 6 (film)": {
-    "name": "Big Hero 6 (film)",
+    "name": "Big Hero 6 ",
     "link": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
     "Directed by": [
       "Don Hall",
@@ -14386,11 +14327,11 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$165 million  ",
-    "Box office": "$657.8 million "
+    "Budget": 165000000,
+    "Box office": 657800000
   },
   "Into the Woods (film)": {
-    "name": "Into the Woods (film)",
+    "name": "Into the Woods ",
     "link": "https://en.wikipedia.org/wiki/Into_the_Woods_(film)",
     "Directed by": "Rob Marshall",
     "Produced by": [
@@ -14433,8 +14374,8 @@
     "Running time": 124,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$50 million ",
-    "Box office": "$213.1 million "
+    "Budget": 50000000,
+    "Box office": 213100000
   },
   "McFarland, USA": {
     "name": "McFarland, USA",
@@ -14473,11 +14414,11 @@
     "Running time": 129,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$17 million ",
-    "Box office": "$45.7 million "
+    "Budget": 17000000,
+    "Box office": 45700000
   },
   "Cinderella (2015 Disney film)": {
-    "name": "Cinderella (2015 Disney film)",
+    "name": "Cinderella ",
     "link": "https://en.wikipedia.org/wiki/Cinderella_(2015_Disney_film)",
     "Directed by": "Kenneth Branagh",
     "Produced by": [
@@ -14519,8 +14460,8 @@
       "United Kingdom "
     ],
     "Language": "English",
-    "Budget": "$95\u2013100 million  ",
-    "Box office": "$542.4 million "
+    "Budget": 95000000,
+    "Box office": 542400000
   },
   "Monkey Kingdom": {
     "name": "Monkey Kingdom",
@@ -14549,11 +14490,11 @@
     "Running time": 82,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$5\u201310 million ",
-    "Box office": "$17.1 million "
+    "Budget": 5000000,
+    "Box office": 17100000
   },
   "Tomorrowland (film)": {
-    "name": "Tomorrowland (film)",
+    "name": "Tomorrowland ",
     "link": "https://en.wikipedia.org/wiki/Tomorrowland_(film)",
     "Directed by": "Brad Bird",
     "Produced by": [
@@ -14597,11 +14538,11 @@
     "Running time": 130,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$180\u2013190 million ",
-    "Box office": "$209 million "
+    "Budget": 180000000,
+    "Box office": 209000000
   },
   "Inside Out (2015 film)": {
-    "name": "Inside Out (2015 film)",
+    "name": "Inside Out ",
     "link": "https://en.wikipedia.org/wiki/Inside_Out_(2015_film)",
     "Directed by": "Pete Docter",
     "Produced by": "Jonas Rivera",
@@ -14643,8 +14584,8 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million ",
-    "Box office": "$858 million "
+    "Budget": 175000000,
+    "Box office": 858000000
   },
   "ABCD 2": {
     "name": "ABCD 2",
@@ -14677,8 +14618,8 @@
     "Running time": 154,
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "\u20b9650 million ",
-    "Box office": "est. \u20b91.65 billion "
+    "Budget": 8635250,
+    "Box office": 219202500
   },
   "The Good Dinosaur": {
     "name": "The Good Dinosaur",
@@ -14724,11 +14665,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175\u2013200 million  ",
-    "Box office": "$332.2 million "
+    "Budget": 175000000,
+    "Box office": 332200000
   },
   "The Finest Hours (2016 film)": {
-    "name": "The Finest Hours (2016 film)",
+    "name": "The Finest Hours ",
     "link": "https://en.wikipedia.org/wiki/The_Finest_Hours_(2016_film)",
     "Directed by": "Craig Gillespie",
     "Produced by": [
@@ -14771,8 +14712,8 @@
     "Running time": 117,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70\u201380 million  ",
-    "Box office": "$52.1 million "
+    "Budget": 70000000,
+    "Box office": 52100000
   },
   "Zootopia": {
     "name": "Zootopia",
@@ -14830,11 +14771,11 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$1.024 billion "
+    "Budget": 150000000,
+    "Box office": 1024000
   },
   "The Jungle Book (2016 film)": {
-    "name": "The Jungle Book (2016 film)",
+    "name": "The Jungle Book ",
     "link": "https://en.wikipedia.org/wiki/The_Jungle_Book_(2016_film)",
     "Directed by": "Jon Favreau",
     "Produced by": [
@@ -14873,8 +14814,8 @@
     "Running time": 106,
     "Country": "United States ",
     "Language": "English",
-    "Budget": "$175\u2013177 million  ",
-    "Box office": "$966.6 million "
+    "Budget": 175000000,
+    "Box office": 966600000
   },
   "Tini: The Movie": {
     "name": "Tini: The Movie",
@@ -14908,10 +14849,10 @@
       "Italy"
     ],
     "Language": "Spanish",
-    "Box office": "$17 million "
+    "Box office": 17000000
   },
   "Alice Through the Looking Glass (2016 film)": {
-    "name": "Alice Through the Looking Glass (2016 film)",
+    "name": "Alice Through the Looking Glass ",
     "link": "https://en.wikipedia.org/wiki/Alice_Through_the_Looking_Glass_(2016_film)",
     "Directed by": "James Bobin",
     "Produced by": [
@@ -14955,8 +14896,8 @@
     "Running time": 114,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million ",
-    "Box office": "$299.5 million "
+    "Budget": 170000000,
+    "Box office": 299500000
   },
   "Finding Dory": {
     "name": "Finding Dory",
@@ -14996,11 +14937,11 @@
     "Running time": 97,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175\u2013200 million ",
-    "Box office": "$1.029 billion "
+    "Budget": 175000000,
+    "Box office": 1028999
   },
   "The BFG (2016 film)": {
-    "name": "The BFG (2016 film)",
+    "name": "The BFG ",
     "link": "https://en.wikipedia.org/wiki/The_BFG_(2016_film)",
     "Directed by": "Steven Spielberg",
     "Produced by": [
@@ -15048,11 +14989,11 @@
     "Running time": 117,
     "Country": "United States  ",
     "Language": "English",
-    "Budget": "$140 million ",
-    "Box office": "$195.2 million "
+    "Budget": 140000000,
+    "Box office": 195200000
   },
   "Pete's Dragon (2016 film)": {
-    "name": "Pete's Dragon (2016 film)",
+    "name": "Pete's Dragon ",
     "link": "https://en.wikipedia.org/wiki/Pete%27s_Dragon_(2016_film)",
     "Directed by": "David Lowery",
     "Produced by": "James Whitaker",
@@ -15085,8 +15026,8 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$65 million ",
-    "Box office": "$143.7 million "
+    "Budget": 65000000,
+    "Box office": 143700000
   },
   "Queen of Katwe": {
     "name": "Queen of Katwe",
@@ -15130,11 +15071,11 @@
       "English",
       "Luganda"
     ],
-    "Budget": "$15 million  ",
-    "Box office": "$10.4 million "
+    "Budget": 15000000,
+    "Box office": 10400000
   },
   "Moana (2016 film)": {
-    "name": "Moana (2016 film)",
+    "name": "Moana ",
     "link": "https://en.wikipedia.org/wiki/Moana_(2016_film)",
     "Directed by": [
       "Ron Clements",
@@ -15182,11 +15123,11 @@
     "Running time": 107,
     "Countries": "United States",
     "Language": "English",
-    "Budget": "$150\u2013175 million  ",
-    "Box office": "$690.8 million "
+    "Budget": 150000000,
+    "Box office": 690800000
   },
   "Dangal (film)": {
-    "name": "Dangal (film)",
+    "name": "Dangal ",
     "link": "https://en.wikipedia.org/wiki/Dangal_(film)",
     "Directed by": "Nitesh Tiwari",
     "Produced by": [
@@ -15223,19 +15164,8 @@
     "Running time": 161,
     "Country": "India",
     "Language": "Hindi",
-    "Budget": "\u20b9 70 crore ",
-    "Box office": [
-      "est.",
-      "\u20b92,024\u20132,100 crore",
-      "",
-      "",
-      "",
-      "",
-      "(",
-      "$311\u2013340\u00a0million",
-      ")",
-      ""
-    ]
+    "Budget": 9299500,
+    "Box office": 9299500
   },
   "March of the Penguins": {
     "name": "March of the Penguins",
@@ -15278,11 +15208,11 @@
     "Running time": 80,
     "Country": "France",
     "Language": "French",
-    "Budget": "$8 million ",
-    "Box office": "$127.4 million "
+    "Budget": 8000000,
+    "Box office": 127400000
   },
   "Beauty and the Beast (2017 film)": {
-    "name": "Beauty and the Beast (2017 film)",
+    "name": "Beauty and the Beast ",
     "link": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
     "Directed by": "Bill Condon",
     "Produced by": [
@@ -15325,8 +15255,8 @@
     "Running time": 129,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$160\u2013255 million   ",
-    "Box office": "$1.264 billion "
+    "Budget": 160000000,
+    "Box office": 1264000
   },
   "Born in China": {
     "name": "Born in China",
@@ -15379,8 +15309,8 @@
       "Mandarin",
       "French"
     ],
-    "Budget": "$5\u201310 million ",
-    "Box office": "$25.1 million "
+    "Budget": 5000000,
+    "Box office": 25100000
   },
   "Pirates of the Caribbean: Dead Men Tell No Tales": {
     "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -15425,8 +15355,8 @@
     "Running time": 129,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$230\u2013320 million ",
-    "Box office": "$794.9 million "
+    "Budget": 230000000,
+    "Box office": 794900000
   },
   "Cars 3": {
     "name": "Cars 3",
@@ -15473,8 +15403,8 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million ",
-    "Box office": "$383.9 million "
+    "Budget": 175000000,
+    "Box office": 383900000
   },
   "Ghost of the Mountains": {
     "name": "Ghost of the Mountains",
@@ -15534,15 +15464,11 @@
     "Running time": 162,
     "Country": "India",
     "Language": "Hindi",
-    "Budget": [
-      "\u20b9",
-      "131\u00a0crore",
-      ""
-    ],
-    "Box office": "\u20b9 83 crore "
+    "Budget": 17403350,
+    "Box office": 11026550
   },
   "Coco (2017 film)": {
-    "name": "Coco (2017 film)",
+    "name": "Coco ",
     "link": "https://en.wikipedia.org/wiki/Coco_(2017_film)",
     "Directed by": "Lee Unkrich",
     "Produced by": "Darla K. Anderson",
@@ -15583,11 +15509,11 @@
     "Running time": 105,
     "Country": "United States",
     "Language": "English ",
-    "Budget": "$175\u2013225 million  ",
-    "Box office": "$807.8 million "
+    "Budget": 175000000,
+    "Box office": 807800000
   },
   "A Wrinkle in Time (2018 film)": {
-    "name": "A Wrinkle in Time (2018 film)",
+    "name": "A Wrinkle in Time ",
     "link": "https://en.wikipedia.org/wiki/A_Wrinkle_in_Time_(2018_film)",
     "Directed by": "Ava DuVernay",
     "Produced by": [
@@ -15629,8 +15555,8 @@
     "Running time": 109,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100\u2013130 million   ",
-    "Box office": "$133.4 million  "
+    "Budget": 100000000,
+    "Box office": 133400000
   },
   "Incredibles 2": {
     "name": "Incredibles 2",
@@ -15669,11 +15595,11 @@
     "Running time": 118,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million  ",
-    "Box office": "$1.243 billion "
+    "Budget": 200000000,
+    "Box office": 1243000
   },
   "Christopher Robin (film)": {
-    "name": "Christopher Robin (film)",
+    "name": "Christopher Robin ",
     "link": "https://en.wikipedia.org/wiki/Christopher_Robin_(film)",
     "Directed by": "Marc Forster",
     "Produced by": [
@@ -15717,8 +15643,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$70-75 million  ",
-    "Box office": "$197.7 million "
+    "Budget": 70000000,
+    "Box office": 197700000
   },
   "The Nutcracker and the Four Realms": {
     "name": "The Nutcracker and the Four Realms",
@@ -15759,8 +15685,8 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$120\u2013133 million ",
-    "Box office": "$174 million "
+    "Budget": 120000000,
+    "Box office": 174000000
   },
   "Ralph Breaks the Internet": {
     "name": "Ralph Breaks the Internet",
@@ -15807,8 +15733,8 @@
     "Running time": 112,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175 million ",
-    "Box office": "$529.3 million "
+    "Budget": 175000000,
+    "Box office": 529299999
   },
   "Mary Poppins Returns": {
     "name": "Mary Poppins Returns",
@@ -15858,11 +15784,11 @@
     "Running time": 131,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$130 million ",
-    "Box office": "$349.5 million "
+    "Budget": 130000000,
+    "Box office": 349500000
   },
   "Dumbo (2019 film)": {
-    "name": "Dumbo (2019 film)",
+    "name": "Dumbo ",
     "link": "https://en.wikipedia.org/wiki/Dumbo_(2019_film)",
     "Directed by": "Tim Burton",
     "Produced by": [
@@ -15900,11 +15826,11 @@
     "Running time": 112,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$170 million   ",
-    "Box office": "$353.3 million "
+    "Budget": 170000000,
+    "Box office": 353300000
   },
   "Penguins (film)": {
-    "name": "Penguins (film)",
+    "name": "Penguins ",
     "link": "https://en.wikipedia.org/wiki/Penguins_(film)",
     "Directed by": [
       "Alastair Fothergill",
@@ -15929,10 +15855,10 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Box office": "$7.7\n million "
+    "Box office": 7700000
   },
   "Aladdin (2019 film)": {
-    "name": "Aladdin (2019 film)",
+    "name": "Aladdin ",
     "link": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
     "Directed by": "Guy Ritchie",
     "Produced by": [
@@ -15976,8 +15902,8 @@
     "Running time": 128,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$183 million ",
-    "Box office": "$1.051 billion "
+    "Budget": 183000000,
+    "Box office": 1051000
   },
   "Toy Story 4": {
     "name": "Toy Story 4",
@@ -16034,11 +15960,11 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million ",
-    "Box office": "$1.073 billion  "
+    "Budget": 200000000,
+    "Box office": 1073000
   },
   "The Lion King (2019 film)": {
-    "name": "The Lion King (2019 film)",
+    "name": "The Lion King ",
     "link": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
     "Directed by": "Jon Favreau",
     "Produced by": [
@@ -16077,8 +16003,8 @@
     "Running time": 118,
     "Countries": "United States",
     "Language": "English",
-    "Budget": "$250\u2013260 million  ",
-    "Box office": "$1.657 billion "
+    "Budget": 250000000,
+    "Box office": 1657000
   },
   "Maleficent: Mistress of Evil": {
     "name": "Maleficent: Mistress of Evil",
@@ -16127,11 +16053,11 @@
     "Running time": 119,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$185 million ",
-    "Box office": "$491.7 million "
+    "Budget": 185000000,
+    "Box office": 491700000
   },
   "Lady and the Tramp (2019 film)": {
-    "name": "Lady and the Tramp (2019 film)",
+    "name": "Lady and the Tramp ",
     "link": "https://en.wikipedia.org/wiki/Lady_and_the_Tramp_(2019_film)",
     "Directed by": "Charlie Bean",
     "Produced by": "Brigham Taylor",
@@ -16171,10 +16097,10 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$60 million "
+    "Budget": 60000000
   },
   "Noelle (2019 film)": {
-    "name": "Noelle (2019 film)",
+    "name": "Noelle ",
     "link": "https://en.wikipedia.org/wiki/Noelle_(2019_film)",
     "Directed by": "Marc Lawrence",
     "Produced by": "Suzanne Todd",
@@ -16244,11 +16170,11 @@
     "Running time": 103,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million ",
-    "Box office": "$1.450 billion "
+    "Budget": 150000000,
+    "Box office": 1450000
   },
   "Togo (film)": {
-    "name": "Togo (film)",
+    "name": "Togo ",
     "link": "https://en.wikipedia.org/wiki/Togo_(film)",
     "Directed by": "Ericson Core",
     "Produced by": "Kim Zubick",
@@ -16263,7 +16189,7 @@
     "Running time": 114,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$40 million "
+    "Budget": 40000000
   },
   "Timmy Failure: Mistakes Were Made": {
     "name": "Timmy Failure: Mistakes Were Made",
@@ -16303,10 +16229,10 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$42 million "
+    "Budget": 42000000
   },
   "Onward (film)": {
-    "name": "Onward (film)",
+    "name": "Onward ",
     "link": "https://en.wikipedia.org/wiki/Onward_(film)",
     "Directed by": "Dan Scanlon",
     "Produced by": "Kori Rae",
@@ -16342,11 +16268,11 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$175\u2013200 million ",
-    "Box office": "$141.9 million "
+    "Budget": 175000000,
+    "Box office": 141900000
   },
   "Stargirl (film)": {
-    "name": "Stargirl (film)",
+    "name": "Stargirl ",
     "link": "https://en.wikipedia.org/wiki/Stargirl_(film)",
     "Directed by": "Julia Hart",
     "Produced by": [
@@ -16387,7 +16313,7 @@
     "Language": "English"
   },
   "Dolphin Reef (film)": {
-    "name": "Dolphin Reef (film)",
+    "name": "Dolphin Reef ",
     "link": "https://en.wikipedia.org/wiki/Dolphin_Reef_(film)",
     "Directed by": [
       "Alastair Fothergill",
@@ -16414,7 +16340,7 @@
     "Language": "English"
   },
   "Elephant (2020 film)": {
-    "name": "Elephant (2020 film)",
+    "name": "Elephant ",
     "link": "https://en.wikipedia.org/wiki/Elephant_(2020_film)",
     "Directed by": [
       "Mark Linfield",
@@ -16441,7 +16367,7 @@
     "Language": "English"
   },
   "Artemis Fowl (film)": {
-    "name": "Artemis Fowl (film)",
+    "name": "Artemis Fowl ",
     "link": "https://en.wikipedia.org/wiki/Artemis_Fowl_(film)",
     "Directed by": "Kenneth Branagh",
     "Produced by": [
@@ -16479,10 +16405,10 @@
     "Running time": 95,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$125 million "
+    "Budget": 125000000
   },
   "Hamilton (2020 film)": {
-    "name": "Hamilton (2020 film)",
+    "name": "Hamilton ",
     "link": "https://en.wikipedia.org/wiki/Hamilton_(2020_film)",
     "Directed by": "Thomas Kail",
     "Produced by": [
@@ -16523,7 +16449,7 @@
     "Running time": 160,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$12.5 million (stage production) "
+    "Budget": 12500000
   },
   "Black Is King": {
     "name": "Black Is King",
@@ -16620,7 +16546,7 @@
     "Language": "English"
   },
   "Magic Camp (film)": {
-    "name": "Magic Camp (film)",
+    "name": "Magic Camp ",
     "link": "https://en.wikipedia.org/wiki/Magic_Camp_(film)",
     "Directed by": "Mark Waters",
     "Produced by": "Suzanne Todd",
@@ -16662,10 +16588,10 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$24 million "
+    "Budget": 24000000
   },
   "The One and Only Ivan (film)": {
-    "name": "The One and Only Ivan (film)",
+    "name": "The One and Only Ivan ",
     "link": "https://en.wikipedia.org/wiki/The_One_and_Only_Ivan_(film)",
     "Directed by": "Thea Sharrock",
     "Produced by": [
@@ -16702,7 +16628,7 @@
     "Language": "English"
   },
   "Mulan (2020 film)": {
-    "name": "Mulan (2020 film)",
+    "name": "Mulan ",
     "link": "https://en.wikipedia.org/wiki/Mulan_(2020_film)",
     "Directed by": "Niki Caro",
     "Produced by": [
@@ -16744,8 +16670,8 @@
     "Running time": 115,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$200 million ",
-    "Box office": "$70 million  "
+    "Budget": 200000000,
+    "Box office": 70000000
   },
   "Godmothered": {
     "name": "Godmothered",
@@ -16775,7 +16701,7 @@
     "Language": "English"
   },
   "Safety (2020 film)": {
-    "name": "Safety (2020 film)",
+    "name": "Safety ",
     "link": "https://en.wikipedia.org/wiki/Safety_(2020_film)",
     "Directed by": "Reginald Hudlin",
     "Produced by": [
@@ -16805,7 +16731,7 @@
     "Language": "English"
   },
   "Soul (2020 film)": {
-    "name": "Soul (2020 film)",
+    "name": "Soul ",
     "link": "https://en.wikipedia.org/wiki/Soul_(2020_film)",
     "Directed by": "Pete Docter",
     "Produced by": "Dana Murray",
@@ -16845,11 +16771,11 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million+ ",
-    "Box office": "$134.8 million "
+    "Budget": 150000000,
+    "Box office": 134800000
   },
   "Flora & Ulysses (film)": {
-    "name": "Flora & Ulysses (film)",
+    "name": "Flora & Ulysses ",
     "link": "https://en.wikipedia.org/wiki/Flora_%26_Ulysses_(film)",
     "Directed by": "Lena Khan",
     "Produced by": "Gil Netter",
@@ -16939,11 +16865,11 @@
     "Running time": 107,
     "Country": "United States",
     "Language": "English",
-    "Budget": "$100 million+ ",
-    "Box office": "$97.2 million  "
+    "Budget": 100000000,
+    "Box office": 97200000
   },
   "Cruella (film)": {
-    "name": "Cruella (film)",
+    "name": "Cruella ",
     "link": "https://en.wikipedia.org/wiki/Cruella_(film)",
     "Directed by": "Craig Gillespie",
     "Produced by": [
@@ -16987,7 +16913,7 @@
     "Language": "English"
   },
   "Luca (2021 film)": {
-    "name": "Luca (2021 film)",
+    "name": "Luca ",
     "link": "https://en.wikipedia.org/wiki/Luca_(2021_film)",
     "Directed by": "Enrico Casarosa",
     "Produced by": "Andrea Warren",
@@ -17018,7 +16944,7 @@
     "Language": "English"
   },
   "Jungle Cruise (film)": {
-    "name": "Jungle Cruise (film)",
+    "name": "Jungle Cruise ",
     "link": "https://en.wikipedia.org/wiki/Jungle_Cruise_(film)",
     "Directed by": "Jaume Collet-Serra",
     "Produced by": [
@@ -17105,7 +17031,7 @@
     "Language": "English"
   },
   "Encanto (film)": {
-    "name": "Encanto (film)",
+    "name": "Encanto ",
     "link": "https://en.wikipedia.org/wiki/Encanto_(film)",
     "Directed by": [
       "Byron Howard",
@@ -17173,7 +17099,7 @@
     "Language": "English"
   },
   "The Little Mermaid (upcoming film)": {
-    "name": "The Little Mermaid (upcoming film)",
+    "name": "The Little Mermaid ",
     "link": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(upcoming_film)",
     "Directed by": "Rob Marshall",
     "Produced by": [
@@ -17227,7 +17153,7 @@
     "Language": "English"
   },
   "Shrunk (film)": {
-    "name": "Shrunk (film)",
+    "name": "Shrunk ",
     "link": "https://en.wikipedia.org/wiki/Shrunk_(film)",
     "Produced by": [
       "David Hoberman",
@@ -17264,7 +17190,7 @@
     "Language": "English"
   },
   "Chip 'n Dale: Rescue Rangers (film)": {
-    "name": "Chip 'n Dale: Rescue Rangers (film)",
+    "name": "Chip 'n Dale: Rescue Rangers ",
     "link": "https://en.wikipedia.org/wiki/Chip_%27n_Dale:_Rescue_Rangers_(film)",
     "Directed by": "Akiva Schaffer",
     "Produced by": [
@@ -17291,7 +17217,7 @@
     "Language": "English"
   },
   "Pinocchio (upcoming Disney film)": {
-    "name": "Pinocchio (upcoming Disney film)",
+    "name": "Pinocchio ",
     "link": "https://en.wikipedia.org/wiki/Pinocchio_(upcoming_Disney_film)",
     "Directed by": "Robert Zemeckis",
     "Produced by": [
@@ -17328,6 +17254,6 @@
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Country": "United States",
     "Language": "English",
-    "Budget": "$150 million "
+    "Budget": 150000000
   }
 }

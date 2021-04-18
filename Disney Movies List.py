@@ -3,7 +3,9 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import json
 import Movie
+import imdb
 
+ia = imdb.IMDb()
 LINK = 'https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films'
 all_movies = {}
 movies = []
@@ -54,32 +56,34 @@ def clean_money():
             if type(all_movies[item]['Budget']) is str:
                 clean = clean_string_usd(all_movies[item]['Budget'])
                 if clean : all_movies[item]['Budget'] = clean
-                else : print(all_movies[item]['Budget'])
+                else : print('failed budget string',all_movies[item]['Budget'])
             if type(all_movies[item]['Budget']) is list:
                 clean = clean_list(all_movies[item]['Budget'])
                 if clean :all_movies[item]['Budget'] = clean
-                else : print(all_movies[item]['Budget'])
+                else : print('failed list',all_movies[item]['Budget'])
         if 'Box office' in all_movies[item]:
             if type(all_movies[item]['Box office']) is str:
                 temp = clean_string_usd(all_movies[item]['Box office'])
                 if temp :
                     all_movies[item]['Box office'] = temp
-                else: print(all_movies[item]['Box office'])
+                else: print('failed',all_movies[item]['Box office'])
             if type(all_movies[item]['Box office']) is list:
                 temp = clean_list(all_movies[item]['Box office'])
                 if temp:
                     all_movies[item]['Box office'] = clean
-                    print('changed box office')
-                else : print(all_movies[item]['Box office'])
+                else : print('failed list',all_movies[item]['Box office'])
 
 def clean_string_usd(my_string):
     if '$' in my_string:
+        while '(' in my_string and '$' in my_string[my_string.find('(')+1:my_string.find(')'):]:
+            my_string= my_string[my_string.find('(')+1:my_string.find(')'):]
         start = my_string.find('$')
         end = my_string.find('million')
+        if end == -1:
+            end = my_string.find('billion')
+        if end == -1: end = len(my_string)
         my_string = my_string[start:end:].replace(' ','').replace('\n','').replace('\xa0','').\
             replace('to','-').replace('–','-').replace('$','').replace('est.','')
-        while '(' in my_string:
-            my_string= my_string[my_string.find('(')+1:my_string.find(')'):]
         if '-' in my_string:
             my_string = my_string.split('-',3)[0]
         if ',' in my_string:
@@ -88,6 +92,7 @@ def clean_string_usd(my_string):
             else : my_string = '0.' + my_string[0:my_string.find(','):]
     try:
         my_float = float(my_string) * 1000000
+        print(int(my_float))
         return int(my_float)
     except ValueError:
         return clean_string_other_currency(my_string)
@@ -107,6 +112,8 @@ def clean_string_other_currency(my_string):
         return clean_string_usd(my_string)
     if ( '₹' and 'million' )in my_string:
         return int(my_string[my_string.find('₹')+1:my_string.find('million'):].replace(' ',''))*13285
+    if ( '₹' and 'billion' )in my_string:
+        return int(my_string[my_string.find('₹')+1:my_string.find('billion'):].replace(' ','').replace('.',''))*1328500
     if ( '₹' and 'crore' )in my_string:
         return int(my_string[my_string.find('₹')+1:my_string.find('crore'):].replace(' ','').replace(',','.'))*132850
     if 'crore' in my_string:
@@ -151,6 +158,36 @@ def clean_date_simple():
                         all_movies[date_item]['Release date'] = str(datetime.strptime(str(date_dict['y']),'%Y').date())
                     else : print(exception)
 
+def clean_titles():
+    for movie in all_movies:
+        temp = all_movies[movie]['name']
+        if ('(' and ')') in temp:
+            temp = temp[0:temp.find('('):]
+            print(temp)
+            all_movies[movie]['name'] = temp
+def imdb_search():
+    for movie in all_movies:
+        title = all_movies[movie]['name']
+        try:
+            year = int(all_movies[movie]['Release date'][0:4:])
+            table = ia.search_movie(title)
+            #print(table)
+            for item in table:
+                if item['title'] == title and item.values()[2] == year :
+                    movie_imdb = ia.get_movie(item.movieID)
+                    print(title,year,movie_imdb['rating'])
+                    all_movies[movie]['Rating']=movie_imdb['rating']
+                    break
+        except ValueError:
+            for item in table:
+                if item['title'] == title:
+                    #print(item.values())
+                    print('NO MATCHING DATE|| ID', item.movieID, item['title'], item.values()[2])
+                    pass
 
+        except KeyError:
+            print('will skip', movie)
+            pass
 
 all_movies = load_data()
+imdb_search()
