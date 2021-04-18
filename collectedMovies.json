@@ -3,8 +3,8 @@
     "name": "Academy Award Review of Walt Disney Cartoons",
     "link": "https://en.wikipedia.org/wiki/Academy_Award_Review_of_Walt_Disney_Cartoons",
     "Production company": "Walt Disney Productions",
-    "Release date": "May 19, 1937 ( 1937-05-19 )",
-    "Running time": "41 minutes (74 minutes 1966 release)",
+    "Release date": "1937-05-19",
+    "Running time": 41,
     "Country": "United States",
     "Language": "English",
     "Box office": "$45.472"
@@ -56,8 +56,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "December 21, 1937 ( 1937-12-21 ) ( Carthay Circle Theatre , Los Angeles , CA , premiere)",
-    "Running time": "83 minutes",
+    "Release date": "1937-12-21",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.49 million ",
@@ -107,11 +107,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "February 7, 1940 ( 1940-02-07 ) ( Center Theatre ) ",
-      "February 23, 1940 ( 1940-02-23 ) (United States) "
-    ],
-    "Running time": "88 minutes",
+    "Release date": "1940-02-07",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.6 million ",
@@ -151,8 +148,8 @@
     "Cinematography": "James Wong Howe",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "November 13, 1940 ( 1940-11-13 )",
-    "Running time": "126 minutes ",
+    "Release date": "1940-11-13",
+    "Running time": 126,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.28 million  ",
@@ -208,8 +205,8 @@
     "Edited by": "Paul Weatherwax",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "June 27, 1941 ( 1941-06-27 ) ",
-    "Running time": "74 minutes",
+    "Release date": "1941-06-27",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$600,000 ",
@@ -255,11 +252,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "October 23, 1941 ( 1941-10-23 ) (New York City) ",
-      "October 31, 1941 ( 1941-10-31 ) (U.S.)"
-    ],
-    "Running time": "64 minutes",
+    "Release date": "1941-10-23",
+    "Running time": 64,
     "Country": "United States",
     "Language": "English",
     "Budget": "$950,000 ",
@@ -304,12 +298,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "August 9, 1942 ( 1942-08-09 ) (World Premiere-London)",
-      "August 13, 1942 ( 1942-08-13 ) (Premiere-New York City)",
-      "August 21, 1942 ( 1942-08-21 ) (U.S.) "
-    ],
-    "Running time": "70 minutes",
+    "Release date": "1942-08-09",
+    "Running time": 70,
     "Country": "United States",
     "Language": "English",
     "Budget": "$858,000 ",
@@ -355,12 +345,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "August 24, 1942 ( 1942-08-24 ) (World Premiere-Rio de Janeiro)",
-      "February 6, 1943 ( 1943-02-06 ) (U.S. Premiere-Boston)",
-      "February 19, 1943 ( 1943-02-19 ) (U.S.) "
-    ],
-    "Running time": "42 minutes",
+    "Release date": "1942-08-24",
+    "Running time": 42,
     "Country": "United States",
     "Languages": [
       "English",
@@ -404,8 +390,8 @@
     "Edited by": "Jack Dennis",
     "Production company": "Walt Disney Productions",
     "Distributed by": "United Artists",
-    "Release date": "July 17, 1943 ( 1943-07-17 )",
-    "Running time": "65 min.",
+    "Release date": "1943-07-17",
+    "Running time": 65,
     "Country": "United States",
     "Language": "English",
     "Budget": "$788,000",
@@ -446,11 +432,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "December 21, 1944 ( 1944-12-21 ) (Mexico City)",
-      "February 3, 1945 ( 1945-02-03 ) (US) "
-    ],
-    "Running time": "71 minutes",
+    "Release date": "1944-12-21",
+    "Running time": 71,
     "Country": "United States",
     "Languages": [
       "English",
@@ -509,11 +492,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": [
-      "April 20, 1946 ( 1946-04-20 ) (New York City premiere) ",
-      "August 15, 1946 ( 1946-08-15 ) (U.S.) "
-    ],
-    "Running time": "75 minutes",
+    "Release date": "1946-04-20",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.35 million ",
@@ -561,11 +541,8 @@
     "Edited by": "William M. Morgan",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "November 12, 1946 ( 1946-11-12 ) (Premiere: Atlanta, Georgia) ",
-      "November 20, 1946 ( 1946-11-20 ) "
-    ],
-    "Running time": "94 minutes ",
+    "Release date": "1946-11-12",
+    "Running time": 94,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.125 million ",
@@ -617,8 +594,8 @@
     "Edited by": "Jack Bachom",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "September 27, 1947 ( 1947-09-27 )",
-    "Running time": "73 minutes",
+    "Release date": "1947-09-27",
+    "Running time": 73,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3,165,000 (worldwide rentals) "
@@ -674,8 +651,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": "May 27, 1948 ( 1948-05-27 )",
-    "Running time": "75 minutes",
+    "Release date": "1948-05-27",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million ",
@@ -719,12 +696,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": [
-      "November 29, 1948 (Chicago, Illinois)",
-      "January 19, 1949 (Indianapolis, Indiana)",
-      ""
-    ],
-    "Running time": "82 minutes",
+    "Release date": "1948-11-29",
+    "Running time": 82,
     "Country": "United States",
     "Language": "English",
     "Budget": "$1.5 million ",
@@ -775,8 +748,8 @@
     "Edited by": "John O. Young",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "October 5, 1949 ( 1949-10-05 )",
-    "Running time": "68 minutes",
+    "Release date": "1949-10-05",
+    "Running time": 68,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1,625,000 (worldwide rentals) "
@@ -828,11 +801,8 @@
     "Edited by": "Donald Halliday",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "February 15, 1950 ( 1950-02-15 ) (Boston) ",
-      "March 4, 1950 ( 1950-03-04 ) (United States) "
-    ],
-    "Running time": "74 minutes ",
+    "Release date": "1950-02-15",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.9 million ",
@@ -863,11 +833,8 @@
     "Edited by": "Alan Jaggs",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "June 22, 1950 ( 1950-06-22 ) (World Premiere- London ) ",
-      "July 29, 1950 ( 1950-07-29 ) ( US ) "
-    ],
-    "Running time": "96 minutes",
+    "Release date": "1950-06-22",
+    "Running time": 96,
     "Countries": [
       "United States",
       "United Kingdom"
@@ -924,11 +891,8 @@
     "Edited by": "Lloyd Richardson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "July 26, 1951 ( 1951-07-26 ) (London, premiere) ",
-      "July 28, 1951 ( 1951-07-28 ) (New York City, premiere) "
-    ],
-    "Running time": "75 minutes ",
+    "Release date": "1951-07-26",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million ",
@@ -956,11 +920,8 @@
       ""
     ],
     "Distributed by": "RKO Radio Pictures, Inc.",
-    "Release date": [
-      "March 13, 1952 ( 1952-03-13 ) (Premiere- London ) ",
-      "June 26, 1952 ( 1952-06-26 ) ( US ) "
-    ],
-    "Running time": "84 minutes",
+    "Release date": "1952-03-13",
+    "Running time": 84,
     "Countries": [
       "United States",
       "United Kingdom"
@@ -1002,8 +963,8 @@
     "Music by": "Oliver Wallace",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "February 5, 1953 ( 1953-02-05 ) (United States) ",
-    "Running time": "77 minutes",
+    "Release date": "1953-02-05",
+    "Running time": 77,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million ",
@@ -1044,8 +1005,8 @@
     "Edited by": "Gerald Thomas",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": "August 8, 1953 ( 1953-08-08 ) ( US ) ",
-    "Running time": "92 minutes",
+    "Release date": "1953-08-08",
+    "Running time": 92,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -1076,7 +1037,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "November 10, 1953",
-    "Running time": "69 minutes",
+    "Running time": 69,
     "Country": "United States",
     "Language": "English",
     "Budget": "$300,000",
@@ -1104,11 +1065,8 @@
     "Edited by": "Geoffrey Foot",
     "Production company": "Walt Disney Productions",
     "Distributed by": "RKO Radio Pictures",
-    "Release date": [
-      "26 October 1953 ( 1953-10-26 ) (Premiere- London ) ",
-      "4 February 1954 ( 1954-02-04 ) ( US ) "
-    ],
-    "Running time": "81 minutes",
+    "Release date": "1953-10-10",
+    "Running time": 81,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -1134,11 +1092,8 @@
     "Edited by": "Lloyd L. Richardson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 17, 1954 ( 1954-08-17 )",
-    "Running time": [
-      "60 minutes (VHS version)",
-      "71 minutes (original)"
-    ],
+    "Release date": "1954-08-17",
+    "Running time": 60,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1.75 million (US and Canadian rentals) "
@@ -1169,8 +1124,8 @@
     "Edited by": "Elmo Williams",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 23, 1954 ( 1954-12-23 )",
-    "Running time": "127 minutes",
+    "Release date": "1954-12-23",
+    "Running time": 127,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -1196,8 +1151,8 @@
     "Edited by": "Chester W. Schaeffer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Film Distribution Co., Inc.",
-    "Release date": "May 25, 1955 ( 1955-05-25 )",
-    "Running time": "92 minutes",
+    "Release date": "1955-05-25",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2,150,000 (US) "
@@ -1236,8 +1191,8 @@
     "Edited by": "Don Halliday",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Film Distribution",
-    "Release date": "June 22, 1955 ( 1955-06-22 )",
-    "Running time": "76 minutes",
+    "Release date": "1955-06-22",
+    "Running time": 76,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million ",
@@ -1261,8 +1216,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "September 14, 1955 ( 1955-09-14 ) ",
-    "Running time": "75 minutes",
+    "Release date": "1955-09-14",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2.1 million (US) "
@@ -1278,8 +1233,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 22, 1955 ( 1955-12-22 )",
-    "Running time": "73 minutes",
+    "Release date": "1955-12-22",
+    "Running time": 73,
     "Countries": "United States, Mexico",
     "Languages": "English, Spanish",
     "Box office": "$1.6 million (US) "
@@ -1306,7 +1261,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "June 8, 1956 ",
-    "Running time": "85 minutes",
+    "Running time": 85,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1.7 million (US) "
@@ -1334,8 +1289,8 @@
     "Edited by": "Stanley Johnson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Film Distribution Co., Inc.",
-    "Release date": "July 18, 1956 ( 1956-07-18 )",
-    "Running time": "81 minutes",
+    "Release date": "1956-07-18",
+    "Running time": 81,
     "Country": "United States",
     "Language": "English"
   },
@@ -1365,8 +1320,8 @@
     "Edited by": "Anthony Gerard",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "September 4, 1956 ( 1956-09-04 )",
-    "Running time": "70 minutes",
+    "Release date": "1956-09-04",
+    "Running time": 70,
     "Country": "United States",
     "Language": "English"
   },
@@ -1394,8 +1349,8 @@
     "Edited by": "Cotton Warburton , A.C.E.",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 20, 1956 ( 1956-12-20 )",
-    "Running time": "90 min.",
+    "Release date": "1956-12-20",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2.75 million (US) "
@@ -1423,8 +1378,8 @@
     "Edited by": "Stanley E. Johnson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 19, 1957 ( 1957-06-19 )",
-    "Running time": "80 minutes",
+    "Release date": "1957-06-19",
+    "Running time": 80,
     "Country": "United States",
     "Language": "English",
     "Budget": "$700,000 "
@@ -1468,8 +1423,8 @@
     "Edited by": "Jack Atwood",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 28, 1957 ( 1957-08-28 )",
-    "Running time": "75 minutes",
+    "Release date": "1957-08-28",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1.75 million (US rentals) "
@@ -1503,8 +1458,8 @@
     "Edited by": "Stanley E. Johnson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 25, 1957 ( 1957-12-25 )",
-    "Running time": "83 minutes",
+    "Release date": "1957-12-25",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Box office": "$6,250,000 (US/Canada rentals) "
@@ -1530,8 +1485,8 @@
     "Cinematography": "Ellsworth Fredericks",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 8, 1958 ( 1958-07-08 )",
-    "Running time": "83 minutes",
+    "Release date": "1958-07-08",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English"
   },
@@ -1546,8 +1501,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 12, 1958 ( 1958-08-12 )",
-    "Running time": "72 minutes",
+    "Release date": "1958-08-12",
+    "Running time": 72,
     "Countries": [
       "United States",
       "Canada"
@@ -1592,8 +1547,8 @@
     "Edited by": "Ellsworth Hoagland",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 25, 1958 ( 1958-12-25 )",
-    "Running time": "97 minutes",
+    "Release date": "1958-12-25",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2.5 million (est. US/ Canada rentals) "
@@ -1640,8 +1595,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 29, 1959 ( 1959-01-29 )",
-    "Running time": "75 minutes",
+    "Release date": "1959-01-29",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English",
     "Budget": "$6 million ",
@@ -1677,8 +1632,8 @@
     "Edited by": "James Ballas",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 19, 1959 ( 1959-03-19 )",
-    "Running time": "104 minutes",
+    "Release date": "1959-03-19",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "under $1 million  or $1,250,000 ",
@@ -1711,11 +1666,8 @@
     "Edited by": "Stanley Johnson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "June 24, 1959 ( 1959-06-24 ) (Dublin) ",
-      "June 26, 1959 ( 1959-06-26 ) (Los Angeles) "
-    ],
-    "Running time": "93 minutes",
+    "Release date": "1959-06-24",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Box office": [
@@ -1752,7 +1704,7 @@
       "Bill Anderson",
       "Walt Disney"
     ],
-    "Running time": "22\u201324 minutes",
+    "Running time": 22,
     "Production company": "Walt Disney Productions",
     "Original network": "ABC",
     "Picture format": "Black-and-white (also colorized )",
@@ -1792,8 +1744,8 @@
     "Cinematography": "Harry Waxman",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 10, 1959 ( 1959-11-10 )",
-    "Running time": "105 minutes",
+    "Release date": "1959-11-10",
+    "Running time": 105,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2 million ",
@@ -1819,8 +1771,8 @@
     "Music by": "Buddy Baker ",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 21, 1960 ( Sarasota, FL ) ",
-    "Running time": "95 minutes",
+    "Release date": "1960-01-21",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3,100,000 (US/Canada rentals) "
@@ -1846,8 +1798,8 @@
     "Edited by": "Gordon Stone",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 24, 1960 ( 1960-02-24 )",
-    "Running time": "97 minutes",
+    "Release date": "1960-02-24",
+    "Running time": 97,
     "Country": "United States",
     "Languages": "English, Scots"
   },
@@ -1876,8 +1828,8 @@
     "Edited by": "Frank Gross",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "May 19, 1960 ( 1960-05-19 )",
-    "Running time": "134 minutes",
+    "Release date": "1960-05-19",
+    "Running time": 134,
     "Country": "United States",
     "Language": "English",
     "Budget": "$2.5 million ",
@@ -1899,11 +1851,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "June 1960 ( 1960-06 ) ( Berlin )",
-      "August 10, 1960 ( 1960-08-10 ) (US)"
-    ],
-    "Running time": "69 minutes",
+    "Release date": "1960-06-06",
+    "Running time": 69,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2.3 million (US and Canadian rentals) "
@@ -1936,8 +1885,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 1, 1960 ( 1960-11-01 )",
-    "Running time": "92 minutes",
+    "Release date": "1960-11-01",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English"
   },
@@ -1976,8 +1925,8 @@
     "Edited by": "Peter Boita",
     "Production company": "Walt Disney Productions ",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 21, 1960 ( 1960-12-21 )",
-    "Running time": "126 minutes",
+    "Release date": "1960-12-21",
+    "Running time": 126,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million",
@@ -2014,8 +1963,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 25, 1961 ( 1961-01-25 )",
-    "Running time": "79 minutes",
+    "Release date": "1961-01-25",
+    "Running time": 79,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3.6 million ",
@@ -2051,7 +2000,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "March 16, 1961 ",
-    "Running time": "97 minutes",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Box office": "$25.4 million"
@@ -2087,8 +2036,8 @@
     "Edited by": "Philip W. Anderson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 21, 1961 ( 1961-06-21 )",
-    "Running time": "128 minutes",
+    "Release date": "1961-06-21",
+    "Running time": 128,
     "Country": "United States",
     "Language": "English",
     "Box office": "$25.1 million"
@@ -2130,8 +2079,8 @@
     "Edited by": "Grant K. Smith",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 12, 1961 ( 1961-07-12 )",
-    "Running time": "74 minutes",
+    "Release date": "1961-07-12",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English"
   },
@@ -2158,8 +2107,8 @@
     "Edited by": "Peter Tanner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 17, 1961 ( 1961-07-17 )",
-    "Running time": "91 minutes",
+    "Release date": "1961-07-17",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English"
   },
@@ -2195,8 +2144,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "October 22, 1961 ( 1961-10-22 )",
-    "Running time": "105 minutes ",
+    "Release date": "1961-10-22",
+    "Running time": 105,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million ",
@@ -2228,8 +2177,8 @@
     "Cinematography": "William E. Snyder",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "April 5, 1962 ( 1962-04-05 )",
-    "Running time": "98 minutes",
+    "Release date": "1962-04-05",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3.5 million "
@@ -2260,8 +2209,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "May 17, 1962 ( 1962-05-17 )",
-    "Running time": "130 minutes",
+    "Release date": "1962-05-17",
+    "Running time": 130,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million ",
@@ -2293,8 +2242,8 @@
     "Edited by": "Grant K. Smith",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 6, 1962 ( 1962-06-06 )",
-    "Running time": "89 min.",
+    "Release date": "1962-06-06",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English"
   },
@@ -2311,7 +2260,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "September 26, 1962",
-    "Running time": "93 minutes",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English"
   },
@@ -2354,8 +2303,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 7, 1962 ( 1962-11-07 ) (Los Angeles) ",
-    "Running time": "67 minutes",
+    "Release date": "1962-11-07",
+    "Running time": 67,
     "Country": "United States",
     "Language": "English"
   },
@@ -2391,11 +2340,8 @@
     "Edited by": "Gordon Stone",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "November 14, 1962 ( 1962-11-14 ) (London, premiere)",
-      "December 19, 1962 ( 1962-12-19 ) (US)"
-    ],
-    "Running time": "98 minutes",
+    "Release date": "1962-11-14",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Box office": "$21,745,500 "
@@ -2423,8 +2369,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "January 16, 1963 ( 1963-01-16 )",
-    "Running time": "100 minutes",
+    "Release date": "1963-01-16",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$22.1 million "
@@ -2458,8 +2404,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 29, 1963 ( 1963-03-29 ) (U.S.)",
-    "Running time": "118 minutes",
+    "Release date": "1963-03-29",
+    "Running time": 118,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2,550,000 (US/ Canada) "
@@ -2491,7 +2437,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "June 1, 1963",
-    "Running time": "103 Minutes",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3,000,000 (US/ Canada) "
@@ -2530,8 +2476,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 7, 1963 ( 1963-07-07 )",
-    "Running time": "110 minutes",
+    "Release date": "1963-07-07",
+    "Running time": 110,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,350,000 (US/ Canada rentals) "
@@ -2563,8 +2509,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 20, 1963 ( 1963-11-20 )",
-    "Running time": "80 min.",
+    "Release date": "1963-11-20",
+    "Running time": 80,
     "Countries": [
       "United States",
       "Canada"
@@ -2595,8 +2541,8 @@
     "Edited by": "Donald Halliday",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 25, 1963 ( 1963-12-25 )",
-    "Running time": "79 minutes",
+    "Release date": "1963-12-25",
+    "Running time": 79,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3 million ",
@@ -2626,8 +2572,8 @@
     "Edited by": "Grant K. Smith",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 12, 1964 ( 1964-03-12 )",
-    "Running time": "91 minutes",
+    "Release date": "1964-03-12",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Box office": "est. $1,600,000 (US/ Canada) "
@@ -2655,8 +2601,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1964 ( 1964-02-11 ) (Los Angeles) ",
-    "Running time": "91 minutes",
+    "Release date": "1964-02-11",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,000,000 (US/ Canada) "
@@ -2687,11 +2633,8 @@
     "Edited by": "Gordon Stone",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "11 December 1963 ( 1963-12-11 ) ( New York City )",
-      "4 June 1964 ( 1964-06-04 ) (U.S.)"
-    ],
-    "Running time": "97 minutes",
+    "Release date": "1963-12-12",
+    "Running time": 97,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -2724,8 +2667,8 @@
     "Music by": "Ron Grainer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 2, 1964 ( 1964-07-02 )",
-    "Running time": "118 minutes",
+    "Release date": "1964-07-02",
+    "Running time": 118,
     "Language": "English",
     "Box office": "est. $3,500,000 (US/ Canada) "
   },
@@ -2764,8 +2707,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 27, 1964 ( 1964-08-27 )",
-    "Running time": "139 minutes ",
+    "Release date": "1964-08-27",
+    "Running time": 139,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4.4\u20136 million ",
@@ -2793,8 +2736,8 @@
     "Edited by": "Thomas Stanford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 18, 1964 ( 1964-12-18 )",
-    "Running time": "92 minutes",
+    "Release date": "1964-12-18",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1,275,000 "
@@ -2822,13 +2765,8 @@
     "Edited by": "Grant K. Smith",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "January 28, 1965",
-      "(",
-      "Atlanta, Georgia",
-      "Premiere)"
-    ],
-    "Running time": "131 mins.",
+    "Release date": "January 28, 1965",
+    "Running time": 131,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3,500,000 (US/ Canada rentals) "
@@ -2855,8 +2793,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 18, 1965 ( 1965-08-18 ) (Los Angeles) ",
-    "Running time": "87 minutes",
+    "Release date": "1965-08-18",
+    "Running time": 87,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,000,000 (US/Canada rentals) "
@@ -2888,8 +2826,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 2, 1965 ( 1965-12-02 )",
-    "Running time": "116 minutes",
+    "Release date": "1965-12-02",
+    "Running time": 116,
     "Country": "United States",
     "Language": "English",
     "Box office": "$28,068,222 "
@@ -2918,18 +2856,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "February\u00a04,\u00a01966",
-      "(",
-      "1966-02-04",
-      ")",
-      "(premiere)",
-      "February\u00a016,\u00a01966",
-      "(",
-      "1966-02-16",
-      ")"
-    ],
-    "Running time": "93 minutes",
+    "Release date": "1966-02-04",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Box office": "$6.2 million (est. US/ Canada rentals) "
@@ -2960,11 +2888,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "June 25, 1966 ( 1966-06-25 ) (San Diego) ",
-      "June 29, 1966 ( 1966-06-29 ) (U.S.) "
-    ],
-    "Running time": "110 min.",
+    "Release date": "1966-06-25",
+    "Running time": 110,
     "Country": "United States",
     "Language": "English",
     "Box office": "$22,565,634 "
@@ -2992,7 +2917,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "October 1, 1966",
-    "Running time": "110 min.",
+    "Running time": 110,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -3033,8 +2958,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 1, 1966 ( 1966-12-01 )",
-    "Running time": "131 minutes",
+    "Release date": "1966-12-01",
+    "Running time": 131,
     "Country": "United States",
     "Language": "English",
     "Box office": "$16,207,116 "
@@ -3055,8 +2980,8 @@
     "Edited by": "Marsh Hendry",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 8, 1967 ( 1967-02-08 ) (San Francisco) ",
-    "Running time": "101 minutes",
+    "Release date": "1967-02-08",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3,000,000 (US/ Canada) "
@@ -3087,8 +3012,8 @@
     "Edited by": "Marsh Hendry",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 15, 1967 ( 1967-06-15 ) (uk)",
-    "Running time": "108 minutes",
+    "Release date": "1967-06-15",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1,900,000 (US/ Canada) "
@@ -3123,8 +3048,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 12, 1967 ( 1967-07-12 ) ",
-    "Running time": "84 minutes",
+    "Release date": "1967-07-12",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,000,000 (US/ Canada) "
@@ -3163,8 +3088,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "October 18, 1967 ( 1967-10-18 )",
-    "Running time": "78 minutes",
+    "Release date": "1967-10-18",
+    "Running time": 78,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million ",
@@ -3199,8 +3124,8 @@
     "Edited by": "Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "October 19, 1967 ( 1967-10-19 )",
-    "Running time": "75 minutes",
+    "Release date": "1967-10-19",
+    "Running time": 75,
     "Country": "United States",
     "Language": "English"
   },
@@ -3233,26 +3158,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "June 23, 1967 ( 1967-06-23 )",
-      "November 30, 1967 ( 1967-11-30 )"
-    ],
-    "Running time": [
-      "164 minutes",
-      "(",
-      "Los Angeles",
-      "premiere)",
-      "144 minutes",
-      "(",
-      "New York City",
-      "premiere)",
-      "118 minutes",
-      "(General release)",
-      "172 minutes",
-      "(",
-      "Director's Cut",
-      ")"
-    ],
+    "Release date": "1967-06-23",
+    "Running time": 164,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -3282,8 +3189,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 8, 1968 ( 1968-02-08 )",
-    "Running time": "106 minutes",
+    "Release date": "1968-02-08",
+    "Running time": 106,
     "Country": "United States",
     "Language": "English",
     "Box office": "$21,540,050 "
@@ -3319,8 +3226,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 21, 1968 ( 1968-03-21 ) ( Radio City Music Hall )",
-    "Running time": "110 minutes",
+    "Release date": "1968-03-21",
+    "Running time": 110,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2,250,000 (US/ Canada) "
@@ -3347,8 +3254,8 @@
     "Edited by": "Marsh Hendry",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 26, 1968 ( 1968-06-26 )",
-    "Running time": "99 minutes",
+    "Release date": "1968-06-26",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,150,000 (US/ Canada rentals) "
@@ -3377,8 +3284,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution Co., Inc.",
-    "Release date": "December 20, 1968 ( 1968-12-20 )",
-    "Running time": "113 mins.",
+    "Release date": "1968-12-20",
+    "Running time": 113,
     "Country": "United States",
     "Language": "English",
     "Box office": "$3.3 million  (US/ Canada rentals) "
@@ -3404,11 +3311,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "December 24, 1968 ( 1968-12-24 ) (limited)",
-      "March 13, 1969 ( 1969-03-13 ) (wide)"
-    ],
-    "Running time": "108 minutes",
+    "Release date": "1968-12-24",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -3426,8 +3330,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 21, 1969 ( 1969-03-21 )",
-    "Running time": "112 minutes",
+    "Release date": "1969-03-21",
+    "Running time": 112,
     "Country": "United States",
     "Language": "English",
     "Box office": "$1.3 million (US/ Canada rentals) "
@@ -3456,8 +3360,8 @@
     "Edited by": "Norman R. Palmer",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 11, 1969 ( 1969-06-11 )",
-    "Running time": "93 minutes",
+    "Release date": "1969-06-11",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English"
   },
@@ -3479,8 +3383,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 31, 1969 ( 1969-12-31 )",
-    "Running time": "91 minutes",
+    "Release date": "1969-12-31",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Box office": "$5.5 million (US/ Canada rentals) "
@@ -3512,8 +3416,8 @@
     "Edited by": "G. Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1970 ( 1970-02-11 )",
-    "Running time": "93 minutes",
+    "Release date": "1970-02-11",
+    "Running time": 93,
     "Countries": [
       "United States",
       "Canada"
@@ -3544,8 +3448,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 1, 1970 ( 1970-07-01 )",
-    "Running time": "100 minutes",
+    "Release date": "1970-07-01",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$18,607,492 "
@@ -3568,11 +3472,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "December 15, 1970 ( 1970-12-15 ) (original release)",
-      "January 20, 1971 ( 1971-01-20 )"
-    ],
-    "Running time": "100 minutes",
+    "Release date": "1970-12-15",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4 million (rentals) (US/Canada) "
@@ -3614,11 +3515,8 @@
     "Edited by": "Tom Acosta",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "December 11, 1970 ( 1970-12-11 ) (premiere)",
-      "December 24, 1970 ( 1970-12-24 ) (United States)"
-    ],
-    "Running time": "79 minutes",
+    "Release date": "1970-12-11",
+    "Running time": 79,
     "Country": "United States",
     "Language": "English",
     "Budget": "$4 million ",
@@ -3649,8 +3547,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 17, 1971 ( 1971 )",
-    "Running time": "96 minutes",
+    "Release date": "1971-03-17",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English"
   },
@@ -3670,7 +3568,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "June 22, 1971",
-    "Running time": "113 minutes",
+    "Running time": 113,
     "Country": "United States",
     "Language": "English"
   },
@@ -3694,8 +3592,8 @@
     "Edited by": "Lloyd L. Richardson",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 30, 1971 ( 1971-06-30 )",
-    "Running time": "89 minutes",
+    "Release date": "1971-06-30",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Box office": "$5.1 million (North America) (rentals) "
@@ -3729,14 +3627,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "October 7, 1971 ( 1971-10-07 ) (United Kingdom)",
-      "December 13, 1971 ( 1971-12-13 ) (United States)"
-    ],
-    "Running time": [
-      "118 minutes (1971 original version)",
-      "139 minutes (1996 reconstruction version)"
-    ],
+    "Release date": "1971-10-07",
+    "Running time": 118,
     "Country": "United States  ",
     "Language": "English",
     "Budget": "$6.3 million ",
@@ -3760,8 +3652,8 @@
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 22, 1972 ( 1972-03-22 ) (US)",
-    "Running time": "92 minutes",
+    "Release date": "1972-03-22",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English"
   },
@@ -3784,8 +3676,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 12, 1972 ( 1972-07-12 )",
-    "Running time": "88 minutes",
+    "Release date": "1972-07-12",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4,610,000 (US/Canada) (rentals) "
@@ -3806,8 +3698,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 5, 1972 ( 1972-07-05 )",
-    "Running time": "92 minutes",
+    "Release date": "1972-07-05",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English"
   },
@@ -3835,8 +3727,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "October 18, 1972 ( 1972-10-18 )",
-    "Running time": "87 minutes",
+    "Release date": "1972-10-18",
+    "Running time": 87,
     "Country": "United States",
     "Language": "English"
   },
@@ -3875,8 +3767,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 22, 1972 ( 1972-12-22 )",
-    "Running time": "93 minutes",
+    "Release date": "1972-12-22",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Box office": "$6,100,000 (US/ Canada rentals) "
@@ -3902,7 +3794,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "February 1, 1973 ",
-    "Running time": "93 minutes",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Box office": "$22,583,370 "
@@ -3934,8 +3826,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 23, 1973 ( 1973-03-23 )",
-    "Running time": "93 minutes",
+    "Release date": "1973-03-23",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English"
   },
@@ -3957,8 +3849,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 20, 1973 ( 1973-06-20 )",
-    "Running time": "90 Minutes",
+    "Release date": "1973-06-20",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English ",
     "Box office": "$2 million"
@@ -3995,8 +3887,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 8, 1973 ( 1973-11-08 )",
-    "Running time": "83 minutes",
+    "Release date": "1973-11-08",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -4023,8 +3915,8 @@
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 14, 1973 ( 1973-12-14 )",
-    "Running time": "96 minutes",
+    "Release date": "1973-12-14",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Box office": "$7 million (US/Canada rentals) "
@@ -4052,8 +3944,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 6, 1974 ( 1974-06-06 )",
-    "Running time": "88 minutes",
+    "Release date": "1974-06-06",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Box office": [
@@ -4085,8 +3977,8 @@
     "Edited by": "G. Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 31, 1974 ( 1974-07-31 )",
-    "Running time": "89 minutes",
+    "Release date": "1974-07-31",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Box office": "$4 million (rentals) (US/Canada) "
@@ -4111,8 +4003,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 1, 1974 ( 1974-08-01 )",
-    "Running time": "91 minutes",
+    "Release date": "1974-08-01",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English"
   },
@@ -4139,8 +4031,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 20, 1974 (with Winnie the Pooh and Tigger Too )",
-    "Running time": "93 minutes",
+    "Release date": "1974-12-20",
+    "Running time": 93,
     "Country": "United States",
     "Languages": [
       "English",
@@ -4173,8 +4065,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 6, 1975 ( 1975-02-06 )",
-    "Running time": "92 minutes",
+    "Release date": "1975-02-06",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Box office": "$6.6 million (US/Canada rentals) "
@@ -4205,8 +4097,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 21, 1975 ( 1975-03-21 ) (U.S.)",
-    "Running time": "97 min.",
+    "Release date": "1975-03-21",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Box office": "$20,000,000 "
@@ -4239,8 +4131,8 @@
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 1, 1975 ( 1975-07-01 ) ",
-    "Running time": "100 minutes",
+    "Release date": "1975-07-01",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$36,853,000 "
@@ -4263,8 +4155,8 @@
     "Edited by": "Peter Boita",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 9, 1975 ( 1975-07-09 )",
-    "Running time": "100 minutes",
+    "Release date": "1975-07-09",
+    "Running time": 100,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -4310,8 +4202,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "October 8, 1975 ( 1975-10-08 )",
-    "Running time": "89 minutes",
+    "Release date": "1975-10-08",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English"
   },
@@ -4347,7 +4239,7 @@
       "(Australia)"
     ],
     "Release date": "December 25, 1975 ",
-    "Running time": "91 minutes",
+    "Running time": 91,
     "Countries": [
       "United States",
       "Australia"
@@ -4379,8 +4271,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1976 ( 1976-02-11 ) (Los Angeles) ",
-    "Running time": "112 minutes",
+    "Release date": "1976-02-11",
+    "Running time": 112,
     "Country": "United States",
     "Language": "English"
   },
@@ -4411,8 +4303,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 1, 1976 ( 1976-07-01 )",
-    "Running time": "115 minutes",
+    "Release date": "1976-07-01",
+    "Running time": 115,
     "Country": "United States",
     "Language": "English"
   },
@@ -4442,8 +4334,8 @@
     "Edited by": "Robert Stafford",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 7, 1976 ( 1976-07-07 )",
-    "Running time": "95 minutes",
+    "Release date": "1976-07-07",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Box office": "$21,873,000"
@@ -4472,8 +4364,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 16, 1976 ( 1976-12-16 )",
-    "Running time": "91 min.",
+    "Release date": "1976-12-16",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Box office": "$10.5 million (US and Canada rentals) "
@@ -4498,8 +4390,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 17, 1976 ( 1976-12-17 )",
-    "Running time": "95 minutes",
+    "Release date": "1976-12-17",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -4528,13 +4420,9 @@
     "Edited by": "Richard Marden",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "May 26, 1976",
-      "(UK)",
-      "March 11, 1977",
-      "(US)"
-    ],
-    "Running time": "104 minutes",
+    "Release date": "May 26, 1976",
+
+    "Running time": 104,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -4588,8 +4476,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 11, 1977 ( 1977-03-11 )",
-    "Running time": "74 minutes",
+    "Release date": "1977-03-11",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English"
   },
@@ -4604,8 +4492,8 @@
     "Edited by": "G. Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 22, 1977 ( 1977-06-22 )",
-    "Running time": "48 minutes",
+    "Release date": "1977-06-22",
+    "Running time": 48,
     "Country": "United States",
     "Language": "English"
   },
@@ -4652,8 +4540,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 22, 1977 ( 1977-06-22 )",
-    "Running time": "77 minutes",
+    "Release date": "1977-06-22",
+    "Running time": 77,
     "Country": "United States",
     "Language": "English",
     "Budget": "$7.5 million ",
@@ -4688,8 +4576,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 24, 1977 ( 1977-06-24 )",
-    "Running time": "104 minutes",
+    "Release date": "1977-06-24",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Box office": "$29 million "
@@ -4724,8 +4612,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 3, 1977 ( 1977-11-03 )",
-    "Running time": "128 minutes",
+    "Release date": "1977-11-03",
+    "Running time": 128,
     "Country": "United States",
     "Language": "English",
     "Budget": "$10 million ",
@@ -4752,8 +4640,8 @@
     "Edited by": "Peter Boita",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "December 16, 1977 ( 1977-12-16 )",
-    "Running time": "101 minutes",
+    "Release date": "1977-12-16",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English"
   },
@@ -4780,8 +4668,8 @@
     "Edited by": "Bob Bring",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 10, 1978 ( 1978-03-10 )",
-    "Running time": "94 minutes",
+    "Release date": "1978-03-10",
+    "Running time": 94,
     "Country": "United States",
     "Language": "English"
   },
@@ -4804,8 +4692,8 @@
     "Edited by": "Cotton Warburton",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 30, 1978 ( 1978-06-30 ) (New York) ",
-    "Running time": "104 minutes",
+    "Release date": "1978-06-30",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$3.5 to 4 million "
@@ -4833,8 +4721,8 @@
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 5, 1978 ( 1978-07-05 )",
-    "Running time": "90 minutes",
+    "Release date": "1978-07-05",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English"
   },
@@ -4865,8 +4753,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 9, 1979 ( 1979-02-09 )",
-    "Running time": "100 minutes",
+    "Release date": "1979-02-09",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English"
   },
@@ -4896,8 +4784,8 @@
     "Edited by": "Gordon Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 27, 1979 ( 1979-06-27 )",
-    "Running time": "88 minutes",
+    "Release date": "1979-06-27",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Box office": "$20,931,111 "
@@ -4921,13 +4809,8 @@
     "Edited by": "Peter Boita",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "July 19, 1979 (London)",
-      "",
-      "August 3, 1979 (Los Angeles)",
-      ""
-    ],
-    "Running time": "93 minutes",
+    "Release date": "1979-07-19",
+    "Running time": 93,
     "Countries": [
       "United Kingdom",
       "United States",
@@ -4966,11 +4849,8 @@
     "Edited by": "Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "December 18, 1979 ( 1979-12-18 ) (United Kingdom)",
-      "December 21, 1979 ( 1979-12-21 ) (United States)"
-    ],
-    "Running time": "98 minutes",
+    "Release date": "1979-12-18",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million",
@@ -5002,7 +4882,7 @@
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
     "Release date": "December 21, 1979",
-    "Running time": "100 minutes",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English"
   },
@@ -5036,8 +4916,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 8, 1980 ( 1980-02-08 )",
-    "Running time": "112 minutes",
+    "Release date": "1980-02-08",
+    "Running time": 112,
     "Country": "United States",
     "Language": "English",
     "Box office": "$2.9 million "
@@ -5072,11 +4952,8 @@
     "Edited by": "Geoffrey Foot",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "April 17, 1980 ( 1980-04-17 ) (New York City)",
-      "October 9, 1981 ( 1981-10-09 ) (U.S.)"
-    ],
-    "Running time": "84 minutes",
+    "Release date": "1980-04-17",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Budget": "$9 million ",
@@ -5112,8 +4989,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 27, 1980 ( 1980-06-27 )",
-    "Running time": "98 minutes",
+    "Release date": "1980-06-27",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Box office": "$18 million "
@@ -5146,8 +5023,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 9, 1980 ( 1980-07-09 ) (Los Angeles) ",
-    "Running time": "97 minutes",
+    "Release date": "1980-07-09",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$6-8 million ",
@@ -5186,11 +5063,8 @@
       "Buena Vista International Distribution (International)",
       "(International)"
     ],
-    "Release date": [
-      "December 6, 1980 ( 1980-12-06 ) ( Los Angeles )",
-      "December 12, 1980 ( 1980-12-12 ) ( United States )"
-    ],
-    "Running time": "114 minutes",
+    "Release date": "1980-12-06",
+    "Running time": 114,
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million ",
@@ -5225,8 +5099,8 @@
     "Edited by": "Ray de Leuw",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 11, 1981 (Los Angeles) ",
-    "Running time": "96 minutes",
+    "Release date": "1981-02-11",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Box office": "$16 million (USA) "
@@ -5251,8 +5125,8 @@
     "Edited by": "Gregg McLaughlin",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 20, 1981 ( 1981-03-20 )",
-    "Running time": "100 minutes",
+    "Release date": "1981-03-20",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English"
   },
@@ -5289,8 +5163,8 @@
       "Paramount Pictures (North America)",
       "Buena Vista International Distribution (International)"
     ],
-    "Release date": "June 26, 1981 ( 1981-06-26 )",
-    "Running time": "109 minutes",
+    "Release date": "1981-06-26",
+    "Running time": 109,
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million ",
@@ -5346,8 +5220,8 @@
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 10, 1981 ( 1981-07-10 )",
-    "Running time": "83 minutes",
+    "Release date": "1981-07-10",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million ",
@@ -5380,8 +5254,8 @@
     "Cinematography": "Charles F. Wheeler",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "August 7, 1981 ( 1981-08-07 )",
-    "Running time": "90 minutes",
+    "Release date": "1981-08-07",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million"
@@ -5405,8 +5279,8 @@
     "Edited by": "Gordon D. Brenner",
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "February 5, 1982 ( 1982-02-05 )",
-    "Running time": "107 minutes",
+    "Release date": "1982-02-05",
+    "Running time": 107,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -5439,8 +5313,8 @@
       "Lisberger-Kushner Productions"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 9, 1982 ( 1982-07-09 )",
-    "Running time": "96 minutes",
+    "Release date": "1982-07-09",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "US$ 17 million",
@@ -5475,8 +5349,8 @@
     "Edited by": "Howard E. Smith",
     "Production company": "Walt Disney Productions (promoted under the auspices of Touchstone Films )",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 30, 1982 ( 1982-07-30 )",
-    "Running time": "103 minutes",
+    "Release date": "1982-07-30",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -5503,8 +5377,8 @@
     "Edited by": "Frank J. Urioste",
     "Production company": "Walt Disney Productions (uncredited)",
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "March 11, 1983 ( 1983-03-11 )",
-    "Running time": "91 min",
+    "Release date": "1983-03-11",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Budget": "unknown",
@@ -5537,8 +5411,8 @@
       "Bryna Productions"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "April 29, 1983 ( 1983-04-29 ) (United States)",
-    "Running time": "95 minutes",
+    "Release date": "1983-04-29",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million ",
@@ -5578,11 +5452,8 @@
       "Amarok Productions Ltd."
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": [
-      "October 7, 1983 (limited)",
-      "January 27, 1984 (release)"
-    ],
-    "Running time": "105 minutes",
+    "Release date": "1983-10-07",
+    "Running time": 105,
     "Country": "United States",
     "Languages": [
       "English",
@@ -5626,8 +5497,8 @@
       "Silver Screen Partners"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 21, 1985 ( 1985-06-21 ) (United States)",
-    "Running time": "113 minutes",
+    "Release date": "1985-06-21",
+    "Running time": 113,
     "Countries": [
       "United States",
       "United Kingdom"
@@ -5692,8 +5563,8 @@
       ""
     ],
     "Distributed by": "Buena Vista Distribution ",
-    "Release date": "July 26, 1985 ( 1985-07-26 ) ",
-    "Running time": "80 minutes ",
+    "Release date": "1985-07-26",
+    "Running time": 80,
     "Country": "United States",
     "Language": "English",
     "Budget": "$44 million  ",
@@ -5726,8 +5597,8 @@
       "Silver Screen Partners II"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "September 27, 1985 ( 1985-09-27 )",
-    "Running time": "101 minutes",
+    "Release date": "1985-09-27",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Box office": "$9.7 million (U.S. and Canada only) "
@@ -5760,8 +5631,8 @@
       "Telefilm Canada"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "November 22, 1985 ( 1985-11-22 )",
-    "Running time": "89 minutes",
+    "Release date": "1985-11-22",
+    "Running time": 89,
     "Countries": [
       "United States",
       "Canada"
@@ -5815,8 +5686,8 @@
       "Silver Screen Partners II"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "July 2, 1986 ( 1986-07-02 )",
-    "Running time": "74 minutes",
+    "Release date": "1986-07-02",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million ",
@@ -5862,8 +5733,8 @@
       "",
       ""
     ],
-    "Release date": "August 1, 1986 ( 1986-08-01 )",
-    "Running time": "90 minutes",
+    "Release date": "1986-08-01",
+    "Running time": 90,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$9 million ",
@@ -5892,8 +5763,8 @@
       "Silver Screen Partners III"
     ],
     "Distributed by": "Buena Vista Distribution",
-    "Release date": "June 5, 1987 ( 1987-06-05 )",
-    "Running time": "89 minutes",
+    "Release date": "1987-06-05",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Box office": "$22.3 million"
@@ -5928,8 +5799,8 @@
       "The Hoyts Group"
     ],
     "Distributed by": "Hoyts Distribution",
-    "Release date": "24 March 1988 ( 1988-03-24 ) (Australia)",
-    "Running time": "110 minutes",
+    "Release date": "1988-03-03",
+    "Running time": 110,
     "Country": "Australia",
     "Language": "English",
     "Budget": "A$8.7 million ",
@@ -5982,8 +5853,8 @@
       "Silver Screen Partners III"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "November 18, 1988 ( 1988-11-18 )",
-    "Running time": "74 minutes",
+    "Release date": "1988-11-18",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million ",
@@ -6017,8 +5888,8 @@
       "Silver Screen Partners III"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 23, 1989 ( 1989-06-23 )",
-    "Running time": "93 minutes ",
+    "Release date": "1989-06-23",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Budget": "$18 million ",
@@ -6056,8 +5927,8 @@
       "Silver Screen Partners III"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 18, 1989 ( 1989-08-18 )",
-    "Running time": "84 minutes",
+    "Release date": "1989-08-18",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
@@ -6105,8 +5976,8 @@
       "Silver Screen Partners IV"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 17, 1989 ( 1989-11-17 )",
-    "Running time": "83 minutes ",
+    "Release date": "1989-11-17",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million ",
@@ -6145,8 +6016,8 @@
       "Walt Disney Animation France "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "August 3, 1990 ( 1990-08-03 )",
-    "Running time": "74 minutes ",
+    "Release date": "1990-08-03",
+    "Running time": 74,
     "Country": "United States  ",
     "Language": "English",
     "Budget": "$20 million ",
@@ -6187,8 +6058,8 @@
       "Silver Screen Partners IV"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 16, 1990 ( 1990-11-16 )",
-    "Running time": "77 minutes",
+    "Release date": "1990-11-16",
+    "Running time": 77,
     "Country": "United States",
     "Language": "English",
     "Box office": "$47.4 million "
@@ -6227,8 +6098,8 @@
       "Silver Screen Partners IV"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 18, 1991 ( 1991-01-18 )",
-    "Running time": "107 minutes",
+    "Release date": "1991-01-18",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million ",
@@ -6262,8 +6133,8 @@
       "AB Svensk Filmindustri"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "3 October 1990 ( 1990-10-03 )",
-    "Running time": "93 minutes",
+    "Release date": "1990-10-10",
+    "Running time": 93,
     "Countries": [
       "Norway",
       "Sweden",
@@ -6300,8 +6171,8 @@
     "Edited by": "Jon Poll",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "May 24, 1991 ( 1991-05-24 )",
-    "Running time": "88 minutes",
+    "Release date": "1991-05-24",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Box office": "$7.3 million"
@@ -6348,8 +6219,8 @@
       "Gordon Company"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 21, 1991 ( 1991-06-21 )",
-    "Running time": "108 minutes ",
+    "Release date": "1991-06-21",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Budget": "$35-40 million  ",
@@ -6400,11 +6271,8 @@
       "Silver Screen Partners IV "
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": [
-      "September 29, 1991 ( 1991-09-29 ) ( NYFF )",
-      "November 22, 1991 ( 1991-11-22 ) (United States)"
-    ],
-    "Running time": "84 minutes ",
+    "Release date": "1991-09-29",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -6445,8 +6313,8 @@
     "Edited by": "William H. Reynolds",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 10, 1992 ( 1992-04-10 )",
-    "Running time": "121 minutes ",
+    "Release date": "1992-04-10",
+    "Running time": 121,
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
@@ -6490,8 +6358,8 @@
       ""
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 17, 1992 ( 1992-07-17 )",
-    "Running time": "89 minutes",
+    "Release date": "1992-07-17",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million ",
@@ -6523,8 +6391,8 @@
       "Touchwood Pacific Partners"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 2, 1992 ( 1992-10-02 )",
-    "Running time": "104 minutes",
+    "Release date": "1992-10-02",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$14 million ",
@@ -6585,8 +6453,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 25, 1992 ( 1992-11-25 )",
-    "Running time": "90 minutes",
+    "Release date": "1992-11-25",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million ",
@@ -6626,8 +6494,8 @@
       "Jim Henson Productions"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "December 11, 1992 ( 1992-12-11 )",
-    "Running time": "86 minutes ",
+    "Release date": "1992-12-11",
+    "Running time": 86,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$12 million",
@@ -6669,8 +6537,8 @@
     "Edited by": "Jonathan P. Shaw",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 3, 1993 ( 1993-02-03 )",
-    "Running time": "84 minutes",
+    "Release date": "1993-02-03",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Box office": "$57 million "
@@ -6710,8 +6578,8 @@
       "Touchwood Pacific Partners"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 12, 1993 ( 1993-03-12 )",
-    "Running time": "108 minutes",
+    "Release date": "1993-03-12",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Box office": "$12.9 million "
@@ -6741,8 +6609,8 @@
     "Edited by": "Bob Ducsay",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 2, 1993 ( 1993-04-02 )",
-    "Running time": "107 minutes",
+    "Release date": "1993-04-02",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English",
     "Budget": "$6.5 million",
@@ -6777,8 +6645,8 @@
     "Edited by": "Peter E. Berger",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 16, 1993 ( 1993-07-16 )",
-    "Running time": "96 minutes ",
+    "Release date": "1993-07-16",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million",
@@ -6814,8 +6682,8 @@
     "Edited by": "Bruce Green",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 1, 1993 ( 1993-10-01 )",
-    "Running time": "98 minutes",
+    "Release date": "1993-10-01",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million",
@@ -6852,8 +6720,8 @@
       "Avnet\u2013Kerner Productions (uncredited)"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 12, 1993 ( 1993-11-12 )",
-    "Running time": "105 minutes",
+    "Release date": "1993-11-12",
+    "Running time": 105,
     "Countries": [
       "United States",
       "Austria",
@@ -6888,8 +6756,8 @@
     "Edited by": "Andrew Doerfer",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 14, 1994 ( 1994-01-14 )",
-    "Running time": "108 minutes",
+    "Release date": "1994-01-14",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Box office": "$21 million "
@@ -6924,8 +6792,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 11, 1994 ( 1994-02-11 )",
-    "Running time": "94 minutes",
+    "Release date": "1994-02-11",
+    "Running time": 94,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$13 million",
@@ -6961,8 +6829,8 @@
       "Avnet\u2013Kerner Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 25, 1994 ( 1994-03-25 )",
-    "Running time": "106 minutes",
+    "Release date": "1994-03-25",
+    "Running time": 106,
     "Country": "United States",
     "Language": "English",
     "Box office": "$45.6 million"
@@ -6984,8 +6852,8 @@
     "Edited by": "Elba Sanchez-Short",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 15, 1994 ( 1994-04-15 )",
-    "Running time": "102 minutes",
+    "Release date": "1994-04-15",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Box office": "$8,878,839 (US) "
@@ -7046,8 +6914,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 15, 1994 ( 1994-06-15 ) (United States)",
-    "Running time": "88 minutes ",
+    "Release date": "1994-06-15",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million ",
@@ -7085,8 +6953,8 @@
       "Caravan Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 15, 1994 ( 1994-07-15 )",
-    "Running time": "102 minutes",
+    "Release date": "1994-07-15",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million ",
@@ -7112,8 +6980,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 28, 1994 ( 1994-10-28 )",
-    "Running time": "102 minutes",
+    "Release date": "1994-10-28",
+    "Running time": 102,
     "Countries": [
       "United States",
       "Canada"
@@ -7151,8 +7019,8 @@
       "Outlaw Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 11, 1994 ( 1994-11-11 )",
-    "Running time": "97 minutes",
+    "Release date": "1994-11-11",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million ",
@@ -7205,8 +7073,8 @@
       "(all other territories)",
       ""
     ],
-    "Release date": "December 25, 1994 ( 1994-12-25 )",
-    "Running time": "111 minutes ",
+    "Release date": "1994-12-25",
+    "Running time": 111,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -7252,8 +7120,8 @@
       "Caravan Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 17, 1995 ( 1995-02-17 )",
-    "Running time": "100 minutes",
+    "Release date": "1995-02-17",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$17.6 million "
@@ -7290,8 +7158,8 @@
       "Orr & Cruickshank Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 3, 1995 ( 1995-03-03 )",
-    "Running time": "96 minutes",
+    "Release date": "1995-03-03",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
@@ -7326,8 +7194,8 @@
       "Caravan Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 24, 1995 ( 1995-03-24 )",
-    "Running time": "98 minutes",
+    "Release date": "1995-03-24",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Budget": [
@@ -7368,8 +7236,8 @@
       "Walt Disney Television Animation  "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "April 7, 1995 ( 1995-04-07 ) ",
-    "Running time": "78 minutes ",
+    "Release date": "1995-04-07",
+    "Running time": 78,
     "Countries": [
       "United States",
       "",
@@ -7428,11 +7296,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "June 10, 1995 ( 1995-06-10 ) (Premiere)",
-      "June 16, 1995 ( 1995-06-16 )"
-    ],
-    "Running time": "81 minutes ",
+    "Release date": "1995-06-10",
+    "Running time": 81,
     "Country": "United States",
     "Language": "English",
     "Budget": "$55 million ",
@@ -7467,8 +7332,8 @@
       "PolyGram Filmed Entertainment"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 28, 1995 ( 1995-07-28 )",
-    "Running time": "108 minutes",
+    "Release date": "1995-07-28",
+    "Running time": 108,
     "Languages": [
       "English",
       "Vietnamese"
@@ -7510,8 +7375,8 @@
       "(United States)",
       "Trimark Pictures (International)"
     ],
-    "Release date": "August 11, 1995 ( 1995-08-11 )",
-    "Running time": "89 minutes",
+    "Release date": "1995-08-11",
+    "Running time": 89,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -7543,8 +7408,8 @@
       "Roger Birnbaum Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "September 29, 1995 ( 1995-09-29 )",
-    "Running time": "99 minutes",
+    "Release date": "1995-09-29",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million",
@@ -7571,11 +7436,8 @@
       "Theodore Thomas Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "January 22, 1995 ( 1995-01-22 ) ( Sundance Film Festival )",
-      "October 20, 1995 ( 1995-10-20 ) (U.S.)"
-    ],
-    "Running time": "89 minutes",
+    "Release date": "1995-01-22",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English"
   },
@@ -7620,11 +7482,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "November 19, 1995 ( 1995-11-19 ) ( El Capitan Theatre )",
-      "November 22, 1995 ( 1995-11-22 ) (United States)"
-    ],
-    "Running time": "81 minutes ",
+    "Release date": "1995-11-19",
+    "Running time": 81,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -7656,8 +7515,8 @@
     "Edited by": "David Freeman",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "December 22, 1995 ( 1995-12-22 )",
-    "Running time": "92 minutes",
+    "Release date": "1995-12-22",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Box office": "$23.9 million "
@@ -7697,8 +7556,8 @@
       "Jim Henson Productions"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "February 16, 1996 ( 1996-02-16 )",
-    "Running time": "100 minutes",
+    "Release date": "1996-02-16",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$31 million",
@@ -7736,8 +7595,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 8, 1996 ( 1996-03-08 )",
-    "Running time": "89 minutes",
+    "Release date": "1996-03-08",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Box office": "$32.7 million"
@@ -7789,11 +7648,8 @@
       "",
       "(United Kingdom)"
     ],
-    "Release date": [
-      "April 12, 1996 ( 1996-04-12 ) (United States)",
-      "August 2, 1996 ( 1996-08-02 ) (United Kingdom)"
-    ],
-    "Running time": "79 minutes",
+    "Release date": "1996-04-12",
+    "Running time": 79,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -7841,8 +7697,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 21, 1996 ( 1996-06-21 )",
-    "Running time": "91 minutes",
+    "Release date": "1996-06-21",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million ",
@@ -7868,8 +7724,8 @@
       "Roger Birnbaum Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 30, 1996 ( 1996-08-30 )",
-    "Running time": "101 minutes",
+    "Release date": "1996-08-30",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million ",
@@ -7909,8 +7765,8 @@
       "Avnet-Kerner Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 4, 1996 ( 1996-10-04 )",
-    "Running time": "104 minutes",
+    "Release date": "1996-10-04",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Box office": "$22.9 million "
@@ -7943,8 +7799,8 @@
       "Great Oaks Entertainment "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "November 27, 1996 ( 1996-11-27 )",
-    "Running time": "103 minutes ",
+    "Release date": "1996-11-27",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$75 million ",
@@ -7988,8 +7844,8 @@
       "Robert Simonds Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 14, 1997 ( 1997-02-14 )",
-    "Running time": "86 minutes ",
+    "Release date": "1997-02-14",
+    "Running time": 86,
     "Country": "United States",
     "Language": "English",
     "Box office": "$18.3 million "
@@ -8026,11 +7882,8 @@
       "Ariane Films",
       "(France)"
     ],
-    "Release date": [
-      "March 7, 1997 ( 1997-03-07 ) (US)",
-      "August 5, 1997 ( 1997-08-05 ) (France)"
-    ],
-    "Running time": "105 minutes",
+    "Release date": "1997-03-07",
+    "Running time": 105,
     "Countries": [
       "United States",
       "France"
@@ -8087,11 +7940,8 @@
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "June 13, 1997 ( 1997-06-13 ) (limited release)",
-      "June 27, 1997 ( 1997-06-27 ) (wide release)"
-    ],
-    "Running time": "93 minutes ",
+    "Release date": "1997-06-13",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million ",
@@ -8139,8 +7989,8 @@
       "The Kerner Entertainment Company"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "July 16, 1997 ( 1997-07-16 )",
-    "Running time": "92 minutes",
+    "Release date": "1997-07-16",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Budget": "$55 million ",
@@ -8181,7 +8031,7 @@
       "(Canada)"
     ],
     "Release date": "August 1, 1997",
-    "Running time": "98 minutes",
+    "Running time": 98,
     "Countries": [
       "United States",
       "Canada"
@@ -8216,8 +8066,8 @@
       "Roger Birnbaum Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 10, 1997 ( 1997-10-10 )",
-    "Running time": "95 minutes",
+    "Release date": "1997-10-10",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$16 million",
@@ -8257,11 +8107,8 @@
       "Great Oaks"
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": [
-      "November 16, 1997 ( 1997-11-16 ) ( Pennsylvania )",
-      "November 26, 1997 ( 1997-11-26 ) (United States)"
-    ],
-    "Running time": "93 minutes",
+    "Release date": "1997-11-16",
+    "Running time": 93,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$80 million ",
@@ -8303,8 +8150,8 @@
       "UPA Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "December 25, 1997 ( 1997-12-25 )",
-    "Running time": "87 minutes",
+    "Release date": "1997-12-25",
+    "Running time": 87,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
@@ -8336,8 +8183,8 @@
       "Peak Productions "
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": "March 27, 1998 ( 1998-03-27 ) (United States)",
-    "Running time": "93 minutes",
+    "Release date": "1998-03-27",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Budget": "$24 million",
@@ -8377,8 +8224,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 19, 1998 ( 1998-06-19 )",
-    "Running time": "87 minutes",
+    "Release date": "1998-06-19",
+    "Running time": 87,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million ",
@@ -8409,8 +8256,8 @@
     "Edited by": "Stephen A. Rotter",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "July 29, 1998 ( 1998-07-29 ) (United States)",
-    "Running time": "128 minutes ",
+    "Release date": "1998-07-29",
+    "Running time": 128,
     "Country": "United States  ",
     "Language": "English",
     "Budget": "$15 million ",
@@ -8446,8 +8293,8 @@
       "Mandeville Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 13, 1998 ( 1998-11-13 )",
-    "Running time": "86 minutes",
+    "Release date": "1998-11-13",
+    "Running time": 86,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -8484,8 +8331,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "November 20, 1998 ( 1998-11-20 ) ",
-    "Running time": "95 minutes ",
+    "Release date": "1998-11-20",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$120 million ",
@@ -8529,8 +8376,8 @@
       "The Jacobson Company"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "December 25, 1998 ( 1998-12-25 )",
-    "Running time": "114 minutes",
+    "Release date": "1998-12-25",
+    "Running time": 114,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million ",
@@ -8567,8 +8414,8 @@
     "Edited by": "Malcolm Campbell",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 12, 1999 ( 1999-02-12 )",
-    "Running time": "93 minutes",
+    "Release date": "1999-02-12",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million ",
@@ -8613,8 +8460,8 @@
       "Plus One Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 26, 1999 ( 1999-03-26 )",
-    "Running time": "83 minutes",
+    "Release date": "1999-03-26",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million",
@@ -8648,8 +8495,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "May 14, 1999 ( 1999-05-14 )",
-    "Running time": "83 minutes",
+    "Release date": "1999-05-14",
+    "Running time": 83,
     "Countries": [
       "United States",
       "United Kingdom",
@@ -8720,11 +8567,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "June 12, 1999 ( 1999-06-12 ) ( El Capitan Theatre )",
-      "June 16, 1999 ( 1999-06-16 ) (United States  )"
-    ],
-    "Running time": "88 minutes ",
+    "Release date": "1999-06-12",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million ",
@@ -8778,8 +8622,8 @@
       "Roger Birnbaum Productions"
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "July 23, 1999 ( 1999-07-23 )",
-    "Running time": "78 minutes ",
+    "Release date": "1999-07-23",
+    "Running time": 78,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million ",
@@ -8821,11 +8665,8 @@
       "BAC Films",
       "(France)"
     ],
-    "Release date": [
-      "May 1999 ( 1999-05 ) ( Cannes )",
-      "October 15, 1999 ( 1999-10-15 ) (United States)"
-    ],
-    "Running time": "112 minutes",
+    "Release date": "1999-05-05",
+    "Running time": 112,
     "Countries": [
       "United States",
       "United Kingdom",
@@ -8871,11 +8712,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "November 13, 1999 ( 1999-11-13 ) ( El Capitan Theatre ) ",
-      "November 24, 1999 ( 1999-11-24 ) (United States)"
-    ],
-    "Running time": "92 minutes ",
+    "Release date": "1999-11-13",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million ",
@@ -8957,12 +8795,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "December 17, 1999 ( 1999-12-17 ) ( Carnegie Hall )",
-      "January 1, 2000 ( 2000-01-01 ) ( IMAX )",
-      "June 16, 2000 ( 2000-06-16 ) (United States)"
-    ],
-    "Running time": "74 minutes",
+    "Release date": "1999-12-17",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$80\u2013$85 million  ",
@@ -9002,8 +8836,8 @@
       "Walt Disney Pictures "
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 11, 2000 ( 2000-02-11 ) (United States)",
-    "Running time": "78 minutes ",
+    "Release date": "2000-02-11",
+    "Running time": 78,
     "Countries": [
       "United States",
       "",
@@ -9056,8 +8890,8 @@
       "The Secret Lab"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "May 19, 2000 ( 2000-05-19 ) (United States)",
-    "Running time": "82 minutes ",
+    "Release date": "2000-05-19",
+    "Running time": 82,
     "Country": "United States",
     "Language": "English",
     "Budget": "$127.5 million ",
@@ -9091,8 +8925,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 7, 2000 ( 2000-07-07 )",
-    "Running time": "104 minutes ",
+    "Release date": "2000-07-07",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million ",
@@ -9122,8 +8956,8 @@
       "Technical Black Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "September 29, 2000 ( 2000-09-29 )",
-    "Running time": "113 minutes",
+    "Release date": "2000-09-29",
+    "Running time": 113,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -9160,8 +8994,8 @@
       "Kanzaman S.A.M. Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 22, 2000 ( 2000-11-22 )",
-    "Running time": "100 minutes",
+    "Release date": "2000-11-22",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million",
@@ -9197,8 +9031,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "December 15, 2000 ( 2000-12-15 )",
-    "Running time": "78 minutes",
+    "Release date": "2000-12-15",
+    "Running time": 78,
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million",
@@ -9253,11 +9087,8 @@
       "Sunwoo Animation Sunwoo Digital International"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "February 10, 2001 ( 2001-02-10 ) (premiere)",
-      "February 16, 2001 ( 2001-02-16 ) (United States)"
-    ],
-    "Running time": "83 minutes ",
+    "Release date": "2001-02-10",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$23 million ",
@@ -9302,11 +9133,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "June 3, 2001 ( 2001-06-03 ) (Premiere)",
-      "June 15, 2001 ( 2001-06-15 ) (United States)"
-    ],
-    "Running time": "96 minutes ",
+    "Release date": "2001-06-03",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90\u2013120 million    ",
@@ -9344,8 +9172,8 @@
       "BrownHouse Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 3, 2001 ( 2001-08-03 )",
-    "Running time": "115 minutes ",
+    "Release date": "2001-08-03",
+    "Running time": 115,
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million",
@@ -9385,8 +9213,8 @@
       "Karz Entertainment"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 5, 2001 ( 2001-10-05 )",
-    "Running time": "86 minutes",
+    "Release date": "2001-10-05",
+    "Running time": 86,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -9428,11 +9256,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "October 28, 2001 ( 2001-10-28 ) ( El Capitan Theatre )",
-      "November 2, 2001 ( 2001-11-02 ) (United States)"
-    ],
-    "Running time": "92 minutes ",
+    "Release date": "2001-10-28",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Budget": "$115 million ",
@@ -9470,8 +9295,8 @@
       "The Kerner Entertainment Company"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "January 18, 2002 ( 2002-01-18 )",
-    "Running time": "99 minutes",
+    "Release date": "2002-01-18",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$33 million",
@@ -9510,11 +9335,8 @@
       "Walt Disney Television Animation "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": [
-      "February 10, 2002 ( 2002-02-10 ) ( New York City )",
-      "February 15, 2002 ( 2002-02-15 ) (United States)"
-    ],
-    "Running time": "73 minutes ",
+    "Release date": "2002-02-10",
+    "Running time": 73,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$20 million ",
@@ -9544,8 +9366,8 @@
       "Gran Via"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 29, 2002 ( 2002-03-29 )",
-    "Running time": "128 minutes",
+    "Release date": "2002-03-29",
+    "Running time": 128,
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million",
@@ -9582,8 +9404,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures Distribution, Inc.",
-    "Release date": "June 21, 2002 ( 2002-06-21 )",
-    "Running time": "85 minutes ",
+    "Release date": "2002-06-21",
+    "Running time": 85,
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million ",
@@ -9614,11 +9436,8 @@
     ],
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "July 21, 2002 ( 2002-07-21 )",
-      "July 26, 2002 ( 2002-07-26 )"
-    ],
-    "Running time": "88 minutes",
+    "Release date": "2002-07-21",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
@@ -9647,11 +9466,8 @@
     "Edited by": "Takeshi Seyama",
     "Production company": "Studio Ghibli",
     "Distributed by": "Toho",
-    "Release date": [
-      "July 20, 2001 ( 2001-07-20 ) (Japan)",
-      "December 20, 2002 ( 2002-12-20 ) (United States)"
-    ],
-    "Running time": "125 minutes ",
+    "Release date": "2001-07-20",
+    "Running time": 125,
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": [
@@ -9700,8 +9516,8 @@
       "Scholastic Studios"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "October 11, 2002 ( 2002-10-11 ) (U.S.)",
-    "Running time": "96 minutes",
+    "Release date": "2002-10-11",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million ",
@@ -9748,8 +9564,8 @@
       "Boxing Cat Films"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "November 1, 2002 ( 2002-11-01 ) (United States)",
-    "Running time": "104 minutes",
+    "Release date": "2002-11-01",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million  ",
@@ -9800,8 +9616,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 27, 2002 ( 2002-11-27 )",
-    "Running time": "95 minutes",
+    "Release date": "2002-11-27",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$140 million ",
@@ -9841,8 +9657,8 @@
       ""
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 14, 2003 ( 2003-02-14 )",
-    "Running time": "72 minutes ",
+    "Release date": "2003-02-14",
+    "Running time": 72,
     "Countries": [
       "United States",
       "Australia"
@@ -9892,12 +9708,8 @@
       ""
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "March 16, 2003 ( 2003-03-16 ) (premiere)",
-      "March 21, 2003 ( 2003-03-21 ) (United States)",
-      "July 2, 2003 ( 2003-07-02 ) ( Manila , Philippines )"
-    ],
-    "Running time": "75 minutes",
+    "Release date": "2003-03-16",
+    "Running time": 75,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$46 million ",
@@ -9940,11 +9752,8 @@
       "UGC PH"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "March 31, 2003 ( 2003-03-31 ) (premiere)",
-      "April 11, 2003 ( 2003-04-11 ) (limited)"
-    ],
-    "Running time": "61 minutes",
+    "Release date": "2003-03-31",
+    "Running time": 61,
     "Country": "United States",
     "Language": "English",
     "Budget": "$13 million ",
@@ -9985,8 +9794,8 @@
       "Chicago Pacific Entertainment"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 18, 2003 ( 2003-04-18 ) (United States)",
-    "Running time": "117 minutes",
+    "Release date": "2003-04-18",
+    "Running time": 117,
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million ",
@@ -10022,8 +9831,8 @@
       "Stan Rogow Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "May 2, 2003 ( 2003-05-02 ) (United States)",
-    "Running time": "94 minutes",
+    "Release date": "2003-05-02",
+    "Running time": 94,
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million ",
@@ -10057,8 +9866,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": "May 30, 2003 ( 2003-05-30 )",
-    "Running time": "100 minutes ",
+    "Release date": "2003-05-30",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$94 million ",
@@ -10106,11 +9915,8 @@
       "Jerry Bruckheimer Films"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "June 28, 2003 ( 2003-06-28 ) ( Disneyland Resort )",
-      "July 9, 2003 ( 2003-07-09 ) (United States)"
-    ],
-    "Running time": "143 minutes ",
+    "Release date": "2003-06-28",
+    "Running time": 143,
     "Country": "United States",
     "Language": "English",
     "Budget": "$140 million ",
@@ -10145,11 +9951,8 @@
       "Gunn Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "August 4, 2003 ( 2003-08-04 ) ( Los Angeles )",
-      "August 6, 2003 ( 2003-08-06 ) (United States)"
-    ],
-    "Running time": "97 minutes",
+    "Release date": "2003-08-04",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million ",
@@ -10199,8 +10002,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 1, 2003 ( 2003-11-01 )",
-    "Running time": "85 minutes",
+    "Release date": "2003-11-01",
+    "Running time": 85,
     "Country": "United States",
     "Language": "English",
     "Budget": "$46 million ",
@@ -10232,8 +10035,8 @@
     "Edited by": "Priscilla Nedd-Friendly",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 26, 2003 ( 2003-11-26 )",
-    "Running time": "86 minutes ",
+    "Release date": "2003-11-26",
+    "Running time": 86,
     "Country": "United States",
     "Language": "English",
     "Budget": "$90 million ",
@@ -10269,8 +10072,8 @@
       "The Kennedy/Marshall Company"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "December 25, 2003 ( 2003-12-25 )",
-    "Running time": "50 minutes",
+    "Release date": "2003-12-25",
+    "Running time": 50,
     "Country": "United States",
     "Language": "English",
     "Box office": "$9,638,389"
@@ -10305,8 +10108,8 @@
       "Toon City Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 16, 2004 ( 2004-01-16 )",
-    "Running time": "74 minutes",
+    "Release date": "2004-01-16",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$10 million",
@@ -10344,8 +10147,8 @@
       "Mayhem Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 6, 2004 ( 2004-02-06 )",
-    "Running time": "136 minutes",
+    "Release date": "2004-02-06",
+    "Running time": 136,
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million ",
@@ -10378,8 +10181,8 @@
     "Edited by": "Anita Brandt-Burgoyne",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 17, 2004 ( 2004-02-17 ) (United States)",
-    "Running time": "89 minutes",
+    "Release date": "2004-02-17",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English",
     "Budget": "$15 million",
@@ -10420,8 +10223,8 @@
       "Walt Disney Feature Animation"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 2, 2004 ( 2004-04-02 )",
-    "Running time": "76 minutes",
+    "Release date": "2004-04-02",
+    "Running time": 76,
     "Country": "United States",
     "Language": "English",
     "Budget": "$110 million ",
@@ -10455,8 +10258,8 @@
     "Edited by": "Jon Long",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 22, 2004 ( 2004-04-22 )",
-    "Running time": "40 minutes",
+    "Release date": "2004-04-22",
+    "Running time": 40,
     "Countries": [
       "Canada",
       "Malaysia",
@@ -10502,8 +10305,8 @@
       "Mostow/Lieberman Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "April 6, 2004 ( 2004-04-06 )",
-    "Running time": "120 minutes ",
+    "Release date": "2004-04-06",
+    "Running time": 120,
     "Country": "United States",
     "Languages": [
       "English",
@@ -10530,8 +10333,8 @@
       "Blacklight Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 2, 2004 ( 2004-07-02 )",
-    "Running time": "84 minutes",
+    "Release date": "2004-07-02",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Box office": "$314,402"
@@ -10572,8 +10375,8 @@
       "Martin Chase Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 11, 2004 ( 2004-08-11 )",
-    "Running time": "113 minutes ",
+    "Release date": "2004-08-11",
+    "Running time": 113,
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million ",
@@ -10606,11 +10409,8 @@
       "Pixar Animation Studios "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": [
-      "October 27, 2004 ( 2004-10-27 ) ( BFI London Film Festival )",
-      "November 5, 2004 ( 2004-11-05 ) (United States)"
-    ],
-    "Running time": "115 minutes ",
+    "Release date": "2004-10-27",
+    "Running time": 115,
     "Country": "United States",
     "Language": "English",
     "Budget": "$92 million ",
@@ -10653,8 +10453,8 @@
       "Saturn Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 19, 2004 ( 2004-11-19 )",
-    "Running time": "131 minutes",
+    "Release date": "2004-11-19",
+    "Running time": 131,
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million ",
@@ -10695,8 +10495,8 @@
       "Earthship Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 28, 2005 ( 2005-01-28 )",
-    "Running time": "100 minutes ",
+    "Release date": "2005-01-28",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$9 million "
@@ -10729,8 +10529,8 @@
       ""
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": "February 11, 2005 ( 2005-02-11 ) ",
-    "Running time": "68 minutes ",
+    "Release date": "2005-02-11",
+    "Running time": 68,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$20 million",
@@ -10766,8 +10566,8 @@
       "Spyglass Entertainment "
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": "March 4, 2005 ( 2005-03-04 )",
-    "Running time": "95 minutes ",
+    "Release date": "2005-03-04",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$56 million ",
@@ -10795,8 +10595,8 @@
       "On The Ice Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 18, 2005 ( 2005-03-18 )",
-    "Running time": "97 minutes",
+    "Release date": "2005-03-18",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -10837,8 +10637,8 @@
       "Robert Simonds Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "June 22, 2005 ( 2005-06-22 )",
-    "Running time": "101 minutes",
+    "Release date": "2005-06-22",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million",
@@ -10868,11 +10668,8 @@
     "Edited by": "Takeshi Seyama ",
     "Production company": "Studio Ghibli ",
     "Distributed by": "Toho ",
-    "Release date": [
-      "5 September 2004 ( 2004-09-05 ) ( Venice )",
-      "20 November 2004 ( 2004-11-20 ) (Japan)"
-    ],
-    "Running time": "119 minutes ",
+    "Release date": "2004-09-09",
+    "Running time": 119,
     "Country": "Japan ",
     "Language": "Japanese ",
     "Budget": [
@@ -10912,8 +10709,8 @@
       "Gunn Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "July 29, 2005 ( 2005-07-29 )",
-    "Running time": "100 minutes",
+    "Release date": "2005-07-29",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million ",
@@ -10957,11 +10754,8 @@
       "Entertainment Film Distributors (United Kingdom)",
       "Buena Vista Pictures (United States)"
     ],
-    "Release date": [
-      "March 25, 2005 ( 2005-03-25 ) (UK)",
-      "August 19, 2005 ( 2005-08-19 ) (US)"
-    ],
-    "Running time": "76 minutes",
+    "Release date": "2005-03-25",
+    "Running time": 76,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -10995,8 +10789,8 @@
     "Edited by": "Elliot Graham",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "September 30, 2005 ( 2005-09-30 )",
-    "Running time": "120 minutes",
+    "Release date": "2005-09-30",
+    "Running time": 120,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -11034,11 +10828,8 @@
       "Walt Disney Feature Animation "
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "October 30, 2005 ( 2005-10-30 ) ( El Capitan Theatre )",
-      "November 4, 2005 ( 2005-11-04 ) (United States)"
-    ],
-    "Running time": "81 minutes ",
+    "Release date": "2005-10-30",
+    "Running time": 81,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -11083,12 +10874,8 @@
       "Walden Media"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "December 7, 2005 ( 2005-12-07 ) ( Royal Film Performance )",
-      "December 8, 2005 ( 2005-12-08 ) (United Kingdom)",
-      "December 9, 2005 ( 2005-12-09 ) (United States)"
-    ],
-    "Running time": "143 minutes",
+    "Release date": "2005-12-07",
+    "Running time": 143,
     "Countries": [
       "United Kingdom ",
       "United States "
@@ -11129,8 +10916,8 @@
       "Glory Road Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 13, 2006 ( 2006-01-13 )",
-    "Running time": "106 minutes ",
+    "Release date": "2006-01-13",
+    "Running time": 106,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -11161,8 +10948,8 @@
       "The Kennedy/Marshall Company"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "January 27, 2006 ( 2006-01-27 )",
-    "Running time": "40 minutes",
+    "Release date": "2006-01-27",
+    "Running time": 40,
     "Country": "United States",
     "Language": "English",
     "Budget": "$1 million ",
@@ -11199,8 +10986,8 @@
       "The Kennedy/Marshall Company"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "February 17, 2006 ( 2006-02-17 ) (United States)",
-    "Running time": "120 minutes",
+    "Release date": "2006-02-17",
+    "Running time": 120,
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million",
@@ -11245,8 +11032,8 @@
       "Robert Simonds Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "March 10, 2006 ( 2006-03-10 )",
-    "Running time": "99 minutes",
+    "Release date": "2006-03-10",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million ",
@@ -11291,8 +11078,8 @@
       "Contrafilm "
     ],
     "Distributed by": "Buena Vista Pictures ",
-    "Release date": "April 14, 2006 ( 2006-04-14 )",
-    "Running time": "82 minutes ",
+    "Release date": "2006-04-14",
+    "Running time": 82,
     "Countries": [
       "United States ",
       "Canada "
@@ -11336,11 +11123,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "May 26, 2006 ( 2006-05-26 ) ( Lowe's Motor Speedway )",
-      "June 9, 2006 ( 2006-06-09 ) (United States)"
-    ],
-    "Running time": "117 minutes ",
+    "Release date": "2006-05-26",
+    "Running time": 117,
     "Country": "United States",
     "Language": "English",
     "Budget": "$120 million ",
@@ -11384,11 +11168,8 @@
       "Jerry Bruckheimer Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "June 24, 2006 ( 2006-06-24 ) ( Disneyland Resort )",
-      "July 7, 2006 ( 2006-07-07 ) (United States)"
-    ],
-    "Running time": "150 minutes ",
+    "Release date": "2006-06-24",
+    "Running time": 150,
     "Country": "United States",
     "Language": "English",
     "Budget": "$225 million ",
@@ -11414,8 +11195,8 @@
     "Edited by": "Gerald B. Greenberg",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "August 25, 2006 ( 2006-08-25 )",
-    "Running time": "104 minutes",
+    "Release date": "2006-08-25",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million",
@@ -11461,8 +11242,8 @@
       "Skellington Productions "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "October 29, 1993 ( 1993-10-29 )",
-    "Running time": "76 minutes ",
+    "Release date": "1993-10-29",
+    "Running time": 76,
     "Country": "United States",
     "Language": "English",
     "Budget": "$26 million ",
@@ -11508,8 +11289,8 @@
       "Boxing Cat Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": "November 3, 2006 ( 2006-11-03 )",
-    "Running time": "92 minutes",
+    "Release date": "2006-11-03",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Budget": "$12 million ",
@@ -11554,8 +11335,8 @@
       "Summit Entertainment",
       "(International)"
     ],
-    "Release date": "February 16, 2007 ( 2007-02-16 )",
-    "Running time": "95 minutes ",
+    "Release date": "2007-02-16",
+    "Running time": 95,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$20\u201325 million  ",
@@ -11601,11 +11382,8 @@
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "March 23, 2007 ( 2007-03-23 ) (US)",
-      "March 30, 2007 ( 2007-03-30 ) (UK)"
-    ],
-    "Running time": "94 minutes  ",
+    "Release date": "2007-03-23",
+    "Running time": 94,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -11651,11 +11429,8 @@
       "Jerry Bruckheimer Films"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "May 19, 2007 ( 2007-05-19 ) ( Disneyland Resort )",
-      "May 25, 2007 ( 2007-05-25 ) (United States)"
-    ],
-    "Running time": "167 minutes ",
+    "Release date": "2007-05-19",
+    "Running time": 167,
     "Country": "United States",
     "Language": "English",
     "Budget": "$300 million ",
@@ -11697,11 +11472,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Buena Vista Pictures Distribution",
-    "Release date": [
-      "June 22, 2007 ( 2007-06-22 ) ( Kodak Theatre )",
-      "June 29, 2007 ( 2007-06-29 ) (United States)"
-    ],
-    "Running time": "111 minutes",
+    "Release date": "2007-06-22",
+    "Running time": 111,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -11741,8 +11513,8 @@
       "Classic Media "
     ],
     "Distributed by": "Buena Vista Pictures Distribution ",
-    "Release date": "August 3, 2007 ( 2007-08-03 )",
-    "Running time": "82 minutes ",
+    "Release date": "2007-08-03",
+    "Running time": 82,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -11768,8 +11540,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "August 28, 2007 ( 2007-08-28 )",
-    "Running time": "87 minutes",
+    "Release date": "2007-08-28",
+    "Running time": 87,
     "Language": "English"
   },
   "The Game Plan (film)": {
@@ -11804,11 +11576,8 @@
       "Mayhem Pictures"
     ],
     "Distributed by": "Buena Vista Pictures",
-    "Release date": [
-      "September 23, 2007 ( 2007-09-23 ) ( Hollywood )",
-      "September 28, 2007 ( 2007-09-28 ) (United States)"
-    ],
-    "Running time": "110 minutes",
+    "Release date": "2007-09-23",
+    "Running time": 110,
     "Country": "United States",
     "Language": "English",
     "Budget": "$22 million ",
@@ -11844,11 +11613,8 @@
       "Right Coast Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 20, 2007 ( 2007-10-20 ) ( London )",
-      "November 21, 2007 ( 2007-11-21 ) (United States)"
-    ],
-    "Running time": "107 minutes ",
+    "Release date": "2007-10-20",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English",
     "Budget": "$85 million ",
@@ -11906,8 +11672,8 @@
       "Saturn Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "December 21, 2007 ( 2007-12-21 )",
-    "Running time": "124 minutes",
+    "Release date": "2007-12-21",
+    "Running time": 124,
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million ",
@@ -11939,7 +11705,7 @@
       "Motion Pictures"
     ],
     "Release date": "February 1, 2008",
-    "Running time": "74 minutes",
+    "Running time": 74,
     "Country": "United States",
     "Language": "English",
     "Budget": "$7 million",
@@ -11973,8 +11739,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "March 7, 2008 ( 2008-03-07 )",
-    "Running time": "83 minutes",
+    "Release date": "2008-03-07",
+    "Running time": 83,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million ",
@@ -12012,12 +11778,8 @@
       "Walden Media"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "May 7, 2008 ( 2008-05-07 ) ( New York City )",
-      "May 16, 2008 ( 2008-05-16 ) (United States)",
-      "June 26, 2008 ( 2008-06-26 ) (United Kingdom)"
-    ],
-    "Running time": "150 minutes",
+    "Release date": "2008-05-07",
+    "Running time": 150,
     "Countries": [
       "United States",
       "United Kingdom"
@@ -12059,11 +11821,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "June 23, 2008 ( 2008-06-23 ) ( Los Angeles )",
-      "June 27, 2008 ( 2008-06-27 ) (United States)"
-    ],
-    "Running time": "97 minutes ",
+    "Release date": "2008-06-23",
+    "Running time": 97,
     "Country": "United States",
     "Budget": "$180 million ",
     "Box office": "$521.3 million "
@@ -12103,8 +11862,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "October 3, 2008 ( 2008-10-03 ) (United States)",
-    "Running time": "91 minutes",
+    "Release date": "2008-10-03",
+    "Running time": 91,
     "Country": "United States",
     "Language": "English",
     "Budget": "$20 million ",
@@ -12133,8 +11892,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "October 17, 2008 ( 2008-10-17 )",
-    "Running time": "100 minutes",
+    "Release date": "2008-10-17",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Box office": "$275,776 "
@@ -12170,15 +11929,8 @@
       "Borden & Rosenbush Entertainment"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 17, 2008 ( 2008-10-17 ) (London)",
-      "October 24, 2008 ( 2008-10-24 ) (United States)"
-    ],
-    "Running time": [
-      "111 minutes (theatrical)",
-      "",
-      "120 minutes (extended/Disney+)"
-    ],
+    "Release date": "2008-10-17",
+    "Running time": 111,
     "Country": "United States",
     "Language": "English",
     "Budget": "$11 million ",
@@ -12210,8 +11962,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "November 21, 2008 ( 2008-11-21 )",
-    "Running time": "96 minutes",
+    "Release date": "2008-11-21",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -12256,8 +12008,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "December 25, 2008 ( 2008-12-25 )",
-    "Running time": "99 minutes",
+    "Release date": "2008-12-25",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$80 million ",
@@ -12288,8 +12040,8 @@
       "Centro Digital Pictures Limited"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "June 29, 2007 ( 2007-06-29 )",
-    "Running time": "85 minutes",
+    "Release date": "2007-06-29",
+    "Running time": 85,
     "Country": "China",
     "Language": "Chinese"
   },
@@ -12324,14 +12076,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "February 27, 2009 ( 2009-02-27 )",
-    "Running time": [
-      "76 minutes",
-      "",
-      "85 minutes",
-      "(Extended edition)",
-      ""
-    ],
+    "Release date": "2009-02-27",
+    "Running time": 76,
     "Country": "United States",
     "Language": "English",
     "Box office": "$23.1 million "
@@ -12371,11 +12117,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "March 11, 2009 ( 2009-03-11 ) (Egypt)",
-      "March 13, 2009 ( 2009-03-13 ) (United States)"
-    ],
-    "Running time": "98 minutes",
+    "Release date": "2009-03-11",
+    "Running time": 98,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million ",
@@ -12418,8 +12161,8 @@
       "Millar Gough Ink"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "April 10, 2009 ( 2009-04-10 )",
-    "Running time": "97 minutes ",
+    "Release date": "2009-04-10",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -12468,17 +12211,8 @@
       "Universum Film (Germany)",
       "Walt Disney Studios Motion Pictures (United States)"
     ],
-    "Release date": [
-      "10 October 2007 ( 2007-10-10 ) (France)",
-      "16 November 2007 ( 2007-11-16 ) (United Kingdom)",
-      "12 January 2008 ( 2008-01-12 ) (Germany)",
-      "22 April 2009 ( 2009-04-22 ) (United States)"
-    ],
-    "Running time": [
-      "99 minutes (UK)",
-      "",
-      "90 minutes (U.S.)"
-    ],
+    "Release date": "2007-10-10",
+    "Running time": 99,
     "Countries": [
       "France",
       "United Kingdom",
@@ -12522,8 +12256,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "May 29, 2009 ( 2009-05-29 )",
-    "Running time": "96 minutes ",
+    "Release date": "2009-05-29",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million ",
@@ -12578,8 +12312,8 @@
       "Jerry Bruckheimer Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "July 24, 2009 ( 2009-07-24 )",
-    "Running time": "90 minutes ",
+    "Release date": "2009-07-24",
+    "Running time": 90,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -12615,8 +12349,8 @@
     "Edited by": "Takeshi Seyama",
     "Production company": "Studio Ghibli",
     "Distributed by": "Toho",
-    "Release date": "July 19, 2008 ( 2008-07-19 )",
-    "Running time": "101 minutes ",
+    "Release date": "2008-07-19",
+    "Running time": 101,
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": [
@@ -12638,7 +12372,7 @@
       "Theodore Thomas Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "2008 ( 2008 )",
+    "Release date": "2008-01-01",
     "Country": "United States",
     "Language": "English"
   },
@@ -12662,8 +12396,8 @@
       "(Russia)",
       "Trite (Russia)"
     ],
-    "Release date": "2009 ( 2009 )",
-    "Running time": "101 minutes",
+    "Release date": "2009-01-01",
+    "Running time": 101,
     "Country": "Russia",
     "Language": "Russian",
     "Budget": "$8 million ( \u20bd 350 million) ",
@@ -12700,11 +12434,8 @@
       "ImageMovers Digital"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "November 3, 2009 ( 2009-11-03 ) ( London )",
-      "November 6, 2009 ( 2009-11-06 ) (United States)"
-    ],
-    "Running time": "96 minutes ",
+    "Release date": "2009-11-03",
+    "Running time": 96,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175-200 million  ",
@@ -12746,8 +12477,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "November 25, 2009 ( 2009-11-25 )",
-    "Running time": "88 minutes",
+    "Release date": "2009-11-25",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million",
@@ -12799,11 +12530,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 25, 2009 ( 2009-11-25 ) (Los Angeles premiere)",
-      "December 11, 2009 ( 2009-12-11 ) (United States)"
-    ],
-    "Running time": "97 minutes ",
+    "Release date": "2009-11-25",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$105 million ",
@@ -12849,11 +12577,8 @@
       "Team Todd"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "February 25, 2010 ( 2010-02-25 ) ( Odeon Leicester Square )",
-      "March 5, 2010 ( 2010-03-05 ) (United States)"
-    ],
-    "Running time": "108 minutes",
+    "Release date": "2010-02-25",
+    "Running time": 108,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$150   \u2013$200  million",
@@ -12906,14 +12631,8 @@
       "Census of Marine Life"
     ],
     "Distributed by": "Path\u00e9 Distribution",
-    "Release date": [
-      "October 17, 2009 ( 2009-10-17 ) ( Tokyo International Film Festival )",
-      "January 24, 2010 ( 2010-01-24 ) (France)"
-    ],
-    "Running time": [
-      "104 minutes (Original cut)",
-      "84 minutes (Disney cut)"
-    ],
+    "Release date": "2009-10-17",
+    "Running time": 104,
     "Country": "France",
     "Language": "French",
     "Budget": "$80 million",
@@ -12956,11 +12675,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 9, 2010 ( 2010-05-09 ) (London premiere)",
-      "May 28, 2010 ( 2010-05-28 ) (United States)"
-    ],
-    "Running time": "116 minutes",
+    "Release date": "2010-05-09",
+    "Running time": 116,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million ",
@@ -13004,11 +12720,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 12, 2010 ( 2010-06-12 ) ( Taormina Film Fest )",
-      "June 18, 2010 ( 2010-06-18 ) (United States)"
-    ],
-    "Running time": "103 minutes ",
+    "Release date": "2010-06-12",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million ",
@@ -13054,11 +12767,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "July 8, 2010 ( 2010-07-08 ) (Fantasia Film Festival)",
-      "July 14, 2010 ( 2010-07-14 )"
-    ],
-    "Running time": "109 minutes",
+    "Release date": "2010-07-08",
+    "Running time": 109,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -13104,8 +12814,8 @@
       "Walt Disney Studios Motion Pictures",
       "(North Am\u00e9rica)"
     ],
-    "Release date": "July 29, 2006 ( 2006-07-29 )",
-    "Running time": "115 minutes",
+    "Release date": "2006-07-29",
+    "Running time": 115,
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$22 million ",
@@ -13145,11 +12855,8 @@
       "Kudos Pictures"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "26 October 2008 ( 2008-10-26 ) ( France )",
-      "29 September 2009 ( 2009-09-29 ) ( United Kingdom )"
-    ],
-    "Running time": "74 minutes",
+    "Release date": "2008-10-10",
+    "Running time": 74,
     "Countries": [
       "United Kingdom",
       "United States"
@@ -13187,11 +12894,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "September 30, 2010 ( 2010-09-30 ) ( Hollywood )",
-      "October 8, 2010 ( 2010-10-08 ) (United States)"
-    ],
-    "Running time": "123 minutes",
+    "Release date": "2010-09-30",
+    "Running time": 123,
     "Country": "United States",
     "Language": "English",
     "Budget": "$35 million  ",
@@ -13224,8 +12928,8 @@
       "Walt Disney Pictures India"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "8 October 2010 ( 2010-10-08 )",
-    "Running time": "108 minutes",
+    "Release date": "2010-10-10",
+    "Running time": 108,
     "Country": "India",
     "Language": "Hindi"
   },
@@ -13257,11 +12961,8 @@
       ""
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures ",
-    "Release date": [
-      "November 14, 2010 ( 2010-11-14 ) ( El Capitan Theatre )",
-      "November 24, 2010 ( 2010-11-24 ) (United States)"
-    ],
-    "Running time": "100 minutes ",
+    "Release date": "2010-11-14",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$260 million  ",
@@ -13299,11 +13000,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "April 24, 2009 ( 2009-04-24 ) (San Francisco International Film Festival)",
-      "May 22, 2009 ( 2009-05-22 ) (United States)"
-    ],
-    "Running time": "101 minutes",
+    "Release date": "2009-04-24",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Box office": "$55,513 "
@@ -13346,11 +13044,8 @@
       "Sean Bailey Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "November 30, 2010 ( 2010-11-30 ) (Tokyo)",
-      "December 17, 2010 ( 2010-12-17 ) (United States) "
-    ],
-    "Running time": "125 minutes ",
+    "Release date": "2010-11-30",
+    "Running time": 125,
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million  ",
@@ -13388,7 +13083,7 @@
       "Walt Disney Pictures India"
     ],
     "Distributed by": "UTV Motion Pictures ",
-    "Release date": "14 January 2011 ( 2011-01-14 ) (India)",
+    "Release date": "2011-01-01",
     "Country": "India",
     "Language": "Telugu",
     "Budget": "\u20b9 27 crore (US$3.8 million)",
@@ -13410,8 +13105,8 @@
     "Cinematography": "Thomas Kienast",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "17 February 2011 ( 2011-02-17 )",
-    "Running time": "90 minutes",
+    "Release date": "2011-02-02",
+    "Running time": 90,
     "Country": "Germany",
     "Language": "German"
   },
@@ -13453,8 +13148,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "March 11, 2011 ( 2011-03-11 )",
-    "Running time": "88 minutes ",
+    "Release date": "2011-03-11",
+    "Running time": 88,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million  ",
@@ -13487,8 +13182,8 @@
       "Walt Disney Pictures India"
     ],
     "Distributed by": "UTV Motion Pictures",
-    "Release date": "22 April 2011 ( 2011-04-22 )",
-    "Running time": "109 minutes",
+    "Release date": "2011-04-04",
+    "Running time": 109,
     "Country": "India",
     "Language": "Hindi"
   },
@@ -13516,12 +13211,8 @@
       "Silverback Films "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "April 22, 2011 ( 2011-04-22 ) (United States)",
-      "February 1, 2012 ( 2012-02-01 ) (France)",
-      "April 27, 2012 ( 2012-04-27 ) (United Kingdom)"
-    ],
-    "Running time": "89 minutes",
+    "Release date": "2011-04-22",
+    "Running time": 89,
     "Countries": [
       "United States",
       "France",
@@ -13564,8 +13255,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "April 29, 2011 ( 2011-04-29 )",
-    "Running time": "104 minutes",
+    "Release date": "2011-04-29",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$8 million ",
@@ -13606,11 +13297,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 7, 2011 ( 2011-05-07 ) ( Disneyland Resort )",
-      "May 20, 2011 ( 2011-05-20 ) (United States)"
-    ],
-    "Running time": "137 minutes ",
+    "Release date": "2011-05-07",
+    "Running time": 137,
     "Country": "United States",
     "Language": "English",
     "Budget": [
@@ -13652,11 +13340,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 18, 2011 ( 2011-06-18 ) (Hollywood)",
-      "June 24, 2011 ( 2011-06-24 ) (United States)"
-    ],
-    "Running time": "106 minutes",
+    "Release date": "2011-06-18",
+    "Running time": 106,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million ",
@@ -13713,11 +13398,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "April 6, 2011 ( 2011-04-06 ) (Belgium)",
-      "July 15, 2011 ( 2011-07-15 ) (United States)"
-    ],
-    "Running time": "69 minutes ",
+    "Release date": "2011-04-06",
+    "Running time": 69,
     "Country": "United States",
     "Language": "English",
     "Budget": "$30 million ",
@@ -13755,11 +13437,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 4, 2011 ( 2011-11-04 ) (Savannah Film Festival)",
-      "November 23, 2011 ( 2011-11-23 ) (United States)"
-    ],
-    "Running time": "103 minutes ",
+    "Release date": "2011-11-04",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$45 million  ",
@@ -13800,8 +13479,8 @@
     ],
     "Production company": "Studio Ghibli",
     "Distributed by": "Toho",
-    "Release date": "17 July 2010 ( 2010-07-17 )",
-    "Running time": "95 minutes",
+    "Release date": "2010-07-07",
+    "Running time": 95,
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": "$23 million",
@@ -13844,11 +13523,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 22, 2012 ( 2012-02-22 ) ( Los Angeles )",
-      "March 9, 2012 ( 2012-03-09 ) (United States)"
-    ],
-    "Running time": "132 minutes ",
+    "Release date": "2012-02-22",
+    "Running time": 132,
     "Country": "United States",
     "Language": "English",
     "Budget": [
@@ -13886,12 +13562,8 @@
       "Great Ape Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "April 20, 2012 ( 2012-04-20 ) (United States)",
-      "February 20, 2013 ( 2013-02-20 ) (France)",
-      "May 3, 2013 ( 2013-05-03 ) (United Kingdom)"
-    ],
-    "Running time": "77 minutes",
+    "Release date": "2012-04-20",
+    "Running time": 77,
     "Countries": [
       "United States",
       "France",
@@ -13928,8 +13600,8 @@
       "UTV Motion Pictures"
     ],
     "Distributed by": "UTV Motion Pictures",
-    "Release date": "25 May 2012 ( 2012-05-25 )",
-    "Running time": "96 minutes",
+    "Release date": "2012-05-05",
+    "Running time": 96,
     "Country": "India",
     "Language": "Hindi"
   },
@@ -13971,11 +13643,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 10, 2012 ( 2012-06-10 ) ( SIFF )",
-      "June 22, 2012 ( 2012-06-22 ) (United States)"
-    ],
-    "Running time": "93 minutes ",
+    "Release date": "2012-06-10",
+    "Running time": 93,
     "Country": "United States",
     "Language": "English",
     "Budget": "$185 million ",
@@ -14013,8 +13682,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "August 15, 2012 ( 2012-08-15 )",
-    "Running time": "104 minutes ",
+    "Release date": "2012-08-15",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$25 million  ",
@@ -14057,11 +13726,8 @@
       "Tim Burton Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "September 20, 2012 ( 2012-09-20 ) (Fantastic Fest)",
-      "October 5, 2012 ( 2012-10-05 ) (United States)"
-    ],
-    "Running time": "87 minutes ",
+    "Release date": "2012-09-20",
+    "Running time": 87,
     "Country": "United States",
     "Language": "English",
     "Budget": "$39 million ",
@@ -14096,11 +13762,8 @@
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 29, 2012 ( 2012-10-29 ) ( El Capitan Theatre  )",
-      "November 2, 2012 ( 2012-11-02 ) (United States)"
-    ],
-    "Running time": "101 minutes  ",
+    "Release date": "2012-10-29",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Budget": "$165 million ",
@@ -14142,11 +13805,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 14, 2013 ( 2013-02-14 ) ( El Capitan Theatre )",
-      "March 8, 2013 ( 2013-03-08 ) (United States)"
-    ],
-    "Running time": "130 minutes ",
+    "Release date": "2013-02-14",
+    "Running time": 130,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200\u2013215 million  ",
@@ -14181,11 +13841,8 @@
       "Walt Disney Studios Home Entertainment",
       "(United States)"
     ],
-    "Release date": [
-      "16 March 2011 ( 2011-03-16 ) (France)",
-      "16 April 2013 ( 2013-04-16 ) (United States)"
-    ],
-    "Running time": "77 minutes",
+    "Release date": "2011-03-03",
+    "Running time": 77,
     "Countries": [
       "France",
       "United States"
@@ -14231,11 +13888,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 5, 2013 ( 2013-06-05 ) ( BFI Southbank )",
-      "June 21, 2013 ( 2013-06-21 ) (United States)"
-    ],
-    "Running time": "104 minutes ",
+    "Release date": "2013-06-05",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million   ",
@@ -14288,11 +13942,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 22, 2013 ( 2013-06-22 ) ( Hyperion Theatre )",
-      "July 3, 2013 ( 2013-07-03 ) (United States)"
-    ],
-    "Running time": "149 minutes ",
+    "Release date": "2013-06-22",
+    "Running time": 149,
     "Country": "United States",
     "Language": "English",
     "Budget": "$225\u2013250 million ",
@@ -14333,11 +13984,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "August 2, 2013 ( 2013-08-02 ) ( EAA AirVenture Oshkosh ) ",
-      "August 9, 2013 ( 2013-08-09 ) "
-    ],
-    "Running time": "92 minutes ",
+    "Release date": "2013-08-02",
+    "Running time": 92,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million ",
@@ -14384,11 +14032,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 19, 2013 ( 2013-11-19 ) ( El Capitan Theatre )",
-      "November 22, 2013 ( 2013-11-22 ) (United States) "
-    ],
-    "Running time": "102 minutes ",
+    "Release date": "2013-11-19",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million  ",
@@ -14429,13 +14074,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "October 20, 2013 ( 2013-10-20 ) ( BFI London Film Festival )",
-      "November 29, 2013 ( 2013-11-29 ) (United Kingdom)",
-      "December 13, 2013 ( 2013-12-13 ) (United States)",
-      "January 9, 2014 ( 2014-01-09 ) (Australia)"
-    ],
-    "Running time": "125 minutes ",
+    "Release date": "2013-10-20",
+    "Running time": 125,
     "Countries": [
       "Australia",
       "United Kingdom",
@@ -14471,11 +14111,8 @@
       "Mandeville Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "March 11, 2014 ( 2014-03-11 ) ( El Capitan Theatre )",
-      "March 21, 2014 ( 2014-03-21 ) (United States)"
-    ],
-    "Running time": "107 minutes",
+    "Release date": "2014-03-11",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English",
     "Budget": "$51 million  ",
@@ -14499,8 +14136,8 @@
       "Silverback Films "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "April 18, 2014 ( 2014-04-18 ) (United States)",
-    "Running time": "77 minutes",
+    "Release date": "2014-04-18",
+    "Running time": 77,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5 million ",
@@ -14535,11 +14172,8 @@
       "Mayhem Pictures"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "May 6, 2014 ( 2014-05-06 ) ( El Capitan Theatre )",
-      "May 16, 2014 ( 2014-05-16 ) (United States)"
-    ],
-    "Running time": "124 minutes ",
+    "Release date": "2014-05-06",
+    "Running time": 124,
     "Country": "United States",
     "Languages": [
       "English Hindi",
@@ -14579,11 +14213,8 @@
       "Roth Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "May 28, 2014 ( 2014-05-28 ) ( El Capitan Theatre )",
-      "May 30, 2014 ( 2014-05-30 ) (United States)"
-    ],
-    "Running time": "97 minutes ",
+    "Release date": "2014-05-28",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$180\u2013263 million ",
@@ -14620,11 +14251,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "July 15, 2014 ( 2014-07-15 ) ( El Capitan Theatre )",
-      "July 18, 2014 ( 2014-07-18 ) (United States)"
-    ],
-    "Running time": "84 minutes ",
+    "Release date": "2014-07-15",
+    "Running time": 84,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million  ",
@@ -14665,8 +14293,8 @@
       ""
     ],
     "Distributed by": "UTV Motion Pictures",
-    "Release date": "19 September 2014 ( 2014-09-19 )",
-    "Running time": "127 minutes",
+    "Release date": "2014-09-09",
+    "Running time": 127,
     "Country": "India",
     "Language": "Hindi",
     "Budget": "\u20b9 230 million (US$3.2 million) ",
@@ -14707,11 +14335,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "October 6, 2014 ( 2014-10-06 ) ( El Capitan Theatre )",
-      "October 10, 2014 ( 2014-10-10 ) (United States)"
-    ],
-    "Running time": "81 minutes ",
+    "Release date": "2014-10-06",
+    "Running time": 81,
     "Country": "United States",
     "Language": "English",
     "Budget": "$28 million ",
@@ -14757,12 +14382,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "October 23, 2014 ( 2014-10-23 ) ( Tokyo International Film Festival )",
-      "November 7, 2014 ( 2014-11-07 ) (United States)",
-      "January 30, 2015 ( 2015-01-30 ) (United Kingdom)"
-    ],
-    "Running time": "102 minutes  ",
+    "Release date": "2014-10-23",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Budget": "$165 million  ",
@@ -14808,11 +14429,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "December 8, 2014 ( 2014-12-08 ) ( Ziegfeld Theatre )",
-      "December 25, 2014 ( 2014-12-25 ) (United States)"
-    ],
-    "Running time": "124 minutes ",
+    "Release date": "2014-12-08",
+    "Running time": 124,
     "Country": "United States",
     "Language": "English",
     "Budget": "$50 million ",
@@ -14851,11 +14469,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 9, 2015 ( 2015-02-09 ) ( Hollywood )",
-      "February 20, 2015 ( 2015-02-20 ) (United States)"
-    ],
-    "Running time": "129 minutes",
+    "Release date": "2015-02-09",
+    "Running time": 129,
     "Country": "United States",
     "Language": "English",
     "Budget": "$17 million ",
@@ -14897,12 +14512,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 13, 2015 ( 2015-02-13 ) ( Berlin )",
-      "March 13, 2015 ( 2015-03-13 ) (United States)",
-      "March 27, 2015 ( 2015-03-27 ) (United Kingdom)"
-    ],
-    "Running time": "106 minutes ",
+    "Release date": "2015-02-13",
+    "Running time": 106,
     "Countries": [
       "United States ",
       "United Kingdom "
@@ -14934,8 +14545,8 @@
       "Silverback Films "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "April 17, 2015 ( 2015-04-17 ) (United States)",
-    "Running time": "82 minutes",
+    "Release date": "2015-04-17",
+    "Running time": 82,
     "Country": "United States",
     "Language": "English",
     "Budget": "$5\u201310 million ",
@@ -14982,11 +14593,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 9, 2015 ( 2015-05-09 ) ( Disneyland )",
-      "May 22, 2015 ( 2015-05-22 ) (United States)"
-    ],
-    "Running time": "130 minutes ",
+    "Release date": "2015-05-09",
+    "Running time": 130,
     "Country": "United States",
     "Language": "English",
     "Budget": "$180\u2013190 million ",
@@ -15031,11 +14639,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 18, 2015 ( 2015-05-18 ) ( Cannes )",
-      "June 19, 2015 ( 2015-06-19 ) (United States)"
-    ],
-    "Running time": "95 minutes ",
+    "Release date": "2015-05-18",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million ",
@@ -15068,8 +14673,8 @@
     "Edited by": "Manan Sagar",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "UTV Motion Pictures",
-    "Release date": "19 June 2015 ( 2015-06-19 )",
-    "Running time": "154 minutes",
+    "Release date": "2015-06-06",
+    "Running time": 154,
     "Country": "India",
     "Language": "Hindi",
     "Budget": "\u20b9650 million ",
@@ -15115,11 +14720,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 10, 2015 ( 2015-11-10 ) ( Paris )",
-      "November 25, 2015 ( 2015-11-25 ) (United States)"
-    ],
-    "Running time": "97 minutes ",
+    "Release date": "2015-11-10",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175\u2013200 million  ",
@@ -15165,11 +14767,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "January 25, 2016 ( 2016-01-25 ) ( TCL Chinese Theatre )",
-      "January 29, 2016 ( 2016-01-29 ) (United States)"
-    ],
-    "Running time": "117 minutes ",
+    "Release date": "2016-01-25",
+    "Running time": 117,
     "Country": "United States",
     "Language": "English",
     "Budget": "$70\u201380 million  ",
@@ -15227,11 +14826,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 13, 2016 ( 2016-02-13 ) (Belgium)",
-      "March 4, 2016 ( 2016-03-04 ) (United States)"
-    ],
-    "Running time": "108 minutes  ",
+    "Release date": "2016-02-13",
+    "Running time": 108,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -15273,11 +14869,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "April 4, 2016 ( 2016-04-04 ) ( El Capitan Theatre )",
-      "April 15, 2016 ( 2016-04-15 ) (United States)"
-    ],
-    "Running time": "106 minutes",
+    "Release date": "2016-04-04",
+    "Running time": 106,
     "Country": "United States ",
     "Language": "English",
     "Budget": "$175\u2013177 million  ",
@@ -15308,12 +14901,8 @@
       "Lapis Film"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "April 23, 2016 ( 2016-04-23 ) (Amsterdam)",
-      "May 6, 2016 ( 2016-05-06 ) (Spain)",
-      "May 12, 2016 ( 2016-05-12 ) (Italy)"
-    ],
-    "Running time": "98 minutes ",
+    "Release date": "2016-04-23",
+    "Running time": 98,
     "Countries": [
       "Spain",
       "Italy"
@@ -15362,11 +14951,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 10, 2016 ( 2016-05-10 ) ( London )",
-      "May 27, 2016 ( 2016-05-27 ) (United States)"
-    ],
-    "Running time": "114 minutes ",
+    "Release date": "2016-05-10",
+    "Running time": 114,
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million ",
@@ -15406,11 +14992,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 8, 2016 ( 2016-06-08 ) ( El Capitan Theatre )",
-      "June 17, 2016 ( 2016-06-17 ) (United States)"
-    ],
-    "Running time": "97 minutes ",
+    "Release date": "2016-06-08",
+    "Running time": 97,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175\u2013200 million ",
@@ -15461,11 +15044,8 @@
       "EMEA",
       ")"
     ],
-    "Release date": [
-      "May 14, 2016 ( 2016-05-14 ) ( Cannes )",
-      "July 1, 2016 ( 2016-07-01 ) (United States)"
-    ],
-    "Running time": "117 minutes ",
+    "Release date": "2016-05-14",
+    "Running time": 117,
     "Country": "United States  ",
     "Language": "English",
     "Budget": "$140 million ",
@@ -15501,11 +15081,8 @@
       "Whitaker Entertainment"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "August 8, 2016 ( 2016-08-08 ) ( El Capitan Theatre )",
-      "August 12, 2016 ( 2016-08-12 ) (United States)"
-    ],
-    "Running time": "103 minutes ",
+    "Release date": "2016-08-08",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$65 million ",
@@ -15546,11 +15123,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "September 10, 2016 ( 2016-09-10 ) ( TIFF )",
-      "September 23, 2016 ( 2016-09-23 ) (United States)"
-    ],
-    "Running time": "124 minutes ",
+    "Release date": "2016-09-10",
+    "Running time": 124,
     "Country": "United States",
     "Languages": [
       "English",
@@ -15604,11 +15178,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 14, 2016 ( 2016-11-14 ) ( AFI Fest )",
-      "November 23, 2016 ( 2016-11-23 ) (United States)"
-    ],
-    "Running time": "107 minutes ",
+    "Release date": "2016-11-14",
+    "Running time": 107,
     "Countries": "United States",
     "Language": "English",
     "Budget": "$150\u2013175 million  ",
@@ -15648,11 +15219,8 @@
       "Walt Disney Pictures India"
     ],
     "Distributed by": "UTV Motion Pictures",
-    "Release date": [
-      "21 December 2016 ( 2016-12-21 ) (United States)",
-      "23 December 2016 ( 2016-12-23 ) (India)"
-    ],
-    "Running time": "161 minutes ",
+    "Release date": "2016-12-12",
+    "Running time": 161,
     "Country": "India",
     "Language": "Hindi",
     "Budget": "\u20b9 70 crore ",
@@ -15706,8 +15274,8 @@
       "Bonne Pioche"
     ],
     "Distributed by": "Buena Vista International France",
-    "Release date": "26 January 2005 ( 2005-01-26 )",
-    "Running time": "80 minutes ",
+    "Release date": "2005-01-01",
+    "Running time": 80,
     "Country": "France",
     "Language": "French",
     "Budget": "$8 million ",
@@ -15753,11 +15321,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 23, 2017 ( 2017-02-23 ) ( Spencer House )",
-      "March 17, 2017 ( 2017-03-17 ) (United States)"
-    ],
-    "Running time": "129 minutes ",
+    "Release date": "2017-02-23",
+    "Running time": 129,
     "Country": "United States",
     "Language": "English",
     "Budget": "$160\u2013255 million   ",
@@ -15802,12 +15367,8 @@
       "(China)",
       ""
     ],
-    "Release date": [
-      "August 12, 2016 ( 2016-08-12 ) (China)",
-      "April 21, 2017 ( 2017-04-21 ) (United States)",
-      "August 23, 2017 ( 2017-08-23 ) (France)"
-    ],
-    "Running time": "76 minutes ",
+    "Release date": "2016-08-12",
+    "Running time": 76,
     "Countries": [
       "United States",
       "China",
@@ -15860,11 +15421,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 11, 2017 ( 2017-05-11 ) ( Shanghai Disney Resort )",
-      "May 26, 2017 ( 2017-05-26 ) (United States)"
-    ],
-    "Running time": "129 minutes ",
+    "Release date": "2017-05-11",
+    "Running time": 129,
     "Country": "United States",
     "Language": "English",
     "Budget": "$230\u2013320 million ",
@@ -15911,11 +15469,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 23, 2017 ( 2017-05-23 ) ( Kannapolis )",
-      "June 16, 2017 ( 2017-06-16 ) (United States)"
-    ],
-    "Running time": "102 minutes",
+    "Release date": "2017-05-23",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million ",
@@ -15933,7 +15488,7 @@
       "Brian Leith Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "June 30, 2017 ( 2017-06-30 ) (United States)",
+    "Release date": "2017-06-30",
     "Country": "United States",
     "Language": "English"
   },
@@ -15975,8 +15530,8 @@
       "Picture Shuru Entertainment"
     ],
     "Distributed by": "UTV Motion Pictures",
-    "Release date": "14 July 2017 ( 2017-07-14 )",
-    "Running time": "162 minutes ",
+    "Release date": "2017-07-07",
+    "Running time": 162,
     "Country": "India",
     "Language": "Hindi",
     "Budget": [
@@ -16024,11 +15579,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "October 20, 2017 ( 2017-10-20 ) ( Morelia ) ",
-      "November 22, 2017 ( 2017-11-22 ) (United States)"
-    ],
-    "Running time": "105 minutes ",
+    "Release date": "2017-10-20",
+    "Running time": 105,
     "Country": "United States",
     "Language": "English ",
     "Budget": "$175\u2013225 million  ",
@@ -16073,11 +15625,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 26, 2018 ( 2018-02-26 ) ( El Capitan Theatre )",
-      "March 9, 2018 ( 2018-03-09 ) (United States)"
-    ],
-    "Running time": "109 minutes ",
+    "Release date": "2018-02-26",
+    "Running time": 109,
     "Country": "United States",
     "Language": "English",
     "Budget": "$100\u2013130 million   ",
@@ -16116,11 +15665,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 5, 2018 ( 2018-06-05 ) ( Los Angeles )",
-      "June 15, 2018 ( 2018-06-15 ) (United States)"
-    ],
-    "Running time": "118 minutes ",
+    "Release date": "2018-06-05",
+    "Running time": 118,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million  ",
@@ -16167,11 +15713,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "July 30, 2018 ( 2018-07-30 ) ( Burbank )",
-      "August 3, 2018 ( 2018-08-03 ) (United States)"
-    ],
-    "Running time": "104 minutes ",
+    "Release date": "2018-07-30",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$70-75 million  ",
@@ -16212,11 +15755,8 @@
       "The Mark Gordon Company"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 29, 2018 ( 2018-10-29 ) ( Dolby Theatre )",
-      "November 2, 2018 ( 2018-11-02 ) (United States)"
-    ],
-    "Running time": "99 minutes ",
+    "Release date": "2018-10-29",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$120\u2013133 million ",
@@ -16263,11 +15803,8 @@
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "November 5, 2018 ( 2018-11-05 ) ( El Capitan Theatre )",
-      "November 21, 2018 ( 2018-11-21 ) (United States)"
-    ],
-    "Running time": "112 minutes ",
+    "Release date": "2018-11-05",
+    "Running time": 112,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175 million ",
@@ -16317,11 +15854,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 29, 2018 ( 2018-11-29 ) ( Dolby Theatre )",
-      "December 19, 2018 ( 2018-12-19 ) (United States)"
-    ],
-    "Running time": "131 minutes ",
+    "Release date": "2018-11-29",
+    "Running time": 131,
     "Country": "United States",
     "Language": "English",
     "Budget": "$130 million ",
@@ -16362,11 +15896,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "March 11, 2019 ( 2019-03-11 ) ( Los Angeles )",
-      "March 29, 2019 ( 2019-03-29 ) (United States)"
-    ],
-    "Running time": "112 minutes ",
+    "Release date": "2019-03-11",
+    "Running time": 112,
     "Country": "United States",
     "Language": "English",
     "Budget": "$170 million   ",
@@ -16394,8 +15925,8 @@
       "Silverback Films "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "April 17, 2019 ( 2019-04-17 ) (United States)",
-    "Running time": "76 minutes",
+    "Release date": "2019-04-17",
+    "Running time": 76,
     "Country": "United States",
     "Language": "English",
     "Box office": "$7.7\n million "
@@ -16441,11 +15972,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "May 8, 2019 ( 2019-05-08 ) ( Grand Rex )",
-      "May 24, 2019 ( 2019-05-24 ) (United States)"
-    ],
-    "Running time": "128 minutes ",
+    "Release date": "2019-05-08",
+    "Running time": 128,
     "Country": "United States",
     "Language": "English",
     "Budget": "$183 million ",
@@ -16502,11 +16030,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "June 11, 2019 ( 2019-06-11 ) ( El Capitan Theatre )",
-      "June 21, 2019 ( 2019-06-21 ) (United States)"
-    ],
-    "Running time": "100 minutes ",
+    "Release date": "2019-06-11",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million ",
@@ -16548,11 +16073,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "July 9, 2019 ( 2019-07-09 ) ( Hollywood )",
-      "July 19, 2019 ( 2019-07-19 ) (United States)"
-    ],
-    "Running time": "118 minutes ",
+    "Release date": "2019-07-09",
+    "Running time": 118,
     "Countries": "United States",
     "Language": "English",
     "Budget": "$250\u2013260 million  ",
@@ -16601,8 +16123,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "October 18, 2019 ( 2019-10-18 ) ",
-    "Running time": "119 minutes ",
+    "Release date": "2019-10-18",
+    "Running time": 119,
     "Country": "United States",
     "Language": "English",
     "Budget": "$185 million ",
@@ -16645,8 +16167,8 @@
       "Taylor Made "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "November 12, 2019 ( 2019-11-12 ) (United States)",
-    "Running time": "104 minutes",
+    "Release date": "2019-11-12",
+    "Running time": 104,
     "Country": "United States",
     "Language": "English",
     "Budget": "$60 million "
@@ -16673,8 +16195,8 @@
     "Edited by": "Hughes Winborne",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "November 12, 2019 ( 2019-11-12 ) (United States)",
-    "Running time": "100 minutes",
+    "Release date": "2019-11-12",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English"
   },
@@ -16718,11 +16240,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "November 7, 2019 ( 2019-11-07 ) ( Dolby Theatre )",
-      "November 22, 2019 ( 2019-11-22 ) (United States)"
-    ],
-    "Running time": "103 minutes ",
+    "Release date": "2019-11-07",
+    "Running time": 103,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million ",
@@ -16740,8 +16259,8 @@
     "Edited by": "Martin Pensa",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "December 20, 2019 ( 2019-12-20 ) (United States)",
-    "Running time": "114 minutes",
+    "Release date": "2019-12-20",
+    "Running time": 114,
     "Country": "United States",
     "Language": "English",
     "Budget": "$40 million "
@@ -16780,11 +16299,8 @@
       "Whitaker Entertainment "
     ],
     "Distributed by": "Disney+",
-    "Release date": [
-      "January 25, 2020 ( 2020-01-25 ) ( Sundance )",
-      "February 7, 2020 ( 2020-02-07 ) ( Disney+ )"
-    ],
-    "Running time": "99 minutes ",
+    "Release date": "2020-01-25",
+    "Running time": 99,
     "Country": "United States",
     "Language": "English",
     "Budget": "$42 million "
@@ -16822,11 +16338,8 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": [
-      "February 21, 2020 ( 2020-02-21 ) ( Berlinale )",
-      "March 6, 2020 ( 2020-03-06 ) (United States)"
-    ],
-    "Running time": "102 minutes ",
+    "Release date": "2020-02-21",
+    "Running time": 102,
     "Country": "United States",
     "Language": "English",
     "Budget": "$175\u2013200 million ",
@@ -16868,8 +16381,8 @@
       "Hahnscape Entertainment"
     ],
     "Distributed by": "Disney+",
-    "Release date": "March 13, 2020 ( 2020-03-13 ) (United States) ",
-    "Running time": "107 minutes",
+    "Release date": "2020-03-13",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English"
   },
@@ -16895,11 +16408,8 @@
       "Walt Disney Studios Motion Pictures",
       "Disney+"
     ],
-    "Release date": [
-      "March 28, 2018 ( 2018-03-28 ) (France)",
-      "April 3, 2020 ( 2020-04-03 ) ( Disney+ ) "
-    ],
-    "Running time": "78 minutes",
+    "Release date": "2018-03-28",
+    "Running time": 78,
     "Country": "United States",
     "Language": "English"
   },
@@ -16925,8 +16435,8 @@
     "Edited by": "Nigel Buck",
     "Production company": "Disneynature",
     "Distributed by": "Disney+",
-    "Release date": "April 3, 2020 ( 2020-04-03 )",
-    "Running time": "89 minutes",
+    "Release date": "2020-04-03",
+    "Running time": 89,
     "Country": "United States",
     "Language": "English"
   },
@@ -16965,8 +16475,8 @@
       "Marzano Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "June 12, 2020 ( 2020-06-12 )",
-    "Running time": "95 minutes ",
+    "Release date": "2020-06-12",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English",
     "Budget": "$125 million "
@@ -17009,8 +16519,8 @@
       "RadicalMedia "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures ",
-    "Release date": "July 3, 2020 ( 2020-07-03 )",
-    "Running time": "160 minutes ",
+    "Release date": "2020-07-03",
+    "Running time": 160,
     "Country": "United States",
     "Language": "English",
     "Budget": "$12.5 million (stage production) "
@@ -17104,8 +16614,8 @@
       "Walt Disney Pictures  "
     ],
     "Distributed by": "Disney+ ",
-    "Release date": "July 31, 2020 ( 2020-07-31 )",
-    "Running time": "85 minutes ",
+    "Release date": "2020-07-31",
+    "Running time": 85,
     "Country": "United States",
     "Language": "English"
   },
@@ -17148,8 +16658,8 @@
       "Walt Disney Studios Motion Pictures",
       ""
     ],
-    "Release date": "August 14, 2020 ( 2020-08-14 )",
-    "Running time": "100 minutes",
+    "Release date": "2020-08-14",
+    "Running time": 100,
     "Country": "United States",
     "Language": "English",
     "Budget": "$24 million "
@@ -17186,8 +16696,8 @@
       "Jolie Pas Productions "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "August 21, 2020 ( 2020-08-21 ) (United States)",
-    "Running time": "95 minutes",
+    "Release date": "2020-08-21",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English"
   },
@@ -17230,11 +16740,8 @@
       "Good Fear Productions"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "March 9, 2020 ( 2020-03-09 ) ( Hollywood )",
-      "September 4, 2020 ( 2020-09-04 ) (United States)"
-    ],
-    "Running time": "115 minutes ",
+    "Release date": "2020-03-09",
+    "Running time": 115,
     "Country": "United States",
     "Language": "English",
     "Budget": "$200 million ",
@@ -17262,8 +16769,8 @@
       "Secret Machine Entertainment "
     ],
     "Distributed by": "Disney+",
-    "Release date": "December 4, 2020 ( 2020-12-04 ) (United States)",
-    "Running time": "113 minutes",
+    "Release date": "2020-12-04",
+    "Running time": 113,
     "Country": "United States",
     "Language": "English"
   },
@@ -17292,8 +16799,8 @@
       "Select Films"
     ],
     "Distributed by": "Disney+",
-    "Release date": "December 11, 2020 ( 2020-12-11 ) (United States)",
-    "Running time": "119 minutes",
+    "Release date": "2020-12-11",
+    "Running time": 119,
     "Country": "United States",
     "Language": "English"
   },
@@ -17334,11 +16841,8 @@
       "Pixar Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "October 11, 2020 ( 2020-10-11 ) ( BFI )",
-      "December 25, 2020 ( 2020-12-25 ) (United States)"
-    ],
-    "Running time": "101 minutes",
+    "Release date": "2020-10-11",
+    "Running time": 101,
     "Country": "United States",
     "Language": "English",
     "Budget": "$150 million+ ",
@@ -17373,8 +16877,8 @@
       "Netter Productions"
     ],
     "Distributed by": "Disney+",
-    "Release date": "February 19, 2021 ( 2021-02-19 )",
-    "Running time": "95 minutes",
+    "Release date": "2021-02-19",
+    "Running time": 95,
     "Country": "United States",
     "Language": "English"
   },
@@ -17383,7 +16887,7 @@
     "link": "https://en.wikipedia.org/wiki/Raya_and_the_Last_Dragon",
     "Directed by": [
       "Don Hall",
-      "Carlos L\u00f3pez Estrada",
+      "Carlos Lopez Estrada",
       "Paul Briggs (co-director)",
       "John Ripa (co-director)"
     ],
@@ -17399,7 +16903,7 @@
       "Paul Briggs",
       "Don Hall",
       "Adele Lim",
-      "Carlos L\u00f3pez Estrada",
+      "Carlos Lopez Estrada",
       "Kiel Murray",
       "Qui Nguyen",
       "John Ripa",
@@ -17431,11 +16935,8 @@
       "Walt Disney Animation Studios"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": [
-      "March 3, 2021 ( 2021-03-03 ) (Indonesia)",
-      "March 5, 2021 ( 2021-03-05 ) (United States)"
-    ],
-    "Running time": "107 minutes",
+    "Release date": "2021-03-03",
+    "Running time": 107,
     "Country": "United States",
     "Language": "English",
     "Budget": "$100 million+ ",
@@ -17481,7 +16982,7 @@
       "Marc Platt Productions "
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "May 28, 2021 ( 2021-05-28 ) (United States)",
+    "Release date": "2021-05-28",
     "Country": "United States",
     "Language": "English"
   },
@@ -17512,7 +17013,7 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "June 18, 2021 ( 2021-06-18 ) (United States)",
+    "Release date": "2021-06-18",
     "Country": "United States",
     "Language": "English"
   },
@@ -17547,7 +17048,7 @@
     "Starring": [
       "Dwayne Johnson",
       "Emily Blunt",
-      "\u00c9dgar Ram\u00edrez",
+      "Edgar Ramirez",
       "Jack Whitehall",
       "Jesse Plemons",
       "Paul Giamatti"
@@ -17565,7 +17066,7 @@
       "Flynn Picture Company"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "July 30, 2021 ( 2021-07-30 ) (United States)",
+    "Release date": "2021-07-30",
     "Country": "United States",
     "Language": "English"
   },
@@ -17595,7 +17096,7 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "27 August 2021 ( 2021-08-27 )",
+    "Release date": "2021-08-08",
     "Countries": [
       "United Kingdom",
       "New Zealand",
@@ -17628,7 +17129,7 @@
       "Walt Disney Studios",
       "Motion Pictures"
     ],
-    "Release date": "November 24, 2021 ( 2021-11-24 )",
+    "Release date": "2021-11-24",
     "Country": "United States",
     "Language": "English"
   },
@@ -17656,7 +17157,7 @@
       "Yara Shahidi",
       "Jude Law",
       "Jim Gaffigan",
-      "Alyssa Wapanat\u00e2hk",
+      "Alyssa Wapanathk",
       "Molly Parker",
       "Alan Tudyk"
     ],
@@ -17667,7 +17168,7 @@
       "Roth/Kirschenbaum Films"
     ],
     "Distributed by": "Walt Disney Studios Motion Pictures",
-    "Release date": "2022 ( 2022 )",
+    "Release date": "2022-01-01",
     "Country": "United States",
     "Language": "English"
   },

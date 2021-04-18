@@ -30,88 +30,127 @@ def get_info():
 
 
 
-#cleans up 'Release Date'
-def clean_date() :
-    for item in all_movies:
-        print(all_movies[item]['Release date'])
-        date = datetime
-        if '(' in all_movies[item]['Release date']:
-            date_array = all_movies[item]['Release date'].split('(', 1)[0]
-            date_array = date_array.replace(',', '')
-            date_array = date_array.split(' ', 2)
-            date_dict = {}
-            if date_array[0] in months:
-                date_dict['month'] = months[date_array[0]]
-                date_array.pop(0)
-            if date_array[1] in months:
-                date_dict['month'] = months[date_array[1]]
-                date_array.pop(1)
-
-            for spot in date_array:
-                if len(spot) >= 3:
-                    date_dict['year'] = spot
-                else:
-                    date_dict['day'] = spot
-
-            if 'day' in date_dict and date_dict['day'] != '':
-                print(date_dict['day'], '-', date_dict['month'], '-', date_dict['year'])
-                date_string = str(date_dict['day']) + '/' + str(date_dict['month']) + '/' + str(date_dict['year'])
-                date_string = date_string.replace(' ', '')
-                print(date_string, type(date_string))
-                date = datetime.strptime(date_string, '%d/%m/%Y')
-                print(date.date(), type(date))
-            else:
-                print(date_dict['year'])
-                date = datetime.strptime(date_dict['year'], '%Y')
-            all_movies[item]['Release date'] = str(date.date())
-
 #Cleans up 'Running Time'
 def clean_time():
     for item in all_movies:
-        my_time = all_movies[item]['Running time'].split(' ',1)
-        print(my_time[0])
-        all_movies[item]['Running time'] = my_time[0]
+        try:
+            if '–' in all_movies[item]['Running time']:my_time = all_movies[item]['Running time'].split('–',1)
+            else: my_time = all_movies[item]['Running time'].split(' ',1)
+            print(my_time[0])
+            all_movies[item]['Running time'] = int(my_time[0])
+        except AttributeError:
+            my_time=all_movies[item]['Running time'][0]
+            my_time = my_time.split(' ', 1)
+            print(my_time[0])
+            all_movies[item]['Running time'] = int(my_time[0])
+        except KeyError:
+            print(item,'does not have running time key')
 
-#cleans up 'Budget'
+#cleans up 'Budget' and 'box office'
 #uses USD
-def clean_budget_USD():
+def clean_money():
     for item in all_movies:
         if 'Budget' in all_movies[item]:
-            budget_string = all_movies[item]['Budget']
-            num = float
-            if '$' and 'million' in budget_string:
-                start = budget_string.find('$')
-                end = budget_string.find('million')
-                budget_string = budget_string[start:end:1]
-                budget_string = budget_string.replace('$', '').replace(' ', '')
-            elif '$' in budget_string:
-                budget_string = budget_string.replace('$', '').replace(',', '').replace(' ', '')
-            if '–' in budget_string:
-                budget_string = budget_string.split('–', 1)[0]
-            if '-' in budget_string:
-                budget_string = budget_string.split('-',  1)[0]
-            budget_string =  budget_string.replace(' ','')
-            if budget_string == '' :
-                budget_string = all_movies[item]['Budget']
-                if '(' and ')' in budget_string:
-                    start = budget_string.find('(') + 1
-                    end = budget_string.find(')')
-                    budget_string = budget_string[start:end:1]
-                    start = budget_string.find('$')
-                    end = budget_string.find('million')
-                    budget_string = budget_string[start:end:1]
-                    budget_string = budget_string.replace('$', '').replace(' ', '')
-            try :
-                num = float(budget_string)
-                if num < 1000 : num = num * 1000000
-                all_movies[item]['Budget'] = num
-            except ValueError:
-                all_movies[item]['Budget'] =  all_movies[item]['Budget']
+            if type(all_movies[item]['Budget']) is str:
+                clean = clean_string_usd(all_movies[item]['Budget'])
+                if clean : all_movies[item]['Budget'] = clean
+                else : print(all_movies[item]['Budget'])
+            if type(all_movies[item]['Budget']) is list:
+                clean = clean_list(all_movies[item]['Budget'])
+                if clean :all_movies[item]['Budget'] = clean
+                else : print(all_movies[item]['Budget'])
+        if 'Box office' in all_movies[item]:
+            if type(all_movies[item]['Box office']) is str:
+                temp = clean_string_usd(all_movies[item]['Box office'])
+                if temp :
+                    all_movies[item]['Box office'] = temp
+                else: print(all_movies[item]['Box office'])
+            if type(all_movies[item]['Box office']) is list:
+                temp = clean_list(all_movies[item]['Box office'])
+                if temp:
+                    all_movies[item]['Box office'] = clean
+                    print('changed box office')
+                else : print(all_movies[item]['Box office'])
+
+def clean_string_usd(my_string):
+    if '$' in my_string:
+        start = my_string.find('$')
+        end = my_string.find('million')
+        my_string = my_string[start:end:].replace(' ','').replace('\n','').replace('\xa0','').\
+            replace('to','-').replace('–','-').replace('$','').replace('est.','')
+        while '(' in my_string:
+            my_string= my_string[my_string.find('(')+1:my_string.find(')'):]
+        if '-' in my_string:
+            my_string = my_string.split('-',3)[0]
+        if ',' in my_string:
+            if len(my_string) > 7 :
+                my_string = my_string[0:2].replace(',','.')
+            else : my_string = '0.' + my_string[0:my_string.find(','):]
+    try:
+        my_float = float(my_string) * 1000000
+        return int(my_float)
+    except ValueError:
+        return clean_string_other_currency(my_string)
+def clean_list(my_list):
+    summe = False
+    for item in my_list:
+        current = clean_string_usd(item.replace('\xa0',' '))
+        if current:
+            summe += current
+    return summe
+
+def clean_string_other_currency(my_string):
+    if '–' in my_string:
+        my_string = my_string.split('–')[0]
+    while '(' in my_string:
+        my_string = my_string[my_string.find('('):my_string.find(')'):]
+        return clean_string_usd(my_string)
+    if ( '₹' and 'million' )in my_string:
+        return int(my_string[my_string.find('₹')+1:my_string.find('million'):].replace(' ',''))*13285
+    if ( '₹' and 'crore' )in my_string:
+        return int(my_string[my_string.find('₹')+1:my_string.find('crore'):].replace(' ','').replace(',','.'))*132850
+    if 'crore' in my_string:
+        return int(my_string.replace('crore','').replace(' ', '')) * 132850
+    else:
+        return False
+
+
+def clean_date_simple():
+    for date_item in all_movies:
+        my_date =  datetime.now()
+        date_dict ={}
+        if 'Release date' in all_movies[date_item]:
+            my_release_date_string =  all_movies[date_item]['Release date']
+            if type(all_movies[date_item]['Release date']) is list :
+                my_release_date_string = all_movies[date_item]['Release date'][0].replace('\xa0','-')
+            if '(' in my_release_date_string:
+                start =my_release_date_string.find('(')
+                try:
+                    my_release_date_string = my_release_date_string[0:start:1].replace(' ','-').replace(',','-').replace('--','-')
+                    my_release_date_string = my_release_date_string[0:len(my_release_date_string)-1]
+                    date_array = my_release_date_string.split('-',3)
+                    for item in date_array:
+                        if item in months:
+                            date_array[date_array.index(item)] = months[item]
+                            date_dict['m'] = months[item]
+                    for item in date_array:
+                        if type(item) is int and date_array.index(item) != 0:
+                            temp = date_array[0]
+                            in_temp = date_array.index(item)
+                            date_array[0] = item
+                            date_array[in_temp] = temp
+                        if type(item) is str and len(item)>2:
+                            date_dict['y'] = int(item)
+                        else : date_dict['d'] = int(item)
+                    all_movies[date_item]['Release date'] = str(datetime.strptime(str(date_dict['d'])+'/'+str(date_dict['m'])+'/'+str(date_dict['y']),'%d/%m/%Y').date())
+                    print(all_movies[date_item]['Release date'])
+                except TypeError:
+                    print('error',my_release_date_string)
+                except KeyError as exception:
+                    if exception.args == ('d',):
+                        all_movies[date_item]['Release date'] = str(datetime.strptime(str(date_dict['y']),'%Y').date())
+                    else : print(exception)
 
 
 
-
-get_info()
-
-
-
+all_movies = load_data()
