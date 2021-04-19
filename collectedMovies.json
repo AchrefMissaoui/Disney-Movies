@@ -7,7 +7,8 @@
     "Running time": 41,
     "Country": "United States",
     "Language": "English",
-    "Box office": 45472000
+    "Box office": 45472000,
+    "Rating": 7.1
   },
   "Snow White and the Seven Dwarfs": {
     "name": "Snow White and the Seven Dwarfs",
@@ -61,7 +62,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 1490000,
-    "Box office": 418000000
+    "Box office": 418000000,
+    "Rating": 7.6
   },
   "Pinocchio": {
     "name": "Pinocchio",
@@ -112,7 +114,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 2600000,
-    "Box office": 164000000
+    "Box office": 164000000,
+    "Rating": 7.4
   },
   "Fantasia (1940 film)": {
     "name": "Fantasia",
@@ -153,7 +156,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 2280000,
-    "Box office": 76400000
+    "Box office": 76400000,
+    "Rating": 7.7
   },
   "The Reluctant Dragon": {
     "name": "The Reluctant Dragon ",
@@ -257,7 +261,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 950000,
-    "Box office": 1300000
+    "Box office": 1300000,
+    "Rating": 7.2
   },
   "Bambi": {
     "name": "Bambi",
@@ -303,7 +308,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 858000,
-    "Box office": 267399999
+    "Box office": 267399999,
+    "Rating": 7.3
   },
   "Saludos Amigos": {
     "name": "Saludos Amigos",
@@ -335,7 +341,7 @@
       "Norman Ferguson",
       "Frank Graham",
       "Clarence Nash",
-      "Jos\u00e9 Oliveira",
+      "Jos Oliveira",
       "Frank Thomas"
     ],
     "Narrated by": "Fred Shields",
@@ -353,7 +359,8 @@
       "Portuguese",
       "Spanish"
     ],
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 6.1
   },
   "Victory Through Air Power (film)": {
     "name": "Victory Through Air Power",
@@ -395,7 +402,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 788000,
-    "Box office": 799000
+    "Box office": 799000,
+    "Rating": 6.5
   },
   "The Three Caballeros": {
     "name": "The Three Caballeros",
@@ -422,7 +430,7 @@
     ],
     "Starring": [
       "Clarence Nash",
-      "Jos\u00e9 Oliveira",
+      "Jos Oliveira",
       "Joaquin Garay"
     ],
     "Music by": [
@@ -440,7 +448,8 @@
       "Spanish",
       "Portuguese"
     ],
-    "Box office": 3000000
+    "Box office": 3000000,
+    "Rating": 6.4
   },
   "Make Mine Music": {
     "name": "Make Mine Music",
@@ -497,7 +506,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 1350000,
-    "Box office": 3275000
+    "Box office": 3275000,
+    "Rating": 6.3
   },
   "Song of the South": {
     "name": "Song of the South",
@@ -546,7 +556,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 2125000,
-    "Box office": 65000000
+    "Box office": 65000000,
+    "Rating": 7.1
   },
   "Fun and Fancy Free": {
     "name": "Fun and Fancy Free",
@@ -598,7 +609,8 @@
     "Running time": 73,
     "Country": "United States",
     "Language": "English",
-    "Box office": 3000000
+    "Box office": 3000000,
+    "Rating": 6.5
   },
   "Melody Time": {
     "name": "Melody Time",
@@ -656,7 +668,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 1500000,
-    "Box office": 2000000
+    "Box office": 2000000,
+    "Rating": 6.3
   },
   "So Dear to My Heart": {
     "name": "So Dear to My Heart",
@@ -701,7 +714,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 1500000,
-    "Box office": 3700000
+    "Box office": 3700000,
+    "Rating": 6.8
   },
   "The Adventures of Ichabod and Mr. Toad": {
     "name": "The Adventures of Ichabod and Mr. Toad",
@@ -752,7 +766,8 @@
     "Running time": 68,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 7.0
   },
   "Cinderella (1950 film)": {
     "name": "Cinderella ",
@@ -994,7 +1009,7 @@
       "Ernest Jay",
       "Jean Mercure",
       "D. A. Clarke-Smith",
-      "G\u00e9rard Oury",
+      "Grard Oury",
       "Fernand Fabre",
       "Gaston Richer",
       "Rosalie Crutchley",
@@ -1013,7 +1028,8 @@
     ],
     "Language": "English",
     "Budget": 2000000,
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 6.4
   },
   "The Living Desert": {
     "name": "The Living Desert",
@@ -1072,7 +1088,8 @@
       "United States"
     ],
     "Language": "English",
-    "Budget": 1800000
+    "Budget": 1800000,
+    "Rating": 6.3
   },
   "The Vanishing Prairie": {
     "name": "The Vanishing Prairie",
@@ -1096,7 +1113,8 @@
     "Running time": 60,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1750000
+    "Box office": 1750000,
+    "Rating": 7.4
   },
   "20,000 Leagues Under the Sea (1954 film)": {
     "name": "20,000 Leagues Under the Sea ",
@@ -1196,7 +1214,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 4000000,
-    "Box office": 187000000
+    "Box office": 187000000,
+    "Rating": 7.3
   },
   "The African Lion": {
     "name": "The African Lion",
@@ -1220,16 +1239,17 @@
     "Running time": 75,
     "Country": "United States",
     "Language": "English",
-    "Box office": 2100000
+    "Box office": 2100000,
+    "Rating": 7.2
   },
   "The Littlest Outlaw": {
     "name": "The Littlest Outlaw",
     "link": "https://en.wikipedia.org/wiki/The_Littlest_Outlaw",
-    "Directed by": "Roberto Gavald\u00f3n",
+    "Directed by": "Roberto Gavaldn",
     "Starring": [
-      "Pedro Armend\u00e1riz",
+      "Pedro Armendriz",
       "Joseph Calleia",
-      "Andr\u00e9s Vel\u00e1zquez"
+      "Andrs Velzquez"
     ],
     "Production company": "Walt Disney Productions",
     "Distributed by": "Buena Vista Distribution",
@@ -1237,7 +1257,8 @@
     "Running time": 73,
     "Countries": "United States, Mexico",
     "Languages": "English, Spanish",
-    "Box office": 1600000
+    "Box office": 1600000,
+    "Rating": 6.2
   },
   "The Great Locomotive Chase": {
     "name": "The Great Locomotive Chase",
@@ -1292,7 +1313,8 @@
     "Release date": "1956-07-18",
     "Running time": 81,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.8
   },
   "Secrets of Life": {
     "name": "Secrets of Life",
@@ -1323,7 +1345,8 @@
     "Release date": "1956-09-04",
     "Running time": 70,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.3
   },
   "Westward Ho the Wagons!": {
     "name": "Westward Ho the Wagons!",
@@ -1670,7 +1693,8 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 7.2
   },
   "Zorro (1957 TV series)": {
     "name": "Zorro ",
@@ -1700,7 +1724,7 @@
     "Original network": "ABC",
     "Picture format": "Black-and-white (also colorized )",
     "Audio format": "Monaural",
-    "Original release": "October 10, 1957",
+    "Release date": "1957-10-10",
     "Related shows": "Zorro and Son"
   },
   "Third Man on the Mountain": {
@@ -1730,7 +1754,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 2000000,
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 7.1
   },
   "Toby Tyler or 10 Weeks with a Circus (film)": {
     "name": "Toby Tyler or 10 Weeks with a Circus ",
@@ -1869,7 +1894,8 @@
     "Release date": "1960-11-01",
     "Running time": 92,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 5.7
   },
   "Swiss Family Robinson (1960 film)": {
     "name": "Swiss Family Robinson ",
@@ -1949,7 +1975,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 3600000,
-    "Box office": 303000000
+    "Box office": 303000000,
+    "Rating": 7.3
   },
   "The Absent-Minded Professor": {
     "name": "The Absent-Minded Professor",
@@ -1999,7 +2026,7 @@
       "Lottie and Lisa",
       "1949 novel",
       "by",
-      "Erich K\u00e4stner"
+      "Erich Kstner"
     ],
     "Starring": [
       "Hayley Mills",
@@ -2040,7 +2067,7 @@
     ],
     "Starring": [
       "Jean Coutu",
-      "\u00c9mile Genest",
+      "mile Genest",
       "Uriel Luft",
       "Robert Rivard",
       "Nikki",
@@ -2162,7 +2189,8 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Box office": 3500000
+    "Box office": 3500000,
+    "Rating": 5.4
   },
   "Bon Voyage! (1962 film)": {
     "name": "Bon Voyage! ",
@@ -2210,7 +2238,7 @@
     "Starring": [
       "Walter Pidgeon",
       "Gilles Payant",
-      "\u00c9mile Genest"
+      "mile Genest"
     ],
     "Music by": [
       "Songs:",
@@ -2258,13 +2286,7 @@
       "Jack Couffer"
     ],
     "Written by": "Dwight Hauser and James Algar",
-    "Based on": [
-      "\"",
-      "Lobo the King of Currumpaw",
-      "\"",
-      "by",
-      "Ernest Thompson Seton"
-    ],
+    "Based on": "Lobo the King of Currumpaw by Ernest Thompson Seton" ,
     "Narrated by": "Rex Allen",
     "Music by": [
       "Oliver Wallace",
@@ -2287,7 +2309,8 @@
     "Release date": "1962-11-07",
     "Running time": 67,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.0
   },
   "In Search of the Castaways (film)": {
     "name": "In Search of the Castaways ",
@@ -2354,7 +2377,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": 22100000
+    "Box office": 22100000,
+    "Rating": 6.2
   },
   "Miracle of the White Stallions": {
     "name": "Miracle of the White Stallions",
@@ -2378,7 +2402,7 @@
       "Lilli Palmer"
     ],
     "Music by": "Paul J. Smith",
-    "Cinematography": "G\u00fcnther Anders",
+    "Cinematography": "Günther Anders",
     "Edited by": [
       "Alfred Srp",
       "Cotton Warburton"
@@ -2389,7 +2413,8 @@
     "Running time": 118,
     "Country": "United States",
     "Language": "English",
-    "Box office": 2000000
+    "Box office": 2000000,
+    "Rating": 6.6
   },
   "Savage Sam (film)": {
     "name": "Savage Sam ",
@@ -2479,7 +2504,7 @@
     ],
     "Starring": [
       "Syn",
-      "\u00c9mile Genest",
+      "mile Genest",
       "John Drainie",
       "Tommy Tweed",
       "Sandra Scott"
@@ -2557,7 +2582,8 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 6.4
   },
   "The Missadventures of Merlin Jones": {
     "name": "The Missadventures of Merlin Jones",
@@ -2624,7 +2650,8 @@
       "English",
       "Gaelic"
     ],
-    "Box office": 2000000
+    "Box office": 2000000,
+    "Rating": 7.2
   },
   "The Moon-Spinners": {
     "name": "The Moon-Spinners",
@@ -2651,7 +2678,8 @@
     "Release date": "1964-07-02",
     "Running time": 118,
     "Language": "English",
-    "Box office": 3000000
+    "Box office": 3000000,
+    "Rating": 6.7
   },
   "Mary Poppins (film)": {
     "name": "Mary Poppins ",
@@ -2703,11 +2731,11 @@
       "John McKimson",
       "Walt Disney"
     ],
-    "Written by": "Erich K\u00e4stner",
+    "Written by": "Erich Kstner",
     "Based on": [
       "Emil and the Detectives",
       "by",
-      "Erich K\u00e4stner"
+      "Erich Kstner"
     ],
     "Starring": [
       "Walter Slezak",
@@ -2778,7 +2806,8 @@
     "Running time": 87,
     "Country": "United States",
     "Language": "English",
-    "Box office": 4000000
+    "Box office": 4000000,
+    "Rating": 6.1
   },
   "That Darn Cat!": {
     "name": "That Darn Cat!",
@@ -2811,7 +2840,8 @@
     "Running time": 116,
     "Country": "United States",
     "Language": "English",
-    "Box office": 28000000
+    "Box office": 28000000,
+    "Rating": 6.8
   },
   "The Ugly Dachshund": {
     "name": "The Ugly Dachshund",
@@ -2841,7 +2871,8 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": 6200000
+    "Box office": 6200000,
+    "Rating": 6.7
   },
   "Lt. Robin Crusoe, U.S.N.": {
     "name": "Lt. Robin Crusoe, U.S.N.",
@@ -2873,7 +2904,8 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Box office": 22000000
+    "Box office": 22000000,
+    "Rating": 6.1
   },
   "The Fighting Prince of Donegal": {
     "name": "The Fighting Prince of Donegal",
@@ -2943,7 +2975,8 @@
     "Running time": 131,
     "Country": "United States",
     "Language": "English",
-    "Box office": 16000000
+    "Box office": 16000000,
+    "Rating": 7.2
   },
   "Monkeys, Go Home!": {
     "name": "Monkeys, Go Home!",
@@ -2965,7 +2998,8 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Box office": 3000000
+    "Box office": 3000000,
+    "Rating": 5.9
   },
   "The Adventures of Bullwhip Griffin": {
     "name": "The Adventures of Bullwhip Griffin",
@@ -2997,7 +3031,8 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1000000
+    "Box office": 1000000,
+    "Rating": 6.5
   },
   "The Gnome-Mobile": {
     "name": "The Gnome-Mobile",
@@ -3033,7 +3068,8 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Box office": 4000000
+    "Box office": 4000000,
+    "Rating": 6.6
   },
   "The Jungle Book (1967 film)": {
     "name": "The Jungle Book ",
@@ -3108,7 +3144,8 @@
     "Release date": "1967-10-19",
     "Running time": 75,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.9
   },
   "The Happiest Millionaire": {
     "name": "The Happiest Millionaire",
@@ -3144,7 +3181,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 5000000,
-    "Box office": 5000000
+    "Box office": 5000000,
+    "Rating": 6.8
   },
   "Blackbeard's Ghost": {
     "name": "Blackbeard's Ghost",
@@ -3174,7 +3212,8 @@
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Box office": 21000000
+    "Box office": 21000000,
+    "Rating": 6.9
   },
   "The One and Only, Genuine, Original Family Band": {
     "name": "The One and Only, Genuine, Original Family Band",
@@ -3211,7 +3250,8 @@
     "Running time": 110,
     "Country": "United States",
     "Language": "English",
-    "Box office": 2000000
+    "Box office": 2000000,
+    "Rating": 6.5
   },
   "Never a Dull Moment (1968 film)": {
     "name": "Never a Dull Moment ",
@@ -3269,7 +3309,8 @@
     "Running time": 113,
     "Country": "United States",
     "Language": "English",
-    "Box office": 3300000
+    "Box office": 3300000,
+    "Rating": 6.5
   },
   "The Love Bug": {
     "name": "The Love Bug",
@@ -3297,7 +3338,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 5000000,
-    "Box office": 51000000
+    "Box office": 51000000,
+    "Rating": 6.5
   },
   "Smith!": {
     "name": "Smith!",
@@ -3315,7 +3357,8 @@
     "Running time": 112,
     "Country": "United States",
     "Language": "English",
-    "Box office": 1300000
+    "Box office": 1300000,
+    "Rating": 5.8
   },
   "Rascal (film)": {
     "name": "Rascal ",
@@ -3368,7 +3411,8 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": 5500000
+    "Box office": 5500000,
+    "Rating": 6.1
   },
   "King of the Grizzlies": {
     "name": "King of the Grizzlies",
@@ -3403,7 +3447,8 @@
       "United States",
       "Canada"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Rating": 5.8
   },
   "The Boatniks": {
     "name": "The Boatniks",
@@ -3433,7 +3478,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": 18000000
+    "Box office": 18000000,
+    "Rating": 5.6
   },
   "The Wild Country": {
     "name": "The Wild Country",
@@ -3457,7 +3503,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": 4000000
+    "Box office": 4000000,
+    "Rating": 6.4
   },
   "The Aristocats": {
     "name": "The Aristocats",
@@ -3501,7 +3548,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 4000000,
-    "Box office": 191000000
+    "Box office": 191000000,
+    "Rating": 7.1
   },
   "The Barefoot Executive": {
     "name": "The Barefoot Executive",
@@ -3531,7 +3579,8 @@
     "Release date": "1971-03-17",
     "Running time": 96,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.1
   },
   "Scandalous John": {
     "name": "Scandalous John",
@@ -3577,7 +3626,8 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": 5100000
+    "Box office": 5100000,
+    "Rating": 5.9
   },
   "Bedknobs and Broomsticks": {
     "name": "Bedknobs and Broomsticks",
@@ -3613,7 +3663,8 @@
     "Country": "United States  ",
     "Language": "English",
     "Budget": 6300000,
-    "Box office": 17900000
+    "Box office": 17900000,
+    "Rating": 7.1
   },
   "The Biscuit Eater (1972 film)": {
     "name": "The Biscuit Eater ",
@@ -3661,7 +3712,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": 4000000
+    "Box office": 4000000,
+    "Rating": 6.3
   },
   "Napoleon and Samantha": {
     "name": "Napoleon and Samantha",
@@ -3682,7 +3734,8 @@
     "Release date": "1972-07-05",
     "Running time": 92,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.1
   },
   "Run, Cougar, Run": {
     "name": "Run, Cougar, Run",
@@ -3711,7 +3764,8 @@
     "Release date": "1972-10-18",
     "Running time": 87,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.5
   },
   "Snowball Express": {
     "name": "Snowball Express",
@@ -3752,7 +3806,8 @@
     "Running time": 93,
     "Country": "United States",
     "Language": "English",
-    "Box office": 6000000
+    "Box office": 6000000,
+    "Rating": 6.5
   },
   "The World's Greatest Athlete": {
     "name": "The World's Greatest Athlete",
@@ -3810,7 +3865,8 @@
     "Release date": "1973-03-23",
     "Running time": 93,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.2
   },
   "One Little Indian (film)": {
     "name": "One Little Indian ",
@@ -3900,7 +3956,8 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Box office": 7000000
+    "Box office": 7000000,
+    "Rating": 5.3
   },
   "Herbie Rides Again": {
     "name": "Herbie Rides Again",
@@ -3929,7 +3986,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": 5000000
+    "Box office": 5000000,
+    "Rating": 5.7
   },
   "The Bears and I": {
     "name": "The Bears and I",
@@ -3958,7 +4016,8 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": 4000000
+    "Box office": 4000000,
+    "Rating": 6.2
   },
   "The Castaway Cowboy": {
     "name": "The Castaway Cowboy",
@@ -3983,7 +4042,8 @@
     "Release date": "1974-08-01",
     "Running time": 91,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.0
   },
   "The Island at the Top of the World": {
     "name": "The Island at the Top of the World",
@@ -4019,7 +4079,8 @@
       "Icelandic"
     ],
     "Budget": 8000000,
-    "Box office": 10000000
+    "Box office": 10000000,
+    "Rating": 6.3
   },
   "The Strongest Man in the World": {
     "name": "The Strongest Man in the World",
@@ -4046,7 +4107,8 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": 6600000
+    "Box office": 6600000,
+    "Rating": 6.1
   },
   "Escape to Witch Mountain (1975 film)": {
     "name": "Escape to Witch Mountain ",
@@ -4139,7 +4201,8 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": 5500000
+    "Box office": 5500000,
+    "Rating": 6.0
   },
   "The Best of Walt Disney's True-Life Adventures": {
     "name": "The Best of Walt Disney's True-Life Adventures",
@@ -4182,7 +4245,8 @@
     "Release date": "1975-10-08",
     "Running time": 89,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.1
   },
   "True-Life Adventures": {
     "name": "True-Life Adventures",
@@ -4251,7 +4315,8 @@
     "Release date": "1976-02-11",
     "Running time": 112,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.6
   },
   "Treasure of Matecumbe": {
     "name": "Treasure of Matecumbe",
@@ -4283,7 +4348,8 @@
     "Release date": "1976-07-01",
     "Running time": 115,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.2
   },
   "Gus (1976 film)": {
     "name": "Gus ",
@@ -4345,7 +4411,8 @@
     "Running time": 91,
     "Country": "United States",
     "Language": "English",
-    "Box office": 10500000
+    "Box office": 10500000,
+    "Rating": 5.9
   },
   "Freaky Friday (1976 film)": {
     "name": "Freaky Friday ",
@@ -4455,7 +4522,8 @@
     "Release date": "1977-03-11",
     "Running time": 74,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.6
   },
   "A Tale of Two Critters": {
     "name": "A Tale of Two Critters",
@@ -4471,7 +4539,8 @@
     "Release date": "1977-06-22",
     "Running time": 48,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.2
   },
   "The Rescuers": {
     "name": "The Rescuers",
@@ -4521,7 +4590,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 7500000,
-    "Box office": 169000000
+    "Box office": 169000000,
+    "Rating": 6.9
   },
   "Herbie Goes to Monte Carlo": {
     "name": "Herbie Goes to Monte Carlo",
@@ -4556,7 +4626,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Box office": 29000000
+    "Box office": 29000000,
+    "Rating": 5.7
   },
   "Pete's Dragon (1977 film)": {
     "name": "Pete's Dragon ",
@@ -4619,7 +4690,8 @@
     "Release date": "1977-12-16",
     "Running time": 101,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.8
   },
   "Return from Witch Mountain": {
     "name": "Return from Witch Mountain",
@@ -4647,7 +4719,8 @@
     "Release date": "1978-03-10",
     "Running time": 94,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 5.9
   },
   "The Cat from Outer Space": {
     "name": "The Cat from Outer Space",
@@ -4672,7 +4745,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Budget": 3500000
+    "Budget": 3500000,
+    "Rating": 6.1
   },
   "Hot Lead and Cold Feet": {
     "name": "Hot Lead and Cold Feet",
@@ -4700,7 +4774,8 @@
     "Release date": "1978-07-05",
     "Running time": 90,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.2
   },
   "The North Avenue Irregulars": {
     "name": "The North Avenue Irregulars",
@@ -4732,7 +4807,8 @@
     "Release date": "1979-02-09",
     "Running time": 100,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.8
   },
   "The Apple Dumpling Gang Rides Again": {
     "name": "The Apple Dumpling Gang Rides Again",
@@ -4764,7 +4840,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": 20000000
+    "Box office": 20000000,
+    "Rating": 6.2
   },
   "Unidentified Flying Oddball": {
     "name": "Unidentified Flying Oddball",
@@ -4793,7 +4870,8 @@
       ""
     ],
     "Language": "English",
-    "Budget": 5250000
+    "Budget": 5250000,
+    "Rating": 5.3
   },
   "The Black Hole": {
     "name": "The Black Hole",
@@ -4830,7 +4908,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 20000000,
-    "Box office": 20000000
+    "Box office": 20000000,
+    "Rating": 6.0
   },
   "The Omega Connection": {
     "name": "The Omega Connection",
@@ -4965,7 +5044,8 @@
     "Running time": 98,
     "Country": "United States",
     "Language": "English",
-    "Box office": 18000000
+    "Box office": 18000000,
+    "Rating": 5.0
   },
   "The Last Flight of Noah's Ark": {
     "name": "The Last Flight of Noah's Ark",
@@ -4987,7 +5067,7 @@
     ],
     "Starring": [
       "Elliott Gould",
-      "Genevi\u00e8ve Bujold",
+      "Genevive Bujold",
       "Ricky Schroder"
     ],
     "Music by": "Maurice Jarre",
@@ -5000,7 +5080,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 6000000,
-    "Box office": 11000000
+    "Box office": 11000000,
+    "Rating": 5.8
   },
   "Popeye (film)": {
     "name": "Popeye ",
@@ -5075,7 +5156,8 @@
     "Running time": 96,
     "Country": "United States",
     "Language": "English",
-    "Box office": 16000000
+    "Box office": 16000000,
+    "Rating": 5.1
   },
   "Amy (1981 film)": {
     "name": "Amy ",
@@ -5197,7 +5279,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 12000000,
-    "Box office": 63500000
+    "Box office": 63500000,
+    "Rating": 7.3
   },
   "Condorman": {
     "name": "Condorman",
@@ -5230,7 +5313,8 @@
     "Running time": 90,
     "Country": "United States",
     "Language": "English",
-    "Budget": 14000000
+    "Budget": 14000000,
+    "Rating": 5.8
   },
   "Night Crossing": {
     "name": "Night Crossing",
@@ -5258,7 +5342,8 @@
       "United States"
     ],
     "Language": "English",
-    "Box office": 8000000
+    "Box office": 8000000,
+    "Rating": 6.5
   },
   "Tron": {
     "name": "Tron",
@@ -5477,7 +5562,8 @@
     ],
     "Language": "English",
     "Budget": 28000000,
-    "Box office": 11100000
+    "Box office": 11100000,
+    "Rating": 6.8
   },
   "The Black Cauldron (film)": {
     "name": "The Black Cauldron ",
@@ -5573,7 +5659,8 @@
     "Running time": 101,
     "Country": "United States",
     "Language": "English",
-    "Box office": 9700000
+    "Box office": 9700000,
+    "Rating": 7.1
   },
   "One Magic Christmas": {
     "name": "One Magic Christmas",
@@ -5610,7 +5697,8 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": 13000000
+    "Box office": 13000000,
+    "Rating": 6.5
   },
   "The Great Mouse Detective": {
     "name": "The Great Mouse Detective",
@@ -5663,7 +5751,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 14000000,
-    "Box office": 38700000
+    "Box office": 38700000,
+    "Rating": 7.2
   },
   "Flight of the Navigator": {
     "name": "Flight of the Navigator",
@@ -5710,7 +5799,8 @@
     "Country": "United States ",
     "Language": "English",
     "Budget": 9000000,
-    "Box office": 18000000
+    "Box office": 18000000,
+    "Rating": 6.9
   },
   "Benji the Hunted": {
     "name": "Benji the Hunted",
@@ -5739,7 +5829,8 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": 22300000
+    "Box office": 22300000,
+    "Rating": 6.3
   },
   "The Man from Snowy River II": {
     "name": "The Man from Snowy River II",
@@ -5830,7 +5921,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 31000000,
-    "Box office": 121000000
+    "Box office": 121000000,
+    "Rating": 6.7
   },
   "Honey, I Shrunk the Kids": {
     "name": "Honey, I Shrunk the Kids",
@@ -5865,7 +5957,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 18000000,
-    "Box office": 222700000
+    "Box office": 222700000,
+    "Rating": 6.4
   },
   "Cheetah (1989 film)": {
     "name": "Cheetah ",
@@ -5927,7 +6020,7 @@
       "Hans Christian Andersen"
     ],
     "Starring": [
-      "Ren\u00e9 Auberjonois",
+      "Ren Auberjonois",
       "Christopher Daniel Barnes",
       "Jodi Benson",
       "Pat Carroll",
@@ -5993,7 +6086,8 @@
     "Country": "United States  ",
     "Language": "English",
     "Budget": 20000000,
-    "Box office": 18100000
+    "Box office": 18100000,
+    "Rating": 6.9
   },
   "The Rescuers Down Under": {
     "name": "The Rescuers Down Under",
@@ -6034,7 +6128,8 @@
     "Running time": 77,
     "Country": "United States",
     "Language": "English",
-    "Box office": 47400000
+    "Box office": 47400000,
+    "Rating": 6.9
   },
   "White Fang (1991 film)": {
     "name": "White Fang ",
@@ -6147,7 +6242,8 @@
     "Running time": 88,
     "Country": "United States",
     "Language": "English",
-    "Box office": 7300000
+    "Box office": 7300000,
+    "Rating": 7.3
   },
   "The Rocketeer (film)": {
     "name": "The Rocketeer ",
@@ -6290,7 +6386,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 15000000,
-    "Box office": 2800000
+    "Box office": 2800000,
+    "Rating": 7.0
   },
   "Honey, I Blew Up the Kid": {
     "name": "Honey, I Blew Up the Kid",
@@ -6335,7 +6432,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 40000000,
-    "Box office": 96000000
+    "Box office": 96000000,
+    "Rating": 4.9
   },
   "The Mighty Ducks (film)": {
     "name": "The Mighty Ducks ",
@@ -6359,7 +6457,7 @@
     ],
     "Production companies": [
       "Walt Disney Pictures",
-      "Avnet\u2013 Kerner Productions",
+      "Avnet Kerner Productions",
       "Touchwood Pacific Partners"
     ],
     "Distributed by": "Buena Vista Pictures",
@@ -6471,7 +6569,8 @@
     "Country": "United States ",
     "Language": "English",
     "Budget": 12000000,
-    "Box office": 27200000
+    "Box office": 27200000,
+    "Rating": 7.7
   },
   "Homeward Bound: The Incredible Journey": {
     "name": "Homeward Bound: The Incredible Journey",
@@ -6513,7 +6612,8 @@
     "Running time": 84,
     "Country": "United States",
     "Language": "English",
-    "Box office": 57000000
+    "Box office": 57000000,
+    "Rating": 7.0
   },
   "A Far Off Place": {
     "name": "A Far Off Place",
@@ -6542,7 +6642,7 @@
       "Maximilian Schell"
     ],
     "Music by": "James Horner",
-    "Cinematography": "Juan Ruiz Anch\u00eda",
+    "Cinematography": "Juan Ruiz Ancha",
     "Edited by": "Ray Lovejoy",
     "Production companies": [
       "Walt Disney Pictures",
@@ -6554,7 +6654,8 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": 12900000
+    "Box office": 12900000,
+    "Rating": 6.6
   },
   "The Adventures of Huck Finn (1993 film)": {
     "name": "The Adventures of Huck Finn ",
@@ -6577,7 +6678,7 @@
       "Jason Robards"
     ],
     "Music by": "Bill Conti",
-    "Cinematography": "Janusz Kami\u0144ski",
+    "Cinematography": "Janusz Kamiski",
     "Edited by": "Bob Ducsay",
     "Production company": "Walt Disney Pictures",
     "Distributed by": "Buena Vista Pictures",
@@ -6659,7 +6760,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 17000000,
-    "Box office": 154900000
+    "Box office": 154900000,
+    "Rating": 7.0
   },
   "The Three Musketeers (1993 film)": {
     "name": "The Three Musketeers ",
@@ -6673,7 +6775,7 @@
     "Based on": [
       "The Three Musketeers",
       "by",
-      "Alexandre Dumas p\u00e8re"
+      "Alexandre Dumas pre"
     ],
     "Starring": [
       "Charlie Sheen",
@@ -6689,7 +6791,7 @@
     "Production companies": [
       "Walt Disney Pictures",
       "Caravan Pictures",
-      "Avnet\u2013Kerner Productions (uncredited)"
+      "Avnet Kerner Productions (uncredited)"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": "1993-11-12",
@@ -6732,7 +6834,8 @@
     "Running time": 108,
     "Country": "United States",
     "Language": "English",
-    "Box office": 21000000
+    "Box office": 21000000,
+    "Rating": 6.6
   },
   "Blank Check (film)": {
     "name": "Blank Check ",
@@ -6752,7 +6855,7 @@
       "Karen Duffy",
       "Miguel Ferrer",
       "James Rebhorn",
-      "Tone L\u014dc",
+      "Tone Lc",
       "Jayne Atkinson",
       "Michael Lerner"
     ],
@@ -6787,7 +6890,7 @@
     "Starring": [
       "Emilio Estevez",
       "Michael Tucker",
-      "Jan Rube\u0161",
+      "Jan Rube",
       "Kathryn Erbe"
     ],
     "Music by": "J. A. C. Redford",
@@ -6798,14 +6901,15 @@
     ],
     "Production companies": [
       "Walt Disney Pictures",
-      "Avnet\u2013Kerner Productions"
+      "AvnetKerner Productions"
     ],
     "Distributed by": "Buena Vista Pictures",
     "Release date": "1994-03-25",
     "Running time": 106,
     "Country": "United States",
     "Language": "English",
-    "Box office": 45600000
+    "Box office": 45600000,
+    "Rating": 6.1
   },
   "White Fang 2: Myth of the White Wolf": {
     "name": "White Fang 2: Myth of the White Wolf",
@@ -6828,7 +6932,8 @@
     "Running time": 102,
     "Country": "United States",
     "Language": "English",
-    "Box office": 8000000
+    "Box office": 8000000,
+    "Rating": 5.5
   },
   "The Lion King": {
     "name": "The Lion King",
@@ -6891,7 +6996,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 45000000,
-    "Box office": 968500000
+    "Box office": 968500000,
+    "Rating": 8.5
   },
   "Angels in the Outfield (1994 film)": {
     "name": "Angels in the Outfield ",
@@ -6959,7 +7065,8 @@
       "Canada"
     ],
     "Language": "English",
-    "Box office": 3000000
+    "Box office": 3000000,
+    "Rating": 6.0
   },
   "The Santa Clause": {
     "name": "The Santa Clause",
@@ -6996,7 +7103,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 22000000,
-    "Box office": 189800000
+    "Box office": 189800000,
+    "Rating": 6.5
   },
   "The Jungle Book (1994 film)": {
     "name": "The Jungle Book ",
@@ -7030,7 +7138,7 @@
       "John Cleese"
     ],
     "Music by": "Basil Poledouris",
-    "Cinematography": "Juan Ruiz Anch\u00eda",
+    "Cinematography": "Juan Ruiz Ancha",
     "Edited by": "Bob Ducsay",
     "Production companies": [
       "Baloo Productions",
@@ -7096,7 +7204,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": 17600000
+    "Box office": 17600000,
+    "Rating": 6.7
   },
   "Man of the House (1995 film)": {
     "name": "Man of the House ",
@@ -7159,7 +7268,7 @@
       "Patrick Swayze"
     ],
     "Music by": "Randy Edelman",
-    "Cinematography": "Janusz Kami\u0144ski",
+    "Cinematography": "Janusz Kamiski",
     "Edited by": "Richard Chew",
     "Production companies": [
       "Walt Disney Pictures",
@@ -7195,7 +7304,7 @@
       "Kellie Martin",
       "Rob Paulsen",
       "Wallace Shawn",
-      "Jenna von O\u00ff"
+      "Jenna von O"
     ],
     "Music by": "Carter Burwell",
     "Edited by": "Gregory Perler",
@@ -7216,7 +7325,8 @@
       ""
     ],
     "Language": "English",
-    "Box office": 37600000
+    "Box office": 37600000,
+    "Rating": 6.9
   },
   "Pocahontas (1995 film)": {
     "name": "Pocahontas ",
@@ -7308,7 +7418,8 @@
       "Vietnamese"
     ],
     "Budget": 24000000,
-    "Box office": 24000000
+    "Box office": 24000000,
+    "Rating": 5.1
   },
   "A Kid in King Arthur's Court": {
     "name": "A Kid in King Arthur's Court",
@@ -7329,7 +7440,7 @@
       "Art Malik"
     ],
     "Music by": "J. A. C. Redford",
-    "Cinematography": "L\u00e1szl\u00f3 G\u00e1rdonyi",
+    "Cinematography": "Lszl Grdonyi",
     "Edited by": [
       "Anita Brandt-Burgoyne",
       "Michael Ripps"
@@ -7352,7 +7463,8 @@
     ],
     "Language": "English",
     "Budget": 15000000,
-    "Box office": 13400000
+    "Box office": 13400000,
+    "Rating": 4.7
   },
   "The Big Green": {
     "name": "The Big Green",
@@ -7382,7 +7494,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 12000000,
-    "Box office": 17700000
+    "Box office": 17700000,
+    "Rating": 5.6
   },
   "Frank and Ollie": {
     "name": "Frank and Ollie",
@@ -7408,7 +7521,8 @@
     "Release date": "1995-01-22",
     "Running time": 89,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.7
   },
   "Toy Story": {
     "name": "Toy Story",
@@ -7456,7 +7570,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 30000000,
-    "Box office": 373000000
+    "Box office": 373000000,
+    "Rating": 8.3
   },
   "Tom and Huck": {
     "name": "Tom and Huck",
@@ -7488,7 +7603,8 @@
     "Running time": 92,
     "Country": "United States",
     "Language": "English",
-    "Box office": 23900000
+    "Box office": 23900000,
+    "Rating": 5.5
   },
   "Muppet Treasure Island": {
     "name": "Muppet Treasure Island",
@@ -7530,7 +7646,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 31000000,
-    "Box office": 34300000
+    "Box office": 34300000,
+    "Rating": 7.0
   },
   "Homeward Bound II: Lost in San Francisco": {
     "name": "Homeward Bound II: Lost in San Francisco",
@@ -7568,7 +7685,8 @@
     "Running time": 89,
     "Country": "United States",
     "Language": "English",
-    "Box office": 32700000
+    "Box office": 32700000,
+    "Rating": 6.0
   },
   "James and the Giant Peach (film)": {
     "name": "James and the Giant Peach ",
@@ -7698,7 +7816,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 15000000,
-    "Box office": 26000000
+    "Box office": 26000000,
+    "Rating": 5.3
   },
   "D3: The Mighty Ducks": {
     "name": "D3: The Mighty Ducks",
@@ -7738,7 +7857,8 @@
     "Running time": 104,
     "Country": "United States",
     "Language": "English",
-    "Box office": 22900000
+    "Box office": 22900000,
+    "Rating": 5.5
   },
   "101 Dalmatians (1996 film)": {
     "name": "101 Dalmatians ",
@@ -7859,7 +7979,8 @@
     ],
     "Language": "English",
     "Budget": 32000000,
-    "Box office": 59900000
+    "Box office": 59900000,
+    "Rating": 5.2
   },
   "Hercules (1997 film)": {
     "name": "Hercules ",
@@ -7949,7 +8070,7 @@
     "Edited by": [
       "Kent Beyda",
       "Roger Bondelli",
-      "Stuart Papp\u00e9"
+      "Stuart Papp"
     ],
     "Production companies": [
       "Walt Disney Pictures",
@@ -8040,7 +8161,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 16000000,
-    "Box office": 15400000
+    "Box office": 15400000,
+    "Rating": 5.9
   },
   "Flubber (film)": {
     "name": "Flubber ",
@@ -8111,7 +8233,7 @@
     "Cinematography": "Jingle Ma",
     "Edited by": [
       "Michael R. Miller",
-      "Stuart Papp\u00e9",
+      "Stuart Papp",
       "David Rawlins"
     ],
     "Production companies": [
@@ -8157,7 +8279,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 24000000,
-    "Box office": 4400000
+    "Box office": 4400000,
+    "Rating": 4.1
   },
   "Mulan (1998 film)": {
     "name": "Mulan ",
@@ -8213,7 +8336,7 @@
     "Based on": [
       "Lottie and Lisa",
       "by",
-      "Erich K\u00e4stner"
+      "Erich Kstner"
     ],
     "Starring": [
       "Lindsay Lohan",
@@ -8305,7 +8428,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 120000000,
-    "Box office": 363300000
+    "Box office": 363300000,
+    "Rating": 7.2
   },
   "Mighty Joe Young (1998 film)": {
     "name": "Mighty Joe Young ",
@@ -8328,7 +8452,7 @@
     "Starring": [
       "Bill Paxton",
       "Charlize Theron",
-      "Rade \u0160erbed\u017eija",
+      "Rade erbedija",
       "Naveen Andrews",
       "Regina King",
       "David Paymer"
@@ -8434,7 +8558,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 5000000,
-    "Box office": 19400000
+    "Box office": 19400000,
+    "Rating": 5.0
   },
   "Endurance (film)": {
     "name": "Endurance ",
@@ -8490,7 +8615,7 @@
       "Stephen Anderson",
       "Mark D. Kennedy",
       "Carole Holliday",
-      "Ga\u00ebtan Brizzi",
+      "Gatan Brizzi",
       "Paul Brizzi",
       "Don Dougherty",
       "Ed Gombert",
@@ -8643,7 +8768,8 @@
     ],
     "Language": "English",
     "Budget": 10000000,
-    "Box office": 6200000
+    "Box office": 6200000,
+    "Rating": 8.0
   },
   "Toy Story 2": {
     "name": "Toy Story 2",
@@ -8686,7 +8812,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 90000000,
-    "Box office": 497400000
+    "Box office": 497400000,
+    "Rating": 7.9
   },
   "Fantasia 2000": {
     "name": "Fantasia 2000",
@@ -8698,7 +8825,7 @@
       "Eric Goldberg",
       "James Algar",
       "Francis Glebas",
-      "Paul and Ga\u00ebtan Brizzi"
+      "Paul and Gatan Brizzi"
     ],
     "Produced by": "Donald W. Ernst",
     "Written by": [
@@ -8724,7 +8851,7 @@
       "Pat Ventura",
       "Don Dougherty",
       "Stevie Wermers",
-      "Paul and Ga\u00ebtan Brizzi"
+      "Paul and Gatan Brizzi"
     ],
     "Starring": [
       "James Levine",
@@ -8749,7 +8876,7 @@
       "Ottorino Respighi",
       "George Gershwin",
       "Dmitri Shostakovich",
-      "Camille Saint-Sa\u00ebns",
+      "Camille Saint-Sans",
       "Paul Dukas",
       "Edward Elgar",
       "Igor Stravinsky"
@@ -8769,7 +8896,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 80000000,
-    "Box office": 90900000
+    "Box office": 90900000,
+    "Rating": 7.2
   },
   "The Tigger Movie": {
     "name": "The Tigger Movie",
@@ -8815,7 +8943,8 @@
     ],
     "Language": "English",
     "Budget": 15000000,
-    "Box office": 96200000
+    "Box office": 96200000,
+    "Rating": 6.3
   },
   "Dinosaur (film)": {
     "name": "Dinosaur ",
@@ -8930,7 +9059,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 30000000,
-    "Box office": 136800000
+    "Box office": 136800000,
+    "Rating": 7.8
   },
   "102 Dalmatians": {
     "name": "102 Dalmatians",
@@ -8952,7 +9082,7 @@
       "Ioan Gruffudd",
       "Alice Evans",
       "Tim McInnerny",
-      "G\u00e9rard Depardieu"
+      "Grard Depardieu"
     ],
     "Music by": "David Newman",
     "Cinematography": "Adrian Biddle",
@@ -8968,7 +9098,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 85000000,
-    "Box office": 183600000
+    "Box office": 183600000,
+    "Rating": 4.9
   },
   "The Emperor's New Groove": {
     "name": "The Emperor's New Groove",
@@ -9005,7 +9136,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 100000000,
-    "Box office": 169600000
+    "Box office": 169600000,
+    "Rating": 7.4
   },
   "Recess: School's Out": {
     "name": "Recess: School's Out",
@@ -9061,7 +9193,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 23000000,
-    "Box office": 44500000
+    "Box office": 44500000,
+    "Rating": 6.6
   },
   "Atlantis: The Lost Empire": {
     "name": "Atlantis: The Lost Empire",
@@ -9107,7 +9240,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 90000000,
-    "Box office": 186100000
+    "Box office": 186100000,
+    "Rating": 6.9
   },
   "The Princess Diaries (film)": {
     "name": "The Princess Diaries ",
@@ -9126,7 +9260,7 @@
     ],
     "Starring": [
       "Anne Hathaway",
-      "H\u00e9ctor Elizondo",
+      "Hctor Elizondo",
       "Heather Matarazzo",
       "Mandy Moore",
       "Caroline Goodall",
@@ -9187,7 +9321,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 25000000,
-    "Box office": 18600000
+    "Box office": 18600000,
+    "Rating": 5.4
   },
   "Monsters, Inc.": {
     "name": "Monsters, Inc.",
@@ -9230,7 +9365,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 115000000,
-    "Box office": 577400000
+    "Box office": 577400000,
+    "Rating": 8.1
   },
   "Snow Dogs": {
     "name": "Snow Dogs",
@@ -9252,7 +9388,7 @@
     "Starring": [
       "Cuba Gooding Jr.",
       "James Coburn",
-      "Sisq\u00f3",
+      "Sisq",
       "Nichelle Nichols",
       "Graham Greene"
     ],
@@ -9269,7 +9405,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 33000000,
-    "Box office": 115000000
+    "Box office": 115000000,
+    "Rating": 5.2
   },
   "Return to Never Land": {
     "name": "Return to Never Land",
@@ -9378,7 +9515,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 80000000,
-    "Box office": 273100000
+    "Box office": 273100000,
+    "Rating": 7.2
   },
   "The Country Bears": {
     "name": "The Country Bears",
@@ -9410,12 +9548,12 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 35000000,
-    "Box office": 18000000
+    "Box office": 18000000,
+    "Rating": 4.2
   },
   "Spirited Away": {
     "name": "Spirited Away",
     "link": "https://en.wikipedia.org/wiki/Spirited_Away",
-    "Japanese": "\u5343\u3068\u5343\u5c0b\u306e\u795e\u96a0\u3057",
     "Hepburn": "Sen to Chihiro no Kamikakushi",
     "Directed by": "Hayao Miyazaki",
     "Produced by": "Toshio Suzuki",
@@ -9426,7 +9564,7 @@
       "Mari Natsuki",
       "Takeshi Naito",
       "Yasuko Sawaguchi",
-      "Tsunehiko Kamij\u014d",
+      "Tsunehiko Kamij",
       "Takehiko Ono",
       "Bunta Sugawara"
     ],
@@ -9440,7 +9578,8 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": 15000000,
-    "Box office": 383400000
+    "Box office": 383400000,
+    "Rating": 8.6
   },
   "Tuck Everlasting (2002 film)": {
     "name": "Tuck Everlasting ",
@@ -9531,7 +9670,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 65000000,
-    "Box office": 172900000
+    "Box office": 172900000,
+    "Rating": 5.6
   },
   "Treasure Planet": {
     "name": "Treasure Planet",
@@ -9583,7 +9723,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 140000000,
-    "Box office": 109600000
+    "Box office": 109600000,
+    "Rating": 7.2
   },
   "The Jungle Book 2": {
     "name": "The Jungle Book 2",
@@ -9627,7 +9768,8 @@
     ],
     "Language": "English",
     "Budget": 20000000,
-    "Box office": 135700000
+    "Box office": 135700000,
+    "Rating": 5.4
   },
   "Piglet's Big Movie": {
     "name": "Piglet's Big Movie",
@@ -9675,7 +9817,8 @@
     "Country": "United States ",
     "Language": "English",
     "Budget": 46000000,
-    "Box office": 62900000
+    "Box office": 62900000,
+    "Rating": 6.2
   },
   "Ghosts of the Abyss": {
     "name": "Ghosts of the Abyss",
@@ -9719,7 +9862,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 13000000,
-    "Box office": 28700000
+    "Box office": 28700000,
+    "Rating": 6.8
   },
   "Holes (film)": {
     "name": "Holes ",
@@ -9786,7 +9930,7 @@
       "Jake Thomas"
     ],
     "Music by": "Cliff Eidelman",
-    "Cinematography": "Jerzy Zieli\u0144ski",
+    "Cinematography": "Jerzy Zieliski",
     "Edited by": "Margie Goodspeed",
     "Production companies": [
       "Walt Disney Pictures",
@@ -9798,7 +9942,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 17000000,
-    "Box office": 55500000
+    "Box office": 55500000,
+    "Rating": 5.5
   },
   "Finding Nemo": {
     "name": "Finding Nemo",
@@ -9833,7 +9978,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 94000000,
-    "Box office": 940300000
+    "Box office": 940300000,
+    "Rating": 8.1
   },
   "Pirates of the Caribbean: The Curse of the Black Pearl": {
     "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -9882,7 +10028,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 140000000,
-    "Box office": 654300000
+    "Box office": 654300000,
+    "Rating": 8.0
   },
   "Freaky Friday (2003 film)": {
     "name": "Freaky Friday ",
@@ -9969,7 +10116,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 46000000,
-    "Box office": 250400000
+    "Box office": 250400000,
+    "Rating": 6.8
   },
   "The Haunted Mansion (film)": {
     "name": "The Haunted Mansion ",
@@ -10038,12 +10186,13 @@
     "Running time": 50,
     "Country": "United States",
     "Language": "English",
-    "Box office": 9000000
+    "Box office": 9000000,
+    "Rating": 5.6
   },
   "Teacher's Pet (2004 film)": {
     "name": "Teacher's Pet ",
     "link": "https://en.wikipedia.org/wiki/Teacher%27s_Pet_(2004_film)",
-    "Directed by": "Timothy Bj\u00f6rklund",
+    "Directed by": "Timothy Bjrklund",
     "Produced by": "Stephen Swofford",
     "Screenplay by": [
       "Bill Steinkellner",
@@ -10148,7 +10297,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 15000000,
-    "Box office": 33100000
+    "Box office": 33100000,
+    "Rating": 4.7
   },
   "Home on the Range (2004 film)": {
     "name": "Home on the Range ",
@@ -10251,7 +10401,7 @@
     "Starring": [
       "Jackie Chan",
       "Steve Coogan",
-      "C\u00e9cile de France",
+      "Ccile de France",
       "Jim Broadbent",
       "Karen Mok"
     ],
@@ -10323,7 +10473,7 @@
       "Anne Hathaway",
       "Heather Matarazzo",
       "John Rhys-Davies",
-      "H\u00e9ctor Elizondo",
+      "Hctor Elizondo",
       "Julie Andrews",
       "Chris Pine",
       "Raven-Symone"
@@ -10342,7 +10492,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 45000000,
-    "Box office": 134700000
+    "Box office": 134700000,
+    "Rating": 5.8
   },
   "The Incredibles": {
     "name": "The Incredibles",
@@ -10357,7 +10508,7 @@
       "Spencer Fox",
       "Jason Lee",
       "Samuel L. Jackson",
-      "Elizabeth Pe\u00f1a"
+      "Elizabeth Pe1a"
     ],
     "Music by": "Michael Giacchino",
     "Cinematography": [
@@ -10376,7 +10527,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 92000000,
-    "Box office": 633000000
+    "Box office": 633000000,
+    "Rating": 8.0
   },
   "National Treasure (film)": {
     "name": "National Treasure ",
@@ -10461,7 +10613,8 @@
     "Running time": 100,
     "Country": "United States",
     "Language": "English",
-    "Box office": 9000000
+    "Box office": 9000000,
+    "Rating": 6.4
   },
   "Pooh's Heffalump Movie": {
     "name": "Pooh's Heffalump Movie",
@@ -10496,7 +10649,8 @@
     "Country": "United States ",
     "Language": "English",
     "Budget": 20000000,
-    "Box office": 52900000
+    "Box office": 52900000,
+    "Rating": 6.4
   },
   "The Pacifier": {
     "name": "The Pacifier",
@@ -10533,7 +10687,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 56000000,
-    "Box office": 198600000
+    "Box office": 198600000,
+    "Rating": 5.6
   },
   "Ice Princess": {
     "name": "Ice Princess",
@@ -10562,7 +10717,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 25000000,
-    "Box office": 27600000
+    "Box office": 27600000,
+    "Rating": 6.0
   },
   "Herbie: Fully Loaded": {
     "name": "Herbie: Fully Loaded",
@@ -10609,7 +10765,6 @@
   "Howl's Moving Castle (film)": {
     "name": "Howl's Moving Castle ",
     "link": "https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)",
-    "Japanese": "\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce",
     "Hepburn": "Hauru no Ugoku Shiro",
     "Directed by": "Hayao Miyazaki ",
     "Produced by": "Toshio Suzuki ",
@@ -10747,7 +10902,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 25000000,
-    "Box office": 15400000
+    "Box office": 15400000,
+    "Rating": 7.4
   },
   "Chicken Little (2005 film)": {
     "name": "Chicken Little ",
@@ -10835,7 +10991,8 @@
     ],
     "Language": "English",
     "Budget": 180000000,
-    "Box office": 745000000
+    "Box office": 745000000,
+    "Rating": 6.9
   },
   "Glory Road (film)": {
     "name": "Glory Road ",
@@ -10891,7 +11048,7 @@
     "Narrated by": "Paul Newman (introduction only)",
     "Music by": [
       "Philip Glass",
-      "Sigur R\u00f3s"
+      "Sigur Rs"
     ],
     "Cinematography": "T.C. Christensen",
     "Edited by": "Nancy Baker",
@@ -10906,7 +11063,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 1000000,
-    "Box office": 11000000
+    "Box office": 11000000,
+    "Rating": 7.2
   },
   "Eight Below": {
     "name": "Eight Below",
@@ -10918,7 +11076,7 @@
     ],
     "Screenplay by": "David DiGillio",
     "Based on": [
-      "Toshir\u00f4 Ishid\u00f4",
+      "Toshir Ishid",
       "Koreyoshi Kurahara",
       "Tatsuo Nogami",
       "Susumu Saji"
@@ -10944,7 +11102,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 40000000,
-    "Box office": 120500000
+    "Box office": 120500000,
+    "Rating": 7.3
   },
   "The Shaggy Dog (2006 film)": {
     "name": "The Shaggy Dog ",
@@ -11039,7 +11198,8 @@
     ],
     "Language": "English",
     "Budget": 80000000,
-    "Box office": 102300000
+    "Box office": 102300000,
+    "Rating": 5.2
   },
   "Cars (film)": {
     "name": "Cars ",
@@ -11104,7 +11264,7 @@
       "Johnny Depp",
       "Orlando Bloom",
       "Keira Knightley",
-      "Stellan Skarsg\u00e5rd",
+      "Stellan Skarsgrd",
       "Bill Nighy",
       "Jack Davenport",
       "Kevin R. McNally",
@@ -11126,7 +11286,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 225000000,
-    "Box office": 1066000
+    "Box office": 1066000,
+    "Rating": 7.3
   },
   "Invincible (2006 film)": {
     "name": "Invincible ",
@@ -11200,7 +11361,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 26000000,
-    "Box office": 91500000
+    "Box office": 91500000,
+    "Rating": 8.0
   },
   "The Santa Clause 3: The Escape Clause": {
     "name": "The Santa Clause 3: The Escape Clause",
@@ -11247,12 +11409,13 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 12000000,
-    "Box office": 110800000
+    "Box office": 110800000,
+    "Rating": 4.8
   },
   "Bridge to Terabithia (2007 film)": {
     "name": "Bridge to Terabithia ",
     "link": "https://en.wikipedia.org/wiki/Bridge_to_Terabithia_(2007_film)",
-    "Directed by": "G\u00e1bor Csup\u00f3",
+    "Directed by": "Gbor Csup",
     "Produced by": [
       "David L. Paterson",
       "Lauren Levine",
@@ -11340,7 +11503,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 150000000,
-    "Box office": 169300000
+    "Box office": 169300000,
+    "Rating": 6.8
   },
   "Pirates of the Caribbean: At World's End": {
     "name": "Pirates of the Caribbean: At World's End",
@@ -11363,7 +11527,7 @@
       "Johnny Depp",
       "Orlando Bloom",
       "Keira Knightley",
-      "Stellan Skarsg\u00e5rd",
+      "Stellan Skarsgrd",
       "Bill Nighy",
       "Chow Yun-fat",
       "Geoffrey Rush",
@@ -11387,7 +11551,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 300000000,
-    "Box office": 961000000
+    "Box office": 961000000,
+    "Rating": 7.1
   },
   "Ratatouille (film)": {
     "name": "Ratatouille ",
@@ -11495,7 +11660,8 @@
     ],
     "Release date": "2007-08-28",
     "Running time": 87,
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.8
   },
   "The Game Plan (film)": {
     "name": "The Game Plan ",
@@ -11630,7 +11796,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 130000000,
-    "Box office": 459200000
+    "Box office": 459200000,
+    "Rating": 6.5
   },
   "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert": {
     "name": "Hannah Montana and Miley Cyrus: Best of Both Worlds Concert",
@@ -11677,7 +11844,7 @@
     ],
     "Starring": [
       "Martin Lawrence",
-      "Raven-Symon\u00e9",
+      "Raven-Symon",
       "Donny Osmond"
     ],
     "Music by": "Edward Shearmur",
@@ -11697,7 +11864,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 25000000,
-    "Box office": 51500000
+    "Box office": 51500000,
+    "Rating": 4.3
   },
   "The Chronicles of Narnia: Prince Caspian": {
     "name": "The Chronicles of Narnia: Prince Caspian",
@@ -11739,7 +11907,8 @@
     ],
     "Language": "English",
     "Budget": 225000000,
-    "Box office": 419700000
+    "Box office": 419700000,
+    "Rating": 6.5
   },
   "WALL-E": {
     "name": "WALL-E",
@@ -11788,7 +11957,7 @@
       "David Hoberman",
       "Todd Lieberman",
       "John Jacobs",
-      "Ricardo Del R\u00edo"
+      "Ricardo Del Ro"
     ],
     "Screenplay by": [
       "Analisa LaBianco",
@@ -11799,12 +11968,12 @@
       "Piper Perabo",
       "Manolo Cardona",
       "Jamie Lee Curtis",
-      "Andy Garc\u00eda",
+      "Andy Garca",
       "George Lopez",
       "Drew Barrymore"
     ],
     "Music by": "Heitor Pereira",
-    "Cinematography": "Phil M\u00e9heux",
+    "Cinematography": "Phil Mheux",
     "Edited by": "Sabrina Plisco",
     "Production companies": [
       "Walt Disney Pictures",
@@ -11820,7 +11989,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 20000000,
-    "Box office": 149300000
+    "Box office": 149300000,
+    "Rating": 3.8
   },
   "Morning Light (film)": {
     "name": "Morning Light ",
@@ -11875,7 +12045,7 @@
       "Bart Johnson"
     ],
     "Music by": "David Lawrence",
-    "Cinematography": "Daniel Arany\u00f2",
+    "Cinematography": "Daniel Arany",
     "Edited by": "Don Brochu",
     "Production companies": [
       "Walt Disney Pictures",
@@ -11887,7 +12057,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 11000000,
-    "Box office": 252900000
+    "Box office": 252900000,
+    "Rating": 4.8
   },
   "Bolt (2008 film)": {
     "name": "Bolt ",
@@ -11971,8 +12142,6 @@
   "The Secret of the Magic Gourd (2007 film)": {
     "name": "The Secret of the Magic Gourd ",
     "link": "https://en.wikipedia.org/wiki/The_Secret_of_the_Magic_Gourd_(2007_film)",
-    "Traditional": "\u9b54\u6cd5\u5357\u74dc\u7684\u79d8\u5bc6",
-    "Simplified": "\u5b9d\u846b\u82a6\u7684\u79d8\u5bc6",
     "Directed by": [
       "John Chu",
       "Frankie Chung"
@@ -11986,7 +12155,7 @@
       "John Chu",
       "Lam Kee To"
     ],
-    "Music by": "Zhang Hanyun - \" One Dream \" , Simplified Chinese= \u5f35\u542b\u97fb\u300a\u4e00\u4eba\u4e00\u5922\u300b",
+    "Music by": "Zhang Hanyun - \" One Dream \" ",
     "Edited by": "Angie Lam",
     "Production companies": [
       "Walt Disney Pictures",
@@ -12033,7 +12202,8 @@
     "Running time": 76,
     "Country": "United States",
     "Language": "English",
-    "Box office": 23100000
+    "Box office": 23100000,
+    "Rating": 1.6
   },
   "Race to Witch Mountain": {
     "name": "Race to Witch Mountain",
@@ -12054,7 +12224,7 @@
       "Dwayne Johnson",
       "AnnaSophia Robb",
       "Carla Gugino",
-      "Ciar\u00e1n Hinds",
+      "Ciarn Hinds",
       "Alexander Ludwig",
       "Tom Everett Scott",
       "Chris Marquette"
@@ -12075,7 +12245,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 50000000,
-    "Box office": 106400000
+    "Box office": 106400000,
+    "Rating": 5.7
   },
   "Hannah Montana: The Movie": {
     "name": "Hannah Montana: The Movie",
@@ -12119,7 +12290,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 30000000,
-    "Box office": 170000000
+    "Box office": 170000000,
+    "Rating": 4.5
   },
   "Earth (2007 film)": {
     "name": "Earth ",
@@ -12246,7 +12418,7 @@
     "Starring": [
       "Sam Rockwell",
       "Tracy Morgan",
-      "Pen\u00e9lope Cruz",
+      "Penelope Cruz",
       "Jon Favreau",
       "Nicolas Cage",
       "Steve Buscemi",
@@ -12275,7 +12447,6 @@
   "Ponyo": {
     "name": "Ponyo",
     "link": "https://en.wikipedia.org/wiki/Ponyo",
-    "Japanese": "\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7",
     "Hepburn": "Gake no Ue no Ponyo",
     "Directed by": "Hayao Miyazaki",
     "Produced by": "Toshio Suzuki",
@@ -12288,7 +12459,7 @@
     "Starring": [
       "Tomoko Yamaguchi",
       "Kazushige Nagashima",
-      "Y\u016bki Amami",
+      "Yuki Amami",
       "George Tokoro",
       "Yuria Nara",
       "Hiroki Doi",
@@ -12307,7 +12478,8 @@
     "Country": "Japan",
     "Language": "Japanese",
     "Budget": 45620690,
-    "Box office": 203200000
+    "Box office": 203200000,
+    "Rating": 7.7
   },
   "Walt & El Grupo": {
     "name": "Walt & El Grupo",
@@ -12321,7 +12493,8 @@
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "2008-01-01",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.5
   },
   "The Book of Masters": {
     "name": "The Book of Masters",
@@ -12348,7 +12521,8 @@
     "Country": "Russia",
     "Language": "Russian",
     "Budget": 8000000,
-    "Box office": 11300000
+    "Box office": 11300000,
+    "Rating": 6.3
   },
   "A Christmas Carol (2009 film)": {
     "name": "A Christmas Carol ",
@@ -12482,7 +12656,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 105000000,
-    "Box office": 269000000
+    "Box office": 269000000,
+    "Rating": 7.1
   },
   "Alice in Wonderland (2010 film)": {
     "name": "Alice in Wonderland ",
@@ -12549,10 +12724,10 @@
       "Christophe Cheysson",
       "Jacques Cluzaud",
       "Laurent Debas",
-      "St\u00e9phane Durand",
-      "Laurent Gaud\u00e9",
+      "Stephane Durand",
+      "Laurent Gaude",
       "Jacques Perrin",
-      "Fran\u00e7ois Sarano"
+      "Francois Sarano"
     ],
     "Narrated by": [
       "Jacques Perrin",
@@ -12567,17 +12742,17 @@
       "Vincent Schmidt"
     ],
     "Production companies": [
-      "Path\u00e9",
+      "Pathe",
       "Participant Media",
-      "Galat\u00e9e Films",
-      "France 2 Cin\u00e9ma",
-      "France 3 Cin\u00e9ma",
+      "Galatee Films",
+      "France 2 Cinema",
+      "France 3 Cinema",
       "Canal+",
       "TPS Star",
       "Alfred P. Sloan Foundation",
       "Census of Marine Life"
     ],
-    "Distributed by": "Path\u00e9 Distribution",
+    "Distributed by": "Path Distribution",
     "Release date": "2009-10-17",
     "Running time": 104,
     "Country": "France",
@@ -12672,7 +12847,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 1067000
+    "Box office": 1067000,
+    "Rating": 8.2
   },
   "The Sorcerer's Apprentice (2010 film)": {
     "name": "The Sorcerer's Apprentice ",
@@ -12724,15 +12900,14 @@
   "Tales from Earthsea (film)": {
     "name": "Tales from Earthsea ",
     "link": "https://en.wikipedia.org/wiki/Tales_from_Earthsea_(film)",
-    "Japanese": "\u30b2\u30c9\u6226\u8a18",
     "Hepburn": "Gedo Senki",
-    "Directed by": "Gor\u014d Miyazaki",
+    "Directed by": "Gor Miyazaki",
     "Produced by": [
       "Toshio Suzuki",
       "Tomohiko Ishii"
     ],
     "Screenplay by": [
-      "Gor\u014d Miyazaki",
+      "Gor Miyazaki",
       "Keiko Niwa"
     ],
     "Based on": [
@@ -12747,7 +12922,7 @@
       "Bunta Sugawara",
       "Junichi Okada",
       "Aoi Teshima",
-      "Y\u016bko Tanaka"
+      "Yuko Tanaka"
     ],
     "Music by": "Tamiya Terashima",
     "Edited by": "Takeshi Seyama",
@@ -12759,7 +12934,7 @@
       "Toho",
       "(Japan)",
       "Walt Disney Studios Motion Pictures",
-      "(North Am\u00e9rica)"
+      "(North America)"
     ],
     "Release date": "2006-07-29",
     "Running time": 115,
@@ -12808,7 +12983,8 @@
       "United Kingdom",
       "United States"
     ],
-    "Language": "English"
+    "Language": "English",
+    "Rating": 7.4
   },
   "Secretariat (film)": {
     "name": "Secretariat ",
@@ -12878,7 +13054,8 @@
     "Release date": "2010-10-10",
     "Running time": 108,
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Rating": 7.6
   },
   "Tangled": {
     "name": "Tangled",
@@ -12913,7 +13090,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 260000000,
-    "Box office": 592400000
+    "Box office": 592400000,
+    "Rating": 7.7
   },
   "The Boys: The Sherman Brothers' Story": {
     "name": "The Boys: The Sherman Brothers' Story",
@@ -13015,7 +13193,7 @@
       "Baby Harshitha"
     ],
     "Music by": [
-      "Salim\u2013Sulaiman",
+      "Salim Sulaiman",
       "M. M. Keeravani",
       "Koti",
       "Mickey J Meyer",
@@ -13100,7 +13278,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 150000000,
-    "Box office": 39200000
+    "Box office": 39200000,
+    "Rating": 5.4
   },
   "Zokkomon": {
     "name": "Zokkomon",
@@ -13132,7 +13311,8 @@
     "Release date": "2011-04-04",
     "Running time": 109,
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Rating": 4.0
   },
   "African Cats": {
     "name": "African Cats",
@@ -13170,7 +13350,8 @@
       "French"
     ],
     "Budget": 5000000,
-    "Box office": 30900000
+    "Box office": 30900000,
+    "Rating": 7.6
   },
   "Prom (film)": {
     "name": "Prom ",
@@ -13225,7 +13406,7 @@
     ],
     "Starring": [
       "Johnny Depp",
-      "Pen\u00e9lope Cruz",
+      "Penlope Cruz",
       "Ian McShane",
       "Kevin R. McNally",
       "Geoffrey Rush"
@@ -13249,7 +13430,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 789100000,
-    "Box office": 1046000
+    "Box office": 1046000,
+    "Rating": 6.6
   },
   "Cars 2": {
     "name": "Cars 2",
@@ -13289,7 +13471,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 562100000
+    "Box office": 562100000,
+    "Rating": 6.1
   },
   "Winnie the Pooh (2011 film)": {
     "name": "Winnie the Pooh ",
@@ -13391,7 +13574,6 @@
   "Arrietty": {
     "name": "Arrietty",
     "link": "https://en.wikipedia.org/wiki/Arrietty",
-    "Japanese": "\u501f\u308a\u3050\u3089\u3057\u306e\u30a2\u30ea\u30a8\u30c3\u30c6\u30a3",
     "Hepburn": "Kari-gurashi no Arietti",
     "Directed by": "Hiromasa Yonebayashi",
     "Produced by": "Toshio Suzuki",
@@ -13413,7 +13595,7 @@
       "Tomokazu Miura",
       "Kirin Kiki"
     ],
-    "Music by": "C\u00e9cile Corbel",
+    "Music by": "Ccile Corbel",
     "Cinematography": "Atsushi Okui",
     "Edited by": [
       "Keiko Kadokawa",
@@ -13454,7 +13636,7 @@
       "Lynn Collins",
       "Samantha Morton",
       "Mark Strong",
-      "Ciar\u00e1n Hinds",
+      "Ciarn Hinds",
       "Dominic West",
       "James Purefoy",
       "Willem Dafoe"
@@ -13544,7 +13726,8 @@
     "Release date": "2012-05-05",
     "Running time": 96,
     "Country": "India",
-    "Language": "Hindi"
+    "Language": "Hindi",
+    "Rating": 6.8
   },
   "Brave (2012 film)": {
     "name": "Brave ",
@@ -13628,7 +13811,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 25000000,
-    "Box office": 56000000
+    "Box office": 56000000,
+    "Rating": 6.6
   },
   "Frankenweenie (2012 film)": {
     "name": "Frankenweenie ",
@@ -13708,7 +13892,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 165000000,
-    "Box office": 471200000
+    "Box office": 471200000,
+    "Rating": 7.7
   },
   "Oz the Great and Powerful": {
     "name": "Oz the Great and Powerful",
@@ -13751,7 +13936,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 493300000
+    "Box office": 493300000,
+    "Rating": 6.3
   },
   "Wings of Life": {
     "name": "Wings of Life",
@@ -13762,7 +13948,7 @@
       "Alix Tidmarsh"
     ],
     "Narrated by": [
-      "M\u00e9lanie Laurent",
+      "Mlanie Laurent",
       "(France)",
       "Meryl Streep",
       "(United States)"
@@ -13834,7 +14020,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 743600000
+    "Box office": 743600000,
+    "Rating": 7.3
   },
   "The Lone Ranger (2013 film)": {
     "name": "The Lone Ranger ",
@@ -14024,7 +14211,8 @@
     ],
     "Language": "English",
     "Budget": 35000000,
-    "Box office": 117900000
+    "Box office": 117900000,
+    "Rating": 7.5
   },
   "Muppets Most Wanted": {
     "name": "Muppets Most Wanted",
@@ -14057,7 +14245,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 51000000,
-    "Box office": 80400000
+    "Box office": 80400000,
+    "Rating": 6.4
   },
   "Bears (film)": {
     "name": "Bears ",
@@ -14122,7 +14311,8 @@
       "Hindi"
     ],
     "Budget": 25000000,
-    "Box office": 39200000
+    "Box office": 39200000,
+    "Rating": 7.0
   },
   "Maleficent (film)": {
     "name": "Maleficent ",
@@ -14197,7 +14387,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 50000000,
-    "Box office": 147000000
+    "Box office": 147000000,
+    "Rating": 6.0
   },
   "Khoobsurat (2014 film)": {
     "name": "Khoobsurat ",
@@ -14399,7 +14590,7 @@
       "Maria Bello",
       "Morgan Saylor"
     ],
-    "Music by": "Ant\u00f4nio Pinto",
+    "Music by": "Antnio Pinto",
     "Cinematography": "Adam Arkapaw",
     "Edited by": "David Coulson",
     "Production companies": [
@@ -14415,7 +14606,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 17000000,
-    "Box office": 45700000
+    "Box office": 45700000,
+    "Rating": 7.4
   },
   "Cinderella (2015 Disney film)": {
     "name": "Cinderella ",
@@ -14435,7 +14627,7 @@
       "Cate Blanchett",
       "Lily James",
       "Richard Madden",
-      "Stellan Skarsg\u00e5rd",
+      "Stellan Skarsgrd",
       "Holliday Grainger",
       "Derek Jacobi",
       "Helena Bonham Carter"
@@ -14491,7 +14683,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 5000000,
-    "Box office": 17100000
+    "Box office": 17100000,
+    "Rating": 7.3
   },
   "Tomorrowland (film)": {
     "name": "Tomorrowland ",
@@ -14609,7 +14802,7 @@
       "Punit Pathak",
       "Dharmesh Yelande"
     ],
-    "Music by": "Sachin\u2013Jigar",
+    "Music by": "Sachin Jigar",
     "Cinematography": "Vijay Kumar Arora",
     "Edited by": "Manan Sagar",
     "Production company": "Walt Disney Pictures",
@@ -14666,7 +14859,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 175000000,
-    "Box office": 332200000
+    "Box office": 332200000,
+    "Rating": 6.7
   },
   "The Finest Hours (2016 film)": {
     "name": "The Finest Hours ",
@@ -14772,7 +14966,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 150000000,
-    "Box office": 1024000
+    "Box office": 1024000,
+    "Rating": 8.0
   },
   "The Jungle Book (2016 film)": {
     "name": "The Jungle Book ",
@@ -14822,16 +15017,16 @@
     "link": "https://en.wikipedia.org/wiki/Tini:_The_Movie",
     "Directed by": "Juan Pablo Buscarini",
     "Produced by": "Pablo Bossi",
-    "Written by": "Ram\u00f3n Salazar",
+    "Written by": "Ramn Salazar",
     "Starring": [
       "Martina Stoessel",
       "Jorge Blanco",
       "Mercedes Lambre",
       "Clara Alonso",
-      "Adri\u00e1n Salzedo",
+      "Adrin Salzedo",
       "Diego Ramos",
       "Sofia Carson",
-      "\u00c1ngela Molina"
+      "ngela Molina"
     ],
     "Music by": "Federico Jusid",
     "Cinematography": "Josu Inchaustegui",
@@ -14938,7 +15133,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 175000000,
-    "Box office": 1028999
+    "Box office": 1028999,
+    "Rating": 7.3
   },
   "The BFG (2016 film)": {
     "name": "The BFG ",
@@ -14965,7 +15161,7 @@
       "Bill Hader"
     ],
     "Music by": "John Williams",
-    "Cinematography": "Janusz Kami\u0144ski",
+    "Cinematography": "Janusz Kamiski",
     "Edited by": "Michael Kahn",
     "Production companies": [
       "Walt Disney Pictures  ",
@@ -15072,7 +15268,8 @@
       "Luganda"
     ],
     "Budget": 15000000,
-    "Box office": 10400000
+    "Box office": 10400000,
+    "Rating": 7.4
   },
   "Moana (2016 film)": {
     "name": "Moana ",
@@ -15093,7 +15290,7 @@
       "John Musker"
     ],
     "Starring": [
-      "Auli\u02bbi Cravalho",
+      "Aulii Cravalho",
       "Dwayne Johnson",
       "Rachel House",
       "Temuera Morrison",
@@ -15190,12 +15387,12 @@
       "Sharon Cuneta ( Filipino )"
     ],
     "Music by": [
-      "\u00c9milie Simon (France)",
+      "milie Simon (France)",
       "Alex Wurman (US)"
     ],
     "Cinematography": [
       "Laurent Chalet",
-      "J\u00e9r\u00f4me Maison"
+      "Jrme Maison"
     ],
     "Edited by": "Sabine Emiliani",
     "Production companies": [
@@ -15209,7 +15406,8 @@
     "Country": "France",
     "Language": "French",
     "Budget": 8000000,
-    "Box office": 127400000
+    "Box office": 127400000,
+    "Rating": 7.5
   },
   "Beauty and the Beast (2017 film)": {
     "name": "Beauty and the Beast ",
@@ -15261,8 +15459,6 @@
   "Born in China": {
     "name": "Born in China",
     "link": "https://en.wikipedia.org/wiki/Born_in_China",
-    "Traditional": "\u6211\u5011\u8a95\u751f\u5728\u4e2d\u570b",
-    "Simplified": "\u6211\u4eec\u8bde\u751f\u5728\u4e2d\u56fd",
     "Directed by": "Lu Chuan",
     "Produced by": [
       "Roy Conli",
@@ -15310,13 +15506,14 @@
       "French"
     ],
     "Budget": 5000000,
-    "Box office": 25100000
+    "Box office": 25100000,
+    "Rating": 7.2
   },
   "Pirates of the Caribbean: Dead Men Tell No Tales": {
     "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
     "link": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales",
     "Directed by": [
-      "Joachim R\u00f8nning",
+      "Joachim Rnning",
       "Espen Sandberg"
     ],
     "Produced by": "Jerry Bruckheimer",
@@ -15356,7 +15553,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 230000000,
-    "Box office": 794900000
+    "Box office": 794900000,
+    "Rating": 6.5
   },
   "Cars 3": {
     "name": "Cars 3",
@@ -15404,7 +15602,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 175000000,
-    "Box office": 383900000
+    "Box office": 383900000,
+    "Rating": 6.7
   },
   "Ghost of the Mountains": {
     "name": "Ghost of the Mountains",
@@ -15420,7 +15619,8 @@
     "Distributed by": "Walt Disney Studios Motion Pictures",
     "Release date": "2017-06-30",
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.9
   },
   "Jagga Jasoos": {
     "name": "Jagga Jasoos",
@@ -15465,7 +15665,8 @@
     "Country": "India",
     "Language": "Hindi",
     "Budget": 17403350,
-    "Box office": 11026550
+    "Box office": 11026550,
+    "Rating": 6.5
   },
   "Coco (2017 film)": {
     "name": "Coco ",
@@ -15484,11 +15685,11 @@
     ],
     "Starring": [
       "Anthony Gonzalez",
-      "Gael Garc\u00eda Bernal",
+      "Gael Garca Bernal",
       "Benjamin Bratt",
       "Alanna Ubach",
-      "Ren\u00e9e Victor",
-      "Ana Ofelia Murgu\u00eda",
+      "Rene Victor",
+      "Ana Ofelia Murgua",
       "Edward James Olmos"
     ],
     "Music by": "Michael Giacchino ",
@@ -15536,7 +15737,7 @@
       "Storm Reid",
       "Levi Miller",
       "Gugu Mbatha-Raw",
-      "Michael Pe\u00f1a",
+      "Michael Pea",
       "Zach Galifianakis",
       "Chris Pine"
     ],
@@ -15596,7 +15797,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 1243000
+    "Box office": 1243000,
+    "Rating": 7.6
   },
   "Christopher Robin (film)": {
     "name": "Christopher Robin ",
@@ -15630,10 +15832,10 @@
       "Jon Brion"
     ],
     "Cinematography": "Matthias Koenigswieser",
-    "Edited by": "Matt Chess\u00e9",
+    "Edited by": "Matt Chess",
     "Production companies": [
       "Walt Disney Pictures",
-      "2DUX\u00b2"
+      "2DUX"
     ],
     "Distributed by": [
       "Walt Disney Studios",
@@ -15650,7 +15852,7 @@
     "name": "The Nutcracker and the Four Realms",
     "link": "https://en.wikipedia.org/wiki/The_Nutcracker_and_the_Four_Realms",
     "Directed by": [
-      "Lasse Hallstr\u00f6m",
+      "Lasse Hallstrom",
       "Joe Johnston"
     ],
     "Produced by": [
@@ -15686,7 +15888,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 120000000,
-    "Box office": 174000000
+    "Box office": 174000000,
+    "Rating": 5.6
   },
   "Ralph Breaks the Internet": {
     "name": "Ralph Breaks the Internet",
@@ -15734,7 +15937,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 175000000,
-    "Box office": 529299999
+    "Box office": 529299999,
+    "Rating": 7.0
   },
   "Mary Poppins Returns": {
     "name": "Mary Poppins Returns",
@@ -15785,7 +15989,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 130000000,
-    "Box office": 349500000
+    "Box office": 349500000,
+    "Rating": 6.7
   },
   "Dumbo (2019 film)": {
     "name": "Dumbo ",
@@ -15961,7 +16166,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 200000000,
-    "Box office": 1073000
+    "Box office": 1073000,
+    "Rating": 7.8
   },
   "The Lion King (2019 film)": {
     "name": "The Lion King ",
@@ -15982,7 +16188,7 @@
       "Billy Eichner",
       "John Kani",
       "John Oliver",
-      "Beyonc\u00e9 Knowles-Carter",
+      "Beyoncé Knowles-Carter",
       "James Earl Jones"
     ],
     "Music by": "Hans Zimmer",
@@ -16009,7 +16215,7 @@
   "Maleficent: Mistress of Evil": {
     "name": "Maleficent: Mistress of Evil",
     "link": "https://en.wikipedia.org/wiki/Maleficent:_Mistress_of_Evil",
-    "Directed by": "Joachim R\u00f8nning",
+    "Directed by": "Joachim Rnning",
     "Produced by": [
       "Joe Roth",
       "Angelina Jolie",
@@ -16054,7 +16260,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 185000000,
-    "Box office": 491700000
+    "Box office": 491700000,
+    "Rating": 6.6
   },
   "Lady and the Tramp (2019 film)": {
     "name": "Lady and the Tramp ",
@@ -16078,7 +16285,7 @@
       "Justin Theroux",
       "Kiersey Clemons",
       "Thomas Mann",
-      "Janelle Mon\u00e1e",
+      "Janelle Mone",
       "F. Murray Abraham",
       "Yvette Nicole Brown",
       "Adrian Martinez",
@@ -16171,7 +16378,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 150000000,
-    "Box office": 1450000
+    "Box office": 1450000,
+    "Rating": 6.9
   },
   "Togo (film)": {
     "name": "Togo ",
@@ -16229,7 +16437,8 @@
     "Running time": 99,
     "Country": "United States",
     "Language": "English",
-    "Budget": 42000000
+    "Budget": 42000000,
+    "Rating": 6.1
   },
   "Onward (film)": {
     "name": "Onward ",
@@ -16424,7 +16633,7 @@
     ],
     "Starring": [
       "Daveed Diggs",
-      "Ren\u00e9e Elise Goldsberry",
+      "Rene Elise Goldsberry",
       "Jonathan Groff",
       "Christopher Jackson",
       "Jasmine Cephas Jones",
@@ -16455,7 +16664,7 @@
     "name": "Black Is King",
     "link": "https://en.wikipedia.org/wiki/Black_Is_King",
     "Directed by": [
-      "Beyonc\u00e9 Knowles-Carter",
+      "Beyoncé Knowles-Carter",
       "Kwasi Fordjour",
       "Emmanuel Adjei",
       "Blitz Bazawule",
@@ -16489,7 +16698,7 @@
       "Erinn Williams"
     ],
     "Written by": [
-      "Beyonc\u00e9 Knowles-Carter ",
+      "Beyoncé Knowles-Carter ",
       "Yrsa Daley-Ward ",
       "Clover Hope ",
       "Andrew Morrow "
@@ -16499,7 +16708,7 @@
       "The Lion King"
     ],
     "Starring": [
-      "Beyonc\u00e9",
+      "Beyoncé",
       "Folajomi Akinmurele",
       "Connie Chiume",
       "Nyaniso Ntsikelelo Dzedze",
@@ -16543,7 +16752,8 @@
     "Release date": "2020-07-31",
     "Running time": 85,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 5.5
   },
   "Magic Camp (film)": {
     "name": "Magic Camp ",
@@ -16610,7 +16820,7 @@
       "Angelina Jolie",
       "Danny DeVito",
       "Helen Mirren",
-      "Ram\u00f3n Rodr\u00edguez",
+      "Ramn Rodrguez",
       "Ariana Greenblatt",
       "Bryan Cranston"
     ],
@@ -16698,7 +16908,8 @@
     "Release date": "2020-12-04",
     "Running time": 113,
     "Country": "United States",
-    "Language": "English"
+    "Language": "English",
+    "Rating": 6.1
   },
   "Safety (2020 film)": {
     "name": "Safety ",
@@ -16866,7 +17077,8 @@
     "Country": "United States",
     "Language": "English",
     "Budget": 100000000,
-    "Box office": 97200000
+    "Box office": 97200000,
+    "Rating": 7.4
   },
   "Cruella (film)": {
     "name": "Cruella ",

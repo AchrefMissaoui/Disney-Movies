@@ -4,6 +4,7 @@ from datetime import datetime
 import json
 import Movie
 import imdb
+import csv
 
 ia = imdb.IMDb()
 LINK = 'https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films'
@@ -150,7 +151,7 @@ def clean_date_simple():
                             date_dict['y'] = int(item)
                         else : date_dict['d'] = int(item)
                     all_movies[date_item]['Release date'] = str(datetime.strptime(str(date_dict['d'])+'/'+str(date_dict['m'])+'/'+str(date_dict['y']),'%d/%m/%Y').date())
-                    print(all_movies[date_item]['Release date'])
+                    print(date_item,all_movies[date_item]['Release date'])
                 except TypeError:
                     print('error',my_release_date_string)
                 except KeyError as exception:
@@ -161,7 +162,7 @@ def clean_date_simple():
 def clean_titles():
     for movie in all_movies:
         temp = all_movies[movie]['name']
-        if ('(' and ')') in temp:
+        if '('  in temp:
             temp = temp[0:temp.find('('):]
             print(temp)
             all_movies[movie]['name'] = temp
@@ -189,5 +190,20 @@ def imdb_search():
             print('will skip', movie)
             pass
 
+def save_csv():
+    all_fields = []
+    for movie in all_movies:
+        for item in all_movies[movie]:
+            if item not in all_fields:
+                all_fields.append(item)
+    print(all_fields)
+    with open('disney_movies.csv',mode='w') as csv_file:
+        writer = csv.DictWriter(csv_file,fieldnames=all_fields)
+        writer.writeheader()
+        for item in all_movies:
+            writer.writerow(all_movies[item])
+
+
 all_movies = load_data()
-imdb_search()
+save_csv()
+
