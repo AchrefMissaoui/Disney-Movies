@@ -5,6 +5,7 @@ import json
 import Movie
 import imdb
 import csv
+from matplotlib import pyplot as plt
 
 ia = imdb.IMDb()
 LINK = 'https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films'
@@ -203,7 +204,27 @@ def save_csv():
         for item in all_movies:
             writer.writerow(all_movies[item])
 
+def plot_graph():
+    year_rating = {}
+    yearly_average={}
+    for movie in all_movies:
+        if 'Rating' in all_movies[movie] and 'Release date' in all_movies[movie]:
+            year_rating.setdefault(int(all_movies[movie]['Release date'][0:4:]), []).append(all_movies[movie]['Rating'])
+    for year in year_rating:
+        summe = 0
+        for item in year_rating[year]:
+            summe+=item
+        yearly_average[year]= summe/len(year_rating[year])
+    year = [year for year in year_rating]
+    average_rating = [yearly_average[year] for year  in yearly_average]
+
+
+    plt.plot(year,average_rating)
+    plt.ylabel('average IMDB score')
+    plt.xlabel('year')
+    plt.title('Histogram of Disney Movies IMDB ratings')
+    plt.show()
+
 
 all_movies = load_data()
-save_csv()
-
+plot_graph()
