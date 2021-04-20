@@ -1,3 +1,4 @@
+import string
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -226,5 +227,38 @@ def plot_graph():
     plt.show()
 
 
+def get_countries_rating():
+    country_list={}
+    for movie in all_movies:
+        if 'Rating' in all_movies[movie]:
+            movie_countries = []
+            try:
+                if 'Country' in all_movies[movie]:
+                    country = all_movies[movie]['Country'].replace(' ','')
+                    movie_countries.append(country)
+                if 'Countries' in all_movies[movie] and type(all_movies[movie]['Countries']) is list :
+                    movie_countries = [country.replace(' ','') for country in all_movies[movie]['Countries']]
+                    for country in movie_countries:
+                        if len(country) < 2 : movie_countries.pop(movie_countries.index(country))
+                if 'Countries' in all_movies[movie] and type(all_movies[movie]['Countries']) is str:
+                    movie_countries = all_movies[movie]['Countries'].replace(' ','').split(',',2)
+                for country in movie_countries:
+                    country_string = ''
+                    for s in country:
+                        if not s.islower():
+                            country_string+=s
+                    if len(country_string) == 1: country_string += country[1]
+                    country_list.setdefault(country_string, []).append(all_movies[movie]['Rating'])
+            except KeyError:
+                pass
+    countries = [country for country in country_list]
+    ratings = [sum(country_list[country]) / len(country_list[country]) for country in country_list]
+    plt.bar(countries,ratings)
+    plt.xlabel('counties')
+    plt.ylabel('average rating')
+    plt.title('average rating by country of filming')
+    plt.show()
+
+
 all_movies = load_data()
-plot_graph()
+get_countries_rating()
